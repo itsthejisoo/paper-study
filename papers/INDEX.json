@@ -1,0 +1,74 @@
+{
+  "entries": {
+    "2604.14604": {
+      "version": "v1",
+      "title": "Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.02958": {
+      "version": "v1",
+      "title": "Tracing the Dynamics of Refusal: Exploiting Latent Refusal Trajectories for Robust Jailbreak Detection",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.06890": {
+      "version": "v1",
+      "title": "Beyond the Black Box: Interpretability of Agentic AI Tool Use",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2604.14865": {
+      "version": "v1",
+      "title": "Segment-Level Coherence for Robust Harmful Intent Probing in LLMs",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2604.15022": {
+      "version": "v1",
+      "title": "Route to Rome Attack: Directing LLM Routers to Expensive Models via Adversarial Suffix Optimization",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.01129": {
+      "version": "v1",
+      "title": "Revisiting Privacy Leakage in Machine Unlearning: Membership Inference Beyond the Forgotten Set",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.13411": {
+      "version": "v1",
+      "title": "Model-Agnostic Lifelong LLM Safety via Externalized Attack-Defense Co-Evolution",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.03388": {
+      "version": "v1",
+      "title": "Graph Reconstruction from Differentially Private GNN Explanations",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.12225": {
+      "version": "v1",
+      "title": "Mechanistic Interpretability of ASR Models using Sparse Autoencoders",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2604.15063": {
+      "version": "v1",
+      "title": "No More Guessing: A Verifiable Gradient Inversion Attack in Federated Learning",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    }
+  }
+}
