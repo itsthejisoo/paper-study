@@ -139,6 +139,76 @@
       "first_seen": "2026-05-15",
       "last_updated": "2026-05-15",
       "folder": "2026-05-15"
+    },
+    "2605.15118": {
+      "version": "v1",
+      "title": "Talk is (Not) Cheap: A Taxonomy and Benchmark Coverage Audit for LLM Attacks",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.15030": {
+      "version": "v1",
+      "title": "WARD: Adversarially Robust Defense of Web Agents Against Prompt Injections",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.14291": {
+      "version": "v1",
+      "title": "To See is Not to Learn: Protecting Multimodal Data from Unauthorized Fine-Tuning of Large Vision-Language Model",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.13708": {
+      "version": "v1",
+      "title": "DisAgg: Distributed Aggregators for Efficient Secure Aggregation in Federated Learning",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.14271": {
+      "version": "v1",
+      "title": "Auditing Agent Harness Safety",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.15034": {
+      "version": "v1",
+      "title": "AI Knows When It's Being Watched: Functional Strategic Action and Contextual Register Modulation in Large Language Models",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.14194": {
+      "version": "v1",
+      "title": "GradShield: Alignment Preserving Finetuning",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.15188": {
+      "version": "v1",
+      "title": "FutureSim: Replaying World Events to Evaluate Adaptive Agents",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.15164": {
+      "version": "v1",
+      "title": "Position: Behavioural Assurance Cannot Verify the Safety Claims Governance Now Demands",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.14912": {
+      "version": "v1",
+      "title": "From Sycophantic Consensus to Pluralistic Repair: Why AI Alignment Must Surface Disagreement",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
     }
   }
 }
