@@ -1,0 +1,98 @@
+{
+  "entries": {
+    "2601.04603": {
+      "version": "v1",
+      "title": "Constitutional Classifiers++: Efficient Production-Grade Defenses against Universal Jailbreaks",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15",
+      "keywords": ["jailbreak", "red-teaming", "constitutional classifiers", "alignment"],
+      "category": "AI security"
+    },
+    "2604.14604": {
+      "version": "v1",
+      "title": "Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15",
+      "keywords": ["prompt injection", "adversarial attack", "audio-language model"],
+      "category": "AI security"
+    },
+    "2605.02647": {
+      "version": "v1",
+      "title": "ContextualJailbreak: Evolutionary Red-Teaming via Simulated Conversational Priming",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15",
+      "keywords": ["jailbreak", "red-teaming", "multi-turn", "evolutionary search"],
+      "category": "AI security"
+    },
+    "2605.04019": {
+      "version": "v1",
+      "title": "Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15",
+      "keywords": ["red-teaming", "agentic AI", "automated red team", "agent safety"],
+      "category": "AI security"
+    },
+    "2605.03213": {
+      "version": "v1",
+      "title": "When Agents Handle Secrets: A Survey of Confidential Computing for Agentic AI",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15",
+      "keywords": ["confidential computing", "TEE", "agentic AI", "AI privacy"],
+      "category": "AI privacy"
+    },
+    "2604.15022": {
+      "version": "v1",
+      "title": "Route to Rome Attack: Directing LLM Routers to Expensive Models via Adversarial Suffix Optimization",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15",
+      "keywords": ["adversarial attack", "LLM routing", "suffix optimization"],
+      "category": "AI security"
+    },
+    "2605.09887": {
+      "version": "v1",
+      "title": "The Geometric Wall: Manifold Structure Predicts Layerwise Sparse Autoencoder Scaling Laws",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15",
+      "keywords": ["sparse autoencoder", "SAE", "scaling laws", "mechanistic interpretability"],
+      "category": "LLM interpretability"
+    },
+    "2604.15063": {
+      "version": "v1",
+      "title": "No More Guessing: a Verifiable Gradient Inversion Attack in Federated Learning",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15",
+      "keywords": ["federated learning", "gradient inversion", "training data leakage", "AI privacy"],
+      "category": "AI privacy"
+    },
+    "2605.12225": {
+      "version": "v1",
+      "title": "Mechanistic Interpretability of ASR models using Sparse Autoencoders",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15",
+      "keywords": ["sparse autoencoder", "SAE", "mechanistic interpretability", "ASR", "Whisper"],
+      "category": "LLM interpretability"
+    },
+    "2605.06890": {
+      "version": "v1",
+      "title": "Beyond the Black Box: Interpretability of Agentic AI Tool Use",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15",
+      "keywords": ["mechanistic interpretability", "SAE", "linear probe", "agentic AI", "tool use"],
+      "category": "LLM interpretability"
+    }
+  },
+  "meta": {
+    "last_run": "2026-05-15",
+    "total_papers": 10
+  }
+}
