@@ -69,6 +69,76 @@
       "first_seen": "2026-05-15",
       "last_updated": "2026-05-15",
       "folder": "2026-05-15"
+    },
+    "2605.15172": {
+      "version": "v1",
+      "title": "MetaBackdoor: Exploiting Positional Encoding as a Backdoor Attack Surface in LLMs",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.14591": {
+      "version": "v1",
+      "title": "Privacy Auditing with Zero (0) Training Run",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.15183": {
+      "version": "v1",
+      "title": "When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.15152": {
+      "version": "v1",
+      "title": "Widening the Gap: Exploiting LLM Quantization via Outlier Injection",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.14750": {
+      "version": "v1",
+      "title": "EVA: Editing for Versatile Alignment against Jailbreaks",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.14605": {
+      "version": "v1",
+      "title": "One Step to the Side: Why Defenses Against Malicious Finetuning Fail Under Adaptive Adversaries",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.13471": {
+      "version": "v1",
+      "title": "Sleeper Channels and Provenance Gates: Persistent Prompt Injection in Always-on Autonomous AI Agents",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.15138": {
+      "version": "v1",
+      "title": "Forgetting That Sticks: Quantization-Permanent Unlearning via Circuit Attribution",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.14125": {
+      "version": "v1",
+      "title": "Polar probe linearly decodes semantic structures from LLMs",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
+    },
+    "2605.13503": {
+      "version": "v1",
+      "title": "Limits of Personalizing Differential Privacy Budgets",
+      "first_seen": "2026-05-15",
+      "last_updated": "2026-05-15",
+      "folder": "2026-05-15"
     }
   }
 }
