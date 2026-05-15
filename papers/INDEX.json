@@ -209,6 +209,76 @@
       "first_seen": "2026-05-15",
       "last_updated": "2026-05-15",
       "folder": "2026-05-15"
+    },
+    "2605.10067": {
+      "version": "v1",
+      "title": "Metis: Learning to Jailbreak LLMs via Self-Evolving Metacognitive Policy Optimization",
+      "first_seen": "2026-05-16",
+      "last_updated": "2026-05-16",
+      "folder": "2026-05-16"
+    },
+    "2605.01687": {
+      "version": "v1",
+      "title": "MultiBreak: A Scalable and Diverse Multi-turn Jailbreak Benchmark for Evaluating LLM Safety",
+      "first_seen": "2026-05-16",
+      "last_updated": "2026-05-16",
+      "folder": "2026-05-16"
+    },
+    "2605.02647": {
+      "version": "v1",
+      "title": "ContextualJailbreak: Evolutionary Red-Teaming via Simulated Conversational Priming",
+      "first_seen": "2026-05-16",
+      "last_updated": "2026-05-16",
+      "folder": "2026-05-16"
+    },
+    "2605.01555": {
+      "version": "v1",
+      "title": "Automated Interpretability and Feature Discovery in Language Models with Agents",
+      "first_seen": "2026-05-16",
+      "last_updated": "2026-05-16",
+      "folder": "2026-05-16"
+    },
+    "2605.10611": {
+      "version": "v1",
+      "title": "Re-Triggering Safeguards within LLMs for Jailbreak Detection",
+      "first_seen": "2026-05-16",
+      "last_updated": "2026-05-16",
+      "folder": "2026-05-16"
+    },
+    "2605.06610": {
+      "version": "v1",
+      "title": "SoftSAE: Dynamic Top-K Selection for Adaptive Sparse Autoencoders",
+      "first_seen": "2026-05-16",
+      "last_updated": "2026-05-16",
+      "folder": "2026-05-16"
+    },
+    "2605.05341": {
+      "version": "v1",
+      "title": "Feature Starvation as Geometric Instability in Sparse Autoencoders",
+      "first_seen": "2026-05-16",
+      "last_updated": "2026-05-16",
+      "folder": "2026-05-16"
+    },
+    "2605.06494": {
+      "version": "v1",
+      "title": "From Token Lists to Graph Motifs: Weisfeiler-Lehman Analysis of Sparse Autoencoder Features",
+      "first_seen": "2026-05-16",
+      "last_updated": "2026-05-16",
+      "folder": "2026-05-16"
+    },
+    "2605.13930": {
+      "version": "v1",
+      "title": "Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders",
+      "first_seen": "2026-05-16",
+      "last_updated": "2026-05-16",
+      "folder": "2026-05-16"
+    },
+    "2605.00974": {
+      "version": "v1",
+      "title": "SRTJ: Self-Evolving Rule-Driven Training-Free LLM Jailbreaking",
+      "first_seen": "2026-05-16",
+      "last_updated": "2026-05-16",
+      "folder": "2026-05-16"
     }
   }
 }
