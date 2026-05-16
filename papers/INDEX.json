@@ -279,6 +279,76 @@
       "first_seen": "2026-05-16",
       "last_updated": "2026-05-16",
       "folder": "2026-05-16"
+    },
+    "2605.00699": {
+      "version": "v3",
+      "title": "STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack",
+      "first_seen": "2026-05-17",
+      "last_updated": "2026-05-17",
+      "folder": "2026-05-17"
+    },
+    "2605.00625": {
+      "version": "v1",
+      "title": "Defense against Poisoning Attacks under Shuffle-DP",
+      "first_seen": "2026-05-17",
+      "last_updated": "2026-05-17",
+      "folder": "2026-05-17"
+    },
+    "2605.01047": {
+      "version": "v1",
+      "title": "LLM Ghostbusters: Surgical Hallucination Suppression via Adaptive Unlearning",
+      "first_seen": "2026-05-17",
+      "last_updated": "2026-05-17",
+      "folder": "2026-05-17"
+    },
+    "2605.00955": {
+      "version": "v1",
+      "title": "E-MIA: Exam-Style Black-Box Membership Inference Attacks against RAG Systems",
+      "first_seen": "2026-05-17",
+      "last_updated": "2026-05-17",
+      "folder": "2026-05-17"
+    },
+    "2605.01133": {
+      "version": "v1",
+      "title": "When Embedding-Based Defenses Fail: Rethinking Safety in LLM-Based Multi-Agent Systems",
+      "first_seen": "2026-05-17",
+      "last_updated": "2026-05-17",
+      "folder": "2026-05-17"
+    },
+    "2605.00460": {
+      "version": "v1",
+      "title": "CleanBase: Detecting Malicious Documents in RAG Knowledge Databases",
+      "first_seen": "2026-05-17",
+      "last_updated": "2026-05-17",
+      "folder": "2026-05-17"
+    },
+    "2605.01462": {
+      "version": "v1",
+      "title": "LocalAlign: Enabling Generalizable Prompt Injection Defense via Generation of Near-Target Adversarial Examples for Alignment Training",
+      "first_seen": "2026-05-17",
+      "last_updated": "2026-05-17",
+      "folder": "2026-05-17"
+    },
+    "2605.01298": {
+      "version": "v1",
+      "title": "Checkerboard: A Simple, Effective, Efficient and Learning-free Clean Label Backdoor Attack with Low Poisoning Budget",
+      "first_seen": "2026-05-17",
+      "last_updated": "2026-05-17",
+      "folder": "2026-05-17"
+    },
+    "2605.01644": {
+      "version": "v1",
+      "title": "Toward a Principled Framework for Agent Safety Measurement",
+      "first_seen": "2026-05-17",
+      "last_updated": "2026-05-17",
+      "folder": "2026-05-17"
+    },
+    "2605.00055": {
+      "version": "v1",
+      "title": "Ambient Persuasion in a Deployed AI Agent: Unauthorized Escalation Following Routine Non-Adversarial Content Exposure",
+      "first_seen": "2026-05-17",
+      "last_updated": "2026-05-17",
+      "folder": "2026-05-17"
     }
   }
 }
