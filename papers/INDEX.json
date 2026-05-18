@@ -419,6 +419,76 @@
       "first_seen": "2026-05-18",
       "last_updated": "2026-05-18",
       "folder": "2026-05-18"
+    },
+    "2605.12813": {
+      "version": "v1",
+      "title": "REALISTA: Realistic Latent Adversarial Attacks that Elicit LLM Hallucinations",
+      "first_seen": "2026-05-19",
+      "last_updated": "2026-05-19",
+      "folder": "2026-05-19"
+    },
+    "2605.12671": {
+      "version": "v1",
+      "title": "All Circuits Lead to Rome: Rethinking Functional Anisotropy in Circuit and Sheaf Discovery for LLMs",
+      "first_seen": "2026-05-19",
+      "last_updated": "2026-05-19",
+      "folder": "2026-05-19"
+    },
+    "2605.12850": {
+      "version": "v1",
+      "title": "Persona-Model Collapse in Emergent Misalignment",
+      "first_seen": "2026-05-19",
+      "last_updated": "2026-05-19",
+      "folder": "2026-05-19"
+    },
+    "2605.09638": {
+      "version": "v1",
+      "title": "Plan2Cleanse: Test-Time Backdoor Defense via Monte-Carlo Planning in Deep Reinforcement Learning",
+      "first_seen": "2026-05-19",
+      "last_updated": "2026-05-19",
+      "folder": "2026-05-19"
+    },
+    "2605.08012": {
+      "version": "v1",
+      "title": "Position: Mechanistic Interpretability Must Disclose Identification Assumptions for Causal Claims",
+      "first_seen": "2026-05-19",
+      "last_updated": "2026-05-19",
+      "folder": "2026-05-19"
+    },
+    "2605.09887": {
+      "version": "v1",
+      "title": "The Geometric Wall: Manifold Structure Predicts Layerwise Sparse Autoencoder Scaling Laws",
+      "first_seen": "2026-05-19",
+      "last_updated": "2026-05-19",
+      "folder": "2026-05-19"
+    },
+    "2605.09967": {
+      "version": "v1",
+      "title": "Tensor Product Representation Probes Reveal Shared Structure Across Linear Directions",
+      "first_seen": "2026-05-19",
+      "last_updated": "2026-05-19",
+      "folder": "2026-05-19"
+    },
+    "2605.13339": {
+      "version": "v1",
+      "title": "Probing Persona-Dependent Preferences in Language Models",
+      "first_seen": "2026-05-19",
+      "last_updated": "2026-05-19",
+      "folder": "2026-05-19"
+    },
+    "2605.13537": {
+      "version": "v1",
+      "title": "Temper and Tilt Lead to SLOP: Reward Hacking Mitigation with Inference-Time Alignment",
+      "first_seen": "2026-05-19",
+      "last_updated": "2026-05-19",
+      "folder": "2026-05-19"
+    },
+    "2605.09855": {
+      "version": "v1",
+      "title": "Concordia: Self-Improving Synthetic Tables for Federated LLMs",
+      "first_seen": "2026-05-19",
+      "last_updated": "2026-05-19",
+      "folder": "2026-05-19"
     }
   }
 }
