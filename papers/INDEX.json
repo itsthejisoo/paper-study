@@ -349,6 +349,76 @@
       "first_seen": "2026-05-17",
       "last_updated": "2026-05-17",
       "folder": "2026-05-17"
+    },
+    "2605.05058": {
+      "version": "v1",
+      "title": "SoK: Robustness in Large Language Models against Jailbreak Attacks",
+      "first_seen": "2026-05-18",
+      "last_updated": "2026-05-18",
+      "folder": "2026-05-18"
+    },
+    "2605.05329": {
+      "version": "v1",
+      "title": "Understanding Annotator Safety Policy with Interpretability",
+      "first_seen": "2026-05-18",
+      "last_updated": "2026-05-18",
+      "folder": "2026-05-18"
+    },
+    "2605.13329": {
+      "version": "v1",
+      "title": "Tracing Persona Vectors Through LLM Pretraining",
+      "first_seen": "2026-05-18",
+      "last_updated": "2026-05-18",
+      "folder": "2026-05-18"
+    },
+    "2605.04019": {
+      "version": "v1",
+      "title": "Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours",
+      "first_seen": "2026-05-18",
+      "last_updated": "2026-05-18",
+      "folder": "2026-05-18"
+    },
+    "2605.02977": {
+      "version": "v1",
+      "title": "Contrastive Privacy: A Semantic Approach to Measuring Privacy of AI-based Sanitization",
+      "first_seen": "2026-05-18",
+      "last_updated": "2026-05-18",
+      "folder": "2026-05-18"
+    },
+    "2605.03213": {
+      "version": "v2",
+      "title": "When Agents Handle Secrets: A Survey of Confidential Computing for Agentic AI",
+      "first_seen": "2026-05-18",
+      "last_updated": "2026-05-18",
+      "folder": "2026-05-18"
+    },
+    "2605.01735": {
+      "version": "v1",
+      "title": "Less is More: Geometric Unlearning for LLMs with Minimal Data Disclosure",
+      "first_seen": "2026-05-18",
+      "last_updated": "2026-05-18",
+      "folder": "2026-05-18"
+    },
+    "2605.06480": {
+      "version": "v1",
+      "title": "Patch-Effect Graph Kernels for LLM Interpretability",
+      "first_seen": "2026-05-18",
+      "last_updated": "2026-05-18",
+      "folder": "2026-05-18"
+    },
+    "2605.13936": {
+      "version": "v1",
+      "title": "Towards the Next Frontier of LLMs, Training on Private Data: A Cross-Domain Benchmark for Federated Fine-Tuning",
+      "first_seen": "2026-05-18",
+      "last_updated": "2026-05-18",
+      "folder": "2026-05-18"
+    },
+    "2605.14113": {
+      "version": "v1",
+      "title": "ProtoMedAgent: Multimodal Clinical Interpretability via Privacy-Aware Agentic Workflows",
+      "first_seen": "2026-05-18",
+      "last_updated": "2026-05-18",
+      "folder": "2026-05-18"
     }
   }
 }
