@@ -489,6 +489,76 @@
       "first_seen": "2026-05-19",
       "last_updated": "2026-05-19",
       "folder": "2026-05-19"
+    },
+    "2605.17634": {
+      "version": "v1",
+      "title": "AI Agents May Always Fall for Prompt Injections",
+      "first_seen": "2026-05-20",
+      "last_updated": "2026-05-20",
+      "folder": "2026-05-20"
+    },
+    "2605.14932": {
+      "version": "v1",
+      "title": "Toward Securing AI Agents Like Operating Systems",
+      "first_seen": "2026-05-20",
+      "last_updated": "2026-05-20",
+      "folder": "2026-05-20"
+    },
+    "2605.14786": {
+      "version": "v1",
+      "title": "Known By Their Actions: Fingerprinting LLM Browser Agents via UI Traces",
+      "first_seen": "2026-05-20",
+      "last_updated": "2026-05-20",
+      "folder": "2026-05-20"
+    },
+    "2605.03378": {
+      "version": "v1",
+      "title": "ARGUS: Defending LLM Agents Against Context-Aware Prompt Injection",
+      "first_seen": "2026-05-20",
+      "last_updated": "2026-05-20",
+      "folder": "2026-05-20"
+    },
+    "2605.09225": {
+      "version": "v1",
+      "title": "The Art of the Jailbreak: Formulating Jailbreak Attacks for LLM Security Beyond Binary Scoring",
+      "first_seen": "2026-05-20",
+      "last_updated": "2026-05-20",
+      "folder": "2026-05-20"
+    },
+    "2605.01247": {
+      "version": "v1",
+      "title": "FP-Agent: Fingerprinting AI Browsing Agents",
+      "first_seen": "2026-05-20",
+      "last_updated": "2026-05-20",
+      "folder": "2026-05-20"
+    },
+    "2605.01740": {
+      "version": "v1",
+      "title": "Architectural Obsolescence of Unhardened Agentic-AI Runtimes",
+      "first_seen": "2026-05-20",
+      "last_updated": "2026-05-20",
+      "folder": "2026-05-20"
+    },
+    "2605.02255": {
+      "version": "v1",
+      "title": "On the Privacy of LLMs: An Ablation Study",
+      "first_seen": "2026-05-20",
+      "last_updated": "2026-05-20",
+      "folder": "2026-05-20"
+    },
+    "2605.00796": {
+      "version": "v1",
+      "title": "When RAG Chatbots Expose Their Backend: An Anonymized Case Study of Privacy and Security Risks in Patient-Facing Medical AI",
+      "first_seen": "2026-05-20",
+      "last_updated": "2026-05-20",
+      "folder": "2026-05-20"
+    },
+    "2605.01449": {
+      "version": "v1",
+      "title": "VisInject: Disruption != Injection -- A Dual-Dimension Evaluation of Universal Adversarial Attacks on Vision-Language Models",
+      "first_seen": "2026-05-20",
+      "last_updated": "2026-05-20",
+      "folder": "2026-05-20"
     }
   }
 }
