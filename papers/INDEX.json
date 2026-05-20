@@ -559,6 +559,76 @@
       "first_seen": "2026-05-20",
       "last_updated": "2026-05-20",
       "folder": "2026-05-20"
+    },
+    "2604.20801": {
+      "version": "v1",
+      "title": "AgentFlow: Synthesizing Multi-Agent Harnesses for Vulnerability Discovery",
+      "first_seen": "2026-05-21",
+      "last_updated": "2026-05-21",
+      "folder": "2026-05-21"
+    },
+    "2604.20496": {
+      "version": "v1",
+      "title": "Mythos and the Unverified Cage: Z3-Based Pre-Deployment Verification for Frontier-Model Sandbox Infrastructure",
+      "first_seen": "2026-05-21",
+      "last_updated": "2026-05-21",
+      "folder": "2026-05-21"
+    },
+    "2604.19785": {
+      "version": "v1",
+      "title": "Can LLMs Infer Conversational Agent Users' Personality Traits from Chat History?",
+      "first_seen": "2026-05-21",
+      "last_updated": "2026-05-21",
+      "folder": "2026-05-21"
+    },
+    "2604.20401": {
+      "version": "v1",
+      "title": "Onyx: Cost-Efficient Disk-Oblivious ANN Search",
+      "first_seen": "2026-05-21",
+      "last_updated": "2026-05-21",
+      "folder": "2026-05-21"
+    },
+    "2604.19533": {
+      "version": "v2",
+      "title": "Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps",
+      "first_seen": "2026-05-21",
+      "last_updated": "2026-05-21",
+      "folder": "2026-05-21"
+    },
+    "2604.20704": {
+      "version": "v1",
+      "title": "Auto-ART: Structured Literature Synthesis and Automated Adversarial Robustness Testing",
+      "first_seen": "2026-05-21",
+      "last_updated": "2026-05-21",
+      "folder": "2026-05-21"
+    },
+    "2604.20596": {
+      "version": "v1",
+      "title": "Differentially Private Clustered Federated Learning with Privacy-Preserving Initialization and Normality-Driven Aggregation (PINA)",
+      "first_seen": "2026-05-21",
+      "last_updated": "2026-05-21",
+      "folder": "2026-05-21"
+    },
+    "2604.20047": {
+      "version": "v1",
+      "title": "PASTA: A Patch-Agnostic Twofold-Stealthy Backdoor Attack on Vision Transformers",
+      "first_seen": "2026-05-21",
+      "last_updated": "2026-05-21",
+      "folder": "2026-05-21"
+    },
+    "2604.20826": {
+      "version": "v1",
+      "title": "AVISE: Framework for Evaluating the Security of AI Systems",
+      "first_seen": "2026-05-21",
+      "last_updated": "2026-05-21",
+      "folder": "2026-05-21"
+    },
+    "2603.14222": {
+      "version": "v2",
+      "title": "Membership Inference for Contrastive Pre-training Models with Text-only PII Queries (UMID)",
+      "first_seen": "2026-05-21",
+      "last_updated": "2026-05-21",
+      "folder": "2026-05-21"
     }
   }
 }
