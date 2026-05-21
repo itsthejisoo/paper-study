@@ -629,6 +629,76 @@
       "first_seen": "2026-05-21",
       "last_updated": "2026-05-21",
       "folder": "2026-05-21"
+    },
+    "2605.08878": {
+      "version": "v1",
+      "title": "Why Do Aligned LLMs Remain Jailbreakable: Refusal-Escape Directions, Operator-Level Sources, and Safety-Utility Trade-off",
+      "first_seen": "2026-05-22",
+      "last_updated": "2026-05-22",
+      "folder": "2026-05-22"
+    },
+    "2601.20885": {
+      "version": "v1",
+      "title": "What Hard Tokens Reveal: Exploiting Low-confidence Tokens for Membership Inference Attacks against Large Language Models",
+      "first_seen": "2026-05-22",
+      "last_updated": "2026-05-22",
+      "folder": "2026-05-22"
+    },
+    "2602.05859": {
+      "version": "v1",
+      "title": "DLM-Scope: Mechanistic Interpretability of Diffusion Language Models via Sparse Autoencoders",
+      "first_seen": "2026-05-22",
+      "last_updated": "2026-05-22",
+      "folder": "2026-05-22"
+    },
+    "2604.19891": {
+      "version": "v1",
+      "title": "A Data-Free Membership Inference Attack on Federated Learning in Hardware Assurance",
+      "first_seen": "2026-05-22",
+      "last_updated": "2026-05-22",
+      "folder": "2026-05-22"
+    },
+    "2604.19915": {
+      "version": "v1",
+      "title": "DECIFR: Domain-Aware Exfiltration of Circuit Information from Federated Gradient Reconstruction",
+      "first_seen": "2026-05-22",
+      "last_updated": "2026-05-22",
+      "folder": "2026-05-22"
+    },
+    "2605.01078": {
+      "version": "v1",
+      "title": "A Sentence Relation-Based Approach to Sanitizing Malicious Instructions",
+      "first_seen": "2026-05-22",
+      "last_updated": "2026-05-22",
+      "folder": "2026-05-22"
+    },
+    "2605.01186": {
+      "version": "v1",
+      "title": "Trace: Unmasking AI Attack Agents Through Terminal Behavior Fingerprinting",
+      "first_seen": "2026-05-22",
+      "last_updated": "2026-05-22",
+      "folder": "2026-05-22"
+    },
+    "2605.01204": {
+      "version": "v1",
+      "title": "FLRSP: Privacy-Preserving Federated Learning Using Randomly Selected Model Parameters",
+      "first_seen": "2026-05-22",
+      "last_updated": "2026-05-22",
+      "folder": "2026-05-22"
+    },
+    "2605.01301": {
+      "version": "v1",
+      "title": "From Stealthy Data Fabrication to Unsafe Driving: Realistic Scenario Attacks on Collaborative Perception",
+      "first_seen": "2026-05-22",
+      "last_updated": "2026-05-22",
+      "folder": "2026-05-22"
+    },
+    "2604.13776": {
+      "version": "v1",
+      "title": "Who Gets Flagged? The Pluralistic Evaluation Gap in AI Content Watermarking",
+      "first_seen": "2026-05-22",
+      "last_updated": "2026-05-22",
+      "folder": "2026-05-22"
     }
   }
 }
