@@ -699,6 +699,76 @@
       "first_seen": "2026-05-22",
       "last_updated": "2026-05-22",
       "folder": "2026-05-22"
+    },
+    "2605.03228": {
+      "version": "v1",
+      "title": "MAGE: Safeguarding LLM Agents against Long-Horizon Threats via Shadow Memory",
+      "first_seen": "2026-05-23",
+      "last_updated": "2026-05-23",
+      "folder": "2026-05-23"
+    },
+    "2605.17830": {
+      "version": "v1",
+      "title": "Remembering More, Risking More: Longitudinal Safety Risks in Memory-Equipped LLM Agents",
+      "first_seen": "2026-05-23",
+      "last_updated": "2026-05-23",
+      "folder": "2026-05-23"
+    },
+    "2605.03095": {
+      "version": "v1",
+      "title": "Revisiting JBShield: Breaking and Rebuilding Representation-Level Jailbreak Defenses",
+      "first_seen": "2026-05-23",
+      "last_updated": "2026-05-23",
+      "folder": "2026-05-23"
+    },
+    "2605.18239": {
+      "version": "v1",
+      "title": "Multilingual Jailbreaking of LLMs Using Low-Resource Languages",
+      "first_seen": "2026-05-23",
+      "last_updated": "2026-05-23",
+      "folder": "2026-05-23"
+    },
+    "2605.03188": {
+      "version": "v1",
+      "title": "Dependency-Aware Privacy for Multi-turn Agents",
+      "first_seen": "2026-05-23",
+      "last_updated": "2026-05-23",
+      "folder": "2026-05-23"
+    },
+    "2605.03441": {
+      "version": "v1",
+      "title": "Exposing LLM Safety Gaps Through Mathematical Encoding: New Attacks and Systematic Analysis",
+      "first_seen": "2026-05-23",
+      "last_updated": "2026-05-23",
+      "folder": "2026-05-23"
+    },
+    "2605.17075": {
+      "version": "v1",
+      "title": "A Red Teaming Framework for Evaluating Robustness of AI-enabled Security Orchestration, Automation, and Response Systems",
+      "first_seen": "2026-05-23",
+      "last_updated": "2026-05-23",
+      "folder": "2026-05-23"
+    },
+    "2605.06161": {
+      "version": "v1",
+      "title": "Beyond Accuracy: Policy Invariance as a Reliability Test for LLM Safety Judges",
+      "first_seen": "2026-05-23",
+      "last_updated": "2026-05-23",
+      "folder": "2026-05-23"
+    },
+    "2605.03160": {
+      "version": "v1",
+      "title": "Pairwise Matrices for Sparse Autoencoders: Single-Feature Inspection Mislabels Causal Axes",
+      "first_seen": "2026-05-23",
+      "last_updated": "2026-05-23",
+      "folder": "2026-05-23"
+    },
+    "2605.17062": {
+      "version": "v1",
+      "title": "The Range Shrinks, the Threat Remains: Re-evaluating LLM Package Hallucinations on the 2026 Frontier-Model Cohort",
+      "first_seen": "2026-05-23",
+      "last_updated": "2026-05-23",
+      "folder": "2026-05-23"
     }
   }
 }
