@@ -769,6 +769,76 @@
       "first_seen": "2026-05-23",
       "last_updated": "2026-05-23",
       "folder": "2026-05-23"
+    },
+    "2605.00267": {
+      "version": "v2",
+      "title": "Jailbroken Frontier Models Retain Their Capabilities",
+      "first_seen": "2026-05-24",
+      "last_updated": "2026-05-24",
+      "folder": "2026-05-24"
+    },
+    "2605.07324": {
+      "version": "v1",
+      "title": "Activation Differences Reveal Backdoors: A Comparison of SAE Architectures",
+      "first_seen": "2026-05-24",
+      "last_updated": "2026-05-24",
+      "folder": "2026-05-24"
+    },
+    "2605.00689": {
+      "version": "v1",
+      "title": "ML-Bench&Guard: Policy-Grounded Multilingual Safety Benchmark and Guardrail for Large Language Models",
+      "first_seen": "2026-05-24",
+      "last_updated": "2026-05-24",
+      "folder": "2026-05-24"
+    },
+    "2605.00994": {
+      "version": "v1",
+      "title": "Model Organisms Are Leaky: Perplexity Differencing Often Reveals Finetuning Objectives",
+      "first_seen": "2026-05-24",
+      "last_updated": "2026-05-24",
+      "folder": "2026-05-24"
+    },
+    "2605.00364": {
+      "version": "v2",
+      "title": "Unlearning What Matters: Token-Level Attribution for Precise Language Model Unlearning",
+      "first_seen": "2026-05-24",
+      "last_updated": "2026-05-24",
+      "folder": "2026-05-24"
+    },
+    "2605.00847": {
+      "version": "v2",
+      "title": "H-Probes: Extracting Hierarchical Structures From Latent Representations of Language Models",
+      "first_seen": "2026-05-24",
+      "last_updated": "2026-05-24",
+      "folder": "2026-05-24"
+    },
+    "2605.00607": {
+      "version": "v1",
+      "title": "Beyond Decodability: Reconstructing Language Model Representations with an Encoding Probe",
+      "first_seen": "2026-05-24",
+      "last_updated": "2026-05-24",
+      "folder": "2026-05-24"
+    },
+    "2605.00253": {
+      "version": "v1",
+      "title": "Lost in State Space: Probing Frozen Mamba Representations",
+      "first_seen": "2026-05-24",
+      "last_updated": "2026-05-24",
+      "folder": "2026-05-24"
+    },
+    "2605.00236": {
+      "version": "v1",
+      "title": "Attention Is Where You Attack",
+      "first_seen": "2026-05-24",
+      "last_updated": "2026-05-24",
+      "folder": "2026-05-24"
+    },
+    "2605.00613": {
+      "version": "v2",
+      "title": "KingsGuard: Enclave Data Protection Under Real-World TEE Vulnerabilities",
+      "first_seen": "2026-05-24",
+      "last_updated": "2026-05-24",
+      "folder": "2026-05-24"
     }
   }
 }
