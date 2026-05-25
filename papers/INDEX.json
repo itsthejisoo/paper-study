@@ -839,6 +839,76 @@
       "first_seen": "2026-05-24",
       "last_updated": "2026-05-24",
       "folder": "2026-05-24"
+    },
+    "2605.21362": {
+      "version": "v1",
+      "title": "LASH: Adaptive Semantic Hybridization for Black-Box Jailbreaking of Large Language Models",
+      "first_seen": "2026-05-25",
+      "last_updated": "2026-05-25",
+      "folder": "2026-05-25"
+    },
+    "2605.10779": {
+      "version": "v1",
+      "title": "LITMUS: Benchmarking Behavioral Jailbreaks of LLM Agents in Real OS Environments",
+      "first_seen": "2026-05-25",
+      "last_updated": "2026-05-25",
+      "folder": "2026-05-25"
+    },
+    "2604.23338": {
+      "version": "v2",
+      "title": "A Systematic Survey of Security Threats and Defenses in LLM-Based AI Agents: A Layered Attack Surface Framework",
+      "first_seen": "2026-05-25",
+      "last_updated": "2026-05-25",
+      "folder": "2026-05-25"
+    },
+    "2605.06812": {
+      "version": "v1",
+      "title": "Towards Security-Auditable LLM Agents: A Unified Graph Representation",
+      "first_seen": "2026-05-25",
+      "last_updated": "2026-05-25",
+      "folder": "2026-05-25"
+    },
+    "2605.02921": {
+      "version": "v1",
+      "title": "EvoJail: Evolutionary Diverse Jailbreak Prompt Generation for Large Language Models",
+      "first_seen": "2026-05-25",
+      "last_updated": "2026-05-25",
+      "folder": "2026-05-25"
+    },
+    "2605.00314": {
+      "version": "v1",
+      "title": "Semia: Auditing Agent Skills via Constraint-Guided Representation Synthesis",
+      "first_seen": "2026-05-25",
+      "last_updated": "2026-05-25",
+      "folder": "2026-05-25"
+    },
+    "2605.06605": {
+      "version": "v1",
+      "title": "How Many Iterations to Jailbreak? Dynamic Budget Allocation for Multi-Turn LLM Evaluation",
+      "first_seen": "2026-05-25",
+      "last_updated": "2026-05-25",
+      "folder": "2026-05-25"
+    },
+    "2605.02372": {
+      "version": "v1",
+      "title": "Privacy Preserving Machine Learning Workflow: from Anonymization to Personalized Differential Privacy Budgets in Federated Learning",
+      "first_seen": "2026-05-25",
+      "last_updated": "2026-05-25",
+      "folder": "2026-05-25"
+    },
+    "2605.00081": {
+      "version": "v1",
+      "title": "Alignment Contracts for Agentic Security Systems",
+      "first_seen": "2026-05-25",
+      "last_updated": "2026-05-25",
+      "folder": "2026-05-25"
+    },
+    "2605.00348": {
+      "version": "v1",
+      "title": "Block-wise Codeword Embedding for Reliable Multi-bit Text Watermarking",
+      "first_seen": "2026-05-25",
+      "last_updated": "2026-05-25",
+      "folder": "2026-05-25"
     }
   }
 }
