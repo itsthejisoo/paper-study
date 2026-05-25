@@ -909,6 +909,76 @@
       "first_seen": "2026-05-25",
       "last_updated": "2026-05-25",
       "folder": "2026-05-25"
+    },
+    "2605.20654": {
+      "version": "v1",
+      "title": "REFLECTOR: Internalizing Step-wise Reflection against Indirect Jailbreak",
+      "first_seen": "2026-05-26",
+      "last_updated": "2026-05-26",
+      "folder": "2026-05-26"
+    },
+    "2605.20286": {
+      "version": "v1",
+      "title": "Adaptive Probe-based Steering for Robust LLM Jailbreaking",
+      "first_seen": "2026-05-26",
+      "last_updated": "2026-05-26",
+      "folder": "2026-05-26"
+    },
+    "2605.12456": {
+      "version": "v1",
+      "title": "TextSeal: A Localized LLM Watermark for Provenance & Distillation Protection",
+      "first_seen": "2026-05-26",
+      "last_updated": "2026-05-26",
+      "folder": "2026-05-26"
+    },
+    "2605.17288": {
+      "version": "v1",
+      "title": "When Efficiency Backfires: Cascading LLMs Trigger Cascade Failure under Adversarial Attack",
+      "first_seen": "2026-05-26",
+      "last_updated": "2026-05-26",
+      "folder": "2026-05-26"
+    },
+    "2605.15648": {
+      "version": "v1",
+      "title": "Rethinking the Security of DP-SGD: A Corrected Analysis of Differentially Private Machine Learning",
+      "first_seen": "2026-05-26",
+      "last_updated": "2026-05-26",
+      "folder": "2026-05-26"
+    },
+    "2605.06865": {
+      "version": "v1",
+      "title": "Dataset Watermarking for Closed LLMs with Provable Detection",
+      "first_seen": "2026-05-26",
+      "last_updated": "2026-05-26",
+      "folder": "2026-05-26"
+    },
+    "2605.07481": {
+      "version": "v1",
+      "title": "Vaporizer: Breaking Watermarking Schemes for Large Language Model Outputs",
+      "first_seen": "2026-05-26",
+      "last_updated": "2026-05-26",
+      "folder": "2026-05-26"
+    },
+    "2605.00123": {
+      "version": "v1",
+      "title": "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models",
+      "first_seen": "2026-05-26",
+      "last_updated": "2026-05-26",
+      "folder": "2026-05-26"
+    },
+    "2605.08449": {
+      "version": "v1",
+      "title": "SL5 Standard for AI Security",
+      "first_seen": "2026-05-26",
+      "last_updated": "2026-05-26",
+      "folder": "2026-05-26"
+    },
+    "2605.17219": {
+      "version": "v1",
+      "title": "Integration of AI in Cybersecurity: Current Trends with a Focused Look at Intrusion Detection Applications",
+      "first_seen": "2026-05-26",
+      "last_updated": "2026-05-26",
+      "folder": "2026-05-26"
     }
   }
 }
