@@ -979,6 +979,76 @@
       "first_seen": "2026-05-26",
       "last_updated": "2026-05-26",
       "folder": "2026-05-26"
+    },
+    "2605.11161": {
+      "version": "v1",
+      "title": "Interpretability Can Be Actionable",
+      "first_seen": "2026-05-27",
+      "last_updated": "2026-05-27",
+      "folder": "2026-05-27"
+    },
+    "2605.03907": {
+      "version": "v1",
+      "title": "Steer Like the LLM: Activation Steering that Mimics Prompting",
+      "first_seen": "2026-05-27",
+      "last_updated": "2026-05-27",
+      "folder": "2026-05-27"
+    },
+    "2605.14347": {
+      "version": "v1",
+      "title": "Exemplar Partitioning for Mechanistic Interpretability",
+      "first_seen": "2026-05-27",
+      "last_updated": "2026-05-27",
+      "folder": "2026-05-27"
+    },
+    "2605.22373": {
+      "version": "v1",
+      "title": "Boundary-targeted Membership Inference Attacks on Safety Classifiers",
+      "first_seen": "2026-05-27",
+      "last_updated": "2026-05-27",
+      "folder": "2026-05-27"
+    },
+    "2605.08934": {
+      "version": "v1",
+      "title": "From Mechanistic to Compositional Interpretability",
+      "first_seen": "2026-05-27",
+      "last_updated": "2026-05-27",
+      "folder": "2026-05-27"
+    },
+    "2605.06342": {
+      "version": "v1",
+      "title": "Don't Lose Focus: Activation Steering via Key-Orthogonal Projections",
+      "first_seen": "2026-05-27",
+      "last_updated": "2026-05-27",
+      "folder": "2026-05-27"
+    },
+    "2605.05116": {
+      "version": "v1",
+      "title": "On the Hardness of Junking LLMs",
+      "first_seen": "2026-05-27",
+      "last_updated": "2026-05-27",
+      "folder": "2026-05-27"
+    },
+    "2604.08524": {
+      "version": "v1",
+      "title": "What Drives Representation Steering? A Mechanistic Case Study on Steering Refusal",
+      "first_seen": "2026-05-27",
+      "last_updated": "2026-05-27",
+      "folder": "2026-05-27"
+    },
+    "2603.23268": {
+      "version": "v1",
+      "title": "SafeSeek: Universal Attribution of Safety Circuits in Language Models",
+      "first_seen": "2026-05-27",
+      "last_updated": "2026-05-27",
+      "folder": "2026-05-27"
+    },
+    "2604.05549": {
+      "version": "v1",
+      "title": "Boundary-Targeted Selection for Red-Teaming LLM Agents: Stop Fixating on Prompts",
+      "first_seen": "2026-05-27",
+      "last_updated": "2026-05-27",
+      "folder": "2026-05-27"
     }
   }
 }
