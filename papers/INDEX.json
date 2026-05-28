@@ -1049,6 +1049,146 @@
       "first_seen": "2026-05-27",
       "last_updated": "2026-05-27",
       "folder": "2026-05-27"
+    },
+    "2605.25893": {
+      "version": "v1",
+      "title": "D^2-Monitor: Dynamic Safety Monitoring for Diffusion LLMs via Hesitation-Aware Routing",
+      "first_seen": "2026-05-28",
+      "last_updated": "2026-05-28",
+      "folder": "2026-05-28"
+    },
+    "2605.26045": {
+      "version": "v1",
+      "title": "Confidence and Calibration of Activation Oracles for Reliable Interpretation of Language Model Internals",
+      "first_seen": "2026-05-28",
+      "last_updated": "2026-05-28",
+      "folder": "2026-05-28"
+    },
+    "2605.18879": {
+      "version": "v2",
+      "title": "ZeroUnlearn: Few-Shot Knowledge Unlearning in Large Language Models",
+      "first_seen": "2026-05-28",
+      "last_updated": "2026-05-28",
+      "folder": "2026-05-28"
+    },
+    "2604.16548": {
+      "version": "v1",
+      "title": "A Survey on the Security of Long-Term Memory in LLM Agents: Toward Mnemonic Sovereignty",
+      "first_seen": "2026-05-28",
+      "last_updated": "2026-05-28",
+      "folder": "2026-05-28"
+    },
+    "2605.24614": {
+      "version": "v1",
+      "title": "Measuring the Depth of LLM Unlearning via Activation Patching",
+      "first_seen": "2026-05-28",
+      "last_updated": "2026-05-28",
+      "folder": "2026-05-28"
+    },
+    "2605.24309": {
+      "version": "v1",
+      "title": "Reframing LLM Agent Security as an Agent-Human Interaction Problem",
+      "first_seen": "2026-05-28",
+      "last_updated": "2026-05-28",
+      "folder": "2026-05-28"
+    },
+    "2605.24216": {
+      "version": "v1",
+      "title": "Agent-ToM: Learning to Monitor Autonomous LLM Agents via Theory-of-Mind Reasoning",
+      "first_seen": "2026-05-28",
+      "last_updated": "2026-05-28",
+      "folder": "2026-05-28"
+    },
+    "2605.23989": {
+      "version": "v1",
+      "title": "Towards trustworthy agentic AI: a comprehensive survey of safety, robustness, privacy, and system security",
+      "first_seen": "2026-05-28",
+      "last_updated": "2026-05-28",
+      "folder": "2026-05-28"
+    },
+    "2605.23036": {
+      "version": "v1",
+      "title": "Multilingual Steering by Design: Multilingual Sparse Autoencoders and Principled Layer Selection",
+      "first_seen": "2026-05-28",
+      "last_updated": "2026-05-28",
+      "folder": "2026-05-28"
+    },
+    "2605.05277": {
+      "version": "v1",
+      "title": "GLiNER Guard: Unified Encoder Family for Production LLM Safety and Privacy",
+      "first_seen": "2026-05-28",
+      "last_updated": "2026-05-28",
+      "folder": "2026-05-28"
+    },
+    "2605.28732": {
+      "version": "v1",
+      "title": "MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems",
+      "first_seen": "2026-05-29",
+      "last_updated": "2026-05-29",
+      "folder": "2026-05-29"
+    },
+    "2605.27354": {
+      "version": "v1",
+      "title": "Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders",
+      "first_seen": "2026-05-29",
+      "last_updated": "2026-05-29",
+      "folder": "2026-05-29"
+    },
+    "2605.26574": {
+      "version": "v1",
+      "title": "GradSentry: Gradient Spectral Entropy for Backdoor Sample Filtering in Large Language Model Fine-Tuning",
+      "first_seen": "2026-05-29",
+      "last_updated": "2026-05-29",
+      "folder": "2026-05-29"
+    },
+    "2605.19952": {
+      "version": "v1",
+      "title": "Rethinking How to Remember: Beyond Atomic Facts in Lifelong LLM Agent Memory",
+      "first_seen": "2026-05-29",
+      "last_updated": "2026-05-29",
+      "folder": "2026-05-29"
+    },
+    "2605.26302": {
+      "version": "v1",
+      "title": "Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems",
+      "first_seen": "2026-05-29",
+      "last_updated": "2026-05-29",
+      "folder": "2026-05-29"
+    },
+    "2605.27901": {
+      "version": "v1",
+      "title": "The Fragility of Chain-of-Thought Monitoring Across Typologically Diverse Languages",
+      "first_seen": "2026-05-29",
+      "last_updated": "2026-05-29",
+      "folder": "2026-05-29"
+    },
+    "2605.25707": {
+      "version": "v1",
+      "title": "AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions",
+      "first_seen": "2026-05-29",
+      "last_updated": "2026-05-29",
+      "folder": "2026-05-29"
+    },
+    "2605.28591": {
+      "version": "v1",
+      "title": "Models That Know How Evaluations Are Designed Score Safer",
+      "first_seen": "2026-05-29",
+      "last_updated": "2026-05-29",
+      "folder": "2026-05-29"
+    },
+    "2605.27824": {
+      "version": "v1",
+      "title": "Revealing Algorithmic Deductive Circuits for Logical Reasoning",
+      "first_seen": "2026-05-29",
+      "last_updated": "2026-05-29",
+      "folder": "2026-05-29"
+    },
+    "2605.28510": {
+      "version": "v1",
+      "title": "Efficient and Scalable Provenance Tracking for LLM-Generated Code Snippets",
+      "first_seen": "2026-05-29",
+      "last_updated": "2026-05-29",
+      "folder": "2026-05-29"
     }
   }
 }
