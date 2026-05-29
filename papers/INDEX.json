@@ -1189,6 +1189,76 @@
       "first_seen": "2026-05-29",
       "last_updated": "2026-05-29",
       "folder": "2026-05-29"
+    },
+    "2605.26409": {
+      "version": "v1",
+      "title": "Jailbreak susceptibility prediction and mitigation via the behavioral geometry of models",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30",
+      "folder": "2026-05-30"
+    },
+    "2605.26154": {
+      "version": "v1",
+      "title": "MemMorph: Tool Hijacking in LLM Agents via Memory Poisoning",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30",
+      "folder": "2026-05-30"
+    },
+    "2605.26269": {
+      "version": "v1",
+      "title": "AgentSecBench: Measuring Prompt Injection, Privacy Leakage, and Tool-Use Integrity in LLM Agents",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30",
+      "folder": "2026-05-30"
+    },
+    "2605.24421": {
+      "version": "v1",
+      "title": "Poisoning the Watchtower: Prompt Injection Attacks Against LLM-Augmented Security Operations Through Adversarial Log Content",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30",
+      "folder": "2026-05-30"
+    },
+    "2605.24550": {
+      "version": "v1",
+      "title": "Jailbreak to Protect: Buffering and Reinforcing via Temporary Jailbreaking for Safe Fine-Tuning in Large Language Models",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30",
+      "folder": "2026-05-30"
+    },
+    "2605.21958": {
+      "version": "v1",
+      "title": "Diagnosis Is Not Prescription: Linguistic Co-Adaptation Explains Patching Hazards in LLM Pipelines",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30",
+      "folder": "2026-05-30"
+    },
+    "2605.17128": {
+      "version": "v1",
+      "title": "New Wide-Net-Casting Jailbreak Attacks Risk Large Models",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30",
+      "folder": "2026-05-30"
+    },
+    "2605.18656": {
+      "version": "v1",
+      "title": "Statistical Limits and Efficient Algorithms for Differentially Private Federated Learning",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30",
+      "folder": "2026-05-30"
+    },
+    "2605.11653": {
+      "version": "v1",
+      "title": "Every Bit, Everywhere, All at Once: A Binomial Multibit LLM Watermark",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30",
+      "folder": "2026-05-30"
+    },
+    "2605.06076": {
+      "version": "v1",
+      "title": "Navigating by Old Maps: The Pitfalls of Static Mechanistic Localization in LLM Post-Training",
+      "first_seen": "2026-05-30",
+      "last_updated": "2026-05-30",
+      "folder": "2026-05-30"
     }
   }
 }
