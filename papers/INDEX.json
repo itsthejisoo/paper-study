@@ -1259,6 +1259,76 @@
       "first_seen": "2026-05-30",
       "last_updated": "2026-05-30",
       "folder": "2026-05-30"
+    },
+    "2605.27355": {
+      "version": "v1",
+      "title": "Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases",
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31",
+      "folder": "2026-05-31"
+    },
+    "2605.26667": {
+      "version": "v1",
+      "title": "MemFail: Stress-Testing Failure Modes of LLM Memory Systems",
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31",
+      "folder": "2026-05-31"
+    },
+    "2605.26772": {
+      "version": "v1",
+      "title": "Beyond a Single Direction: Chain-of-Thought Disrupts Simple Steering of Refusal",
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31",
+      "folder": "2026-05-31"
+    },
+    "2605.27117": {
+      "version": "v1",
+      "title": "Position: AI Safety Requires Effective Controllability",
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31",
+      "folder": "2026-05-31"
+    },
+    "2605.27138": {
+      "version": "v1",
+      "title": "ICCU: In-Context Continual Unlearning via Pattern-Induced Refusal Rules",
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31",
+      "folder": "2026-05-31"
+    },
+    "2605.08740": {
+      "version": "v1",
+      "title": "Causal Dimensionality of Transformer Representations: Measurement, Scaling, and Layer Structure",
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31",
+      "folder": "2026-05-31"
+    },
+    "2605.26454": {
+      "version": "v1",
+      "title": "Model Unlearning Objectives Vary for Distinct Language Functions",
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31",
+      "folder": "2026-05-31"
+    },
+    "2605.22871": {
+      "version": "v1",
+      "title": "Approximate Machine Unlearning through Manifold Representation Forgetting Guided by Self Mode Connectivity",
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31",
+      "folder": "2026-05-31"
+    },
+    "2605.23175": {
+      "version": "v1",
+      "title": "Robust LLM Watermarking with Minimal Semantic Distortion for IP Protection",
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31",
+      "folder": "2026-05-31"
+    },
+    "2605.27157": {
+      "version": "v1",
+      "title": "Detecting Is Not Resolving: The Monitoring Control Gap in Retrieval Augmented LLMs",
+      "first_seen": "2026-05-31",
+      "last_updated": "2026-05-31",
+      "folder": "2026-05-31"
     }
   }
 }
