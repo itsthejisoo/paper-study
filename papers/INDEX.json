@@ -1329,6 +1329,76 @@
       "first_seen": "2026-05-31",
       "last_updated": "2026-05-31",
       "folder": "2026-05-31"
+    },
+    "2605.29801": {
+      "version": "v1",
+      "title": "AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security",
+      "first_seen": "2026-06-01",
+      "last_updated": "2026-06-01",
+      "folder": "2026-06-01"
+    },
+    "2605.29224": {
+      "version": "v1",
+      "title": "Relevance as a Vulnerability: How Web Retrieval Degrades Safety Alignment in LLM Agents",
+      "first_seen": "2026-06-01",
+      "last_updated": "2026-06-01",
+      "folder": "2026-06-01"
+    },
+    "2605.30076": {
+      "version": "v1",
+      "title": "UniSteer: Text-Guided Flow Matching in Activation Space for Versatile LLM Steering",
+      "first_seen": "2026-06-01",
+      "last_updated": "2026-06-01",
+      "folder": "2026-06-01"
+    },
+    "2605.29888": {
+      "version": "v1",
+      "title": "LaRA: Layer-wise Representation Analysis for Detecting Data Contamination in RL Post-Training",
+      "first_seen": "2026-06-01",
+      "last_updated": "2026-06-01",
+      "folder": "2026-06-01"
+    },
+    "2605.29507": {
+      "version": "v1",
+      "title": "Xetrieval: Mechanistically Explaining Dense Retrieval",
+      "first_seen": "2026-06-01",
+      "last_updated": "2026-06-01",
+      "folder": "2026-06-01"
+    },
+    "2605.30189": {
+      "version": "v1",
+      "title": "Token-Level Generalization in LoRA Adapter Backdoors: Attack Characterization and Behavioral Detection",
+      "first_seen": "2026-06-01",
+      "last_updated": "2026-06-01",
+      "folder": "2026-06-01"
+    },
+    "2605.30260": {
+      "version": "v1",
+      "title": "How LoRA Remembers? A Parametric Memory Law for LLM Finetuning",
+      "first_seen": "2026-06-01",
+      "last_updated": "2026-06-01",
+      "folder": "2026-06-01"
+    },
+    "2605.26242": {
+      "version": "v1",
+      "title": "Can LLMs Introspect? A Reality Check",
+      "first_seen": "2026-06-01",
+      "last_updated": "2026-06-01",
+      "folder": "2026-06-01"
+    },
+    "2605.30161": {
+      "version": "v1",
+      "title": "Why Far Looks Up: Probing Spatial Representation in Vision-Language Models",
+      "first_seen": "2026-06-01",
+      "last_updated": "2026-06-01",
+      "folder": "2026-06-01"
+    },
+    "2605.08116": {
+      "version": "v1",
+      "title": "The Safety-Aware Denoiser for Text Diffusion Models",
+      "first_seen": "2026-06-01",
+      "last_updated": "2026-06-01",
+      "folder": "2026-06-01"
     }
   }
 }
