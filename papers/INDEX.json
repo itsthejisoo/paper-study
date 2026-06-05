@@ -1588,6 +1588,76 @@
       "first_seen": "2026-06-04",
       "last_updated": "2026-06-04",
       "folder": "2026-06-04"
+    },
+    "2505.05849": {
+      "version": "v4",
+      "title": "AgentVigil: Generic Black-Box Red-teaming for Indirect Prompt Injection against LLM Agents",
+      "first_seen": "2026-06-05",
+      "last_updated": "2026-06-05",
+      "folder": "2026-06-05"
+    },
+    "2506.08837": {
+      "version": "v1",
+      "title": "Design Patterns for Securing LLM Agents against Prompt Injections",
+      "first_seen": "2026-06-05",
+      "last_updated": "2026-06-05",
+      "folder": "2026-06-05"
+    },
+    "2606.04329": {
+      "version": "v1",
+      "title": "From Untrusted Input to Trusted Memory: A Systematic Study of Memory Poisoning Attacks in LLM Agents",
+      "first_seen": "2026-06-05",
+      "last_updated": "2026-06-05",
+      "folder": "2026-06-05"
+    },
+    "2606.04141": {
+      "version": "v1",
+      "title": "Caught in the Act(ivation): Toward Pre-Output and Multi-Turn Detection of Credential Exfiltration by LLM Agents",
+      "first_seen": "2026-06-05",
+      "last_updated": "2026-06-05",
+      "folder": "2026-06-05"
+    },
+    "2606.00160": {
+      "version": "v1",
+      "title": "DataShield: Safety-degrading Data Filtering for LLM Benign Instruction Fine-Tuning",
+      "first_seen": "2026-06-05",
+      "last_updated": "2026-06-05",
+      "folder": "2026-06-05"
+    },
+    "2506.05451": {
+      "version": "v1",
+      "title": "Interpretation Meets Safety: A Survey on Interpretation Methods and Tools for Improving LLM Safety",
+      "first_seen": "2026-06-05",
+      "last_updated": "2026-06-05",
+      "folder": "2026-06-05"
+    },
+    "2408.00929": {
+      "version": "v2",
+      "title": "Verification of Machine Unlearning is Fragile",
+      "first_seen": "2026-06-05",
+      "last_updated": "2026-06-05",
+      "folder": "2026-06-05"
+    },
+    "2602.00688": {
+      "version": "v1",
+      "title": "Provably Protecting Fine-Tuned LLMs from Training Data Extraction while Preserving Utility",
+      "first_seen": "2026-06-05",
+      "last_updated": "2026-06-05",
+      "folder": "2026-06-05"
+    },
+    "2603.13026": {
+      "version": "v1",
+      "title": "PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses",
+      "first_seen": "2026-06-05",
+      "last_updated": "2026-06-05",
+      "folder": "2026-06-05"
+    },
+    "2506.11687": {
+      "version": "v2",
+      "title": "Differential Privacy in Machine Learning: A Survey from Symbolic AI to LLMs",
+      "first_seen": "2026-06-05",
+      "last_updated": "2026-06-05",
+      "folder": "2026-06-05"
     }
   }
 }
