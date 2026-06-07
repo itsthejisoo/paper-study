@@ -1728,6 +1728,146 @@
       "first_seen": "2026-06-06",
       "last_updated": "2026-06-06",
       "folder": "2026-06-06"
+    },
+    "2606.05609": {
+      "version": "v1",
+      "title": "SlotGCG: Exploiting the Positional Vulnerability in LLMs for Jailbreak Attacks",
+      "first_seen": "2026-06-07",
+      "last_updated": "2026-06-07",
+      "folder": "2026-06-07"
+    },
+    "2606.00485": {
+      "version": "v1",
+      "title": "Confused ChatGPT: Cross-App Context Poisoning via First-Party APIs",
+      "first_seen": "2026-06-07",
+      "last_updated": "2026-06-07",
+      "folder": "2026-06-07"
+    },
+    "2606.02240": {
+      "version": "v2",
+      "title": "AgentRedBench: Dynamic Redteaming and Integration-Aware Defense for LLM Agents over SaaS Integrations",
+      "first_seen": "2026-06-07",
+      "last_updated": "2026-06-07",
+      "folder": "2026-06-07"
+    },
+    "2606.00497": {
+      "version": "v1",
+      "title": "\"I Strongly Suspect This Website Is a Scam\": Benchmarking PII Leakage and Detection without Defense in Autonomous Web Agents",
+      "first_seen": "2026-06-07",
+      "last_updated": "2026-06-07",
+      "folder": "2026-06-07"
+    },
+    "2606.01567": {
+      "version": "v1",
+      "title": "Defenses & Enablers For Skill Injection Attacks on Terminal Based Agents",
+      "first_seen": "2026-06-07",
+      "last_updated": "2026-06-07",
+      "folder": "2026-06-07"
+    },
+    "2606.00152": {
+      "version": "v1",
+      "title": "PrivacyPeek: Auditing What LLM-Based Agents Acquire, Not Just What They Say",
+      "first_seen": "2026-06-07",
+      "last_updated": "2026-06-07",
+      "folder": "2026-06-07"
+    },
+    "2606.00801": {
+      "version": "v1",
+      "title": "Quality-Diversity Evolution for Discovering Diverse Vulnerabilities in LLM Safety",
+      "first_seen": "2026-06-07",
+      "last_updated": "2026-06-07",
+      "folder": "2026-06-07"
+    },
+    "2606.01413": {
+      "version": "v1",
+      "title": "Differentially Private Datastore Generation for Retrieval-Augmented Inference",
+      "first_seen": "2026-06-07",
+      "last_updated": "2026-06-07",
+      "folder": "2026-06-07"
+    },
+    "2606.00654": {
+      "version": "v1",
+      "title": "The Invitation Trap: Proactive Availability Backdoor in LLMs via Conversational Induction",
+      "first_seen": "2026-06-07",
+      "last_updated": "2026-06-07",
+      "folder": "2026-06-07"
+    },
+    "2606.00150": {
+      "version": "v1",
+      "title": "Persona Attack: Incremental Memory Injection Jailbreak Attack against Large Language Models",
+      "first_seen": "2026-06-07",
+      "last_updated": "2026-06-07",
+      "folder": "2026-06-07"
+    },
+    "2606.05523": {
+      "version": "v1",
+      "title": "CHASE: Adversarial Red-Blue Teaming for Improving LLM Safety using Reinforcement Learning",
+      "first_seen": "2026-06-08",
+      "last_updated": "2026-06-08",
+      "folder": "2026-06-08"
+    },
+    "2606.05743": {
+      "version": "v1",
+      "title": "Membrane: A Self-Evolving Contrastive Safety Memory for LLM Agent Defense",
+      "first_seen": "2026-06-08",
+      "last_updated": "2026-06-08",
+      "folder": "2026-06-08"
+    },
+    "2606.06320": {
+      "version": "v1",
+      "title": "Learning What to Forget: Improving LLM Unlearning via Learned Token-Level Importance",
+      "first_seen": "2026-06-08",
+      "last_updated": "2026-06-08",
+      "folder": "2026-06-08"
+    },
+    "2606.04929": {
+      "version": "v1",
+      "title": "Sequential Data Poisoning in LLM Post-Training",
+      "first_seen": "2026-06-08",
+      "last_updated": "2026-06-08",
+      "folder": "2026-06-08"
+    },
+    "2606.01738": {
+      "version": "v1",
+      "title": "THRD: A Training-Free Multi-Turn Defense Framework for Jailbreak Attacks on Large Language Models",
+      "first_seen": "2026-06-08",
+      "last_updated": "2026-06-08",
+      "folder": "2026-06-08"
+    },
+    "2606.03785": {
+      "version": "v1",
+      "title": "Backdoor Unlearning Generalization: A Path Toward the Removal of Unknown Triggers in LLMs",
+      "first_seen": "2026-06-08",
+      "last_updated": "2026-06-08",
+      "folder": "2026-06-08"
+    },
+    "2606.01837": {
+      "version": "v1",
+      "title": "Benign Inputs, Harmful Outputs: Cross-Modal Jailbreaking via Distributed Semantic Recomposition",
+      "first_seen": "2026-06-08",
+      "last_updated": "2026-06-08",
+      "folder": "2026-06-08"
+    },
+    "2606.00813": {
+      "version": "v1",
+      "title": "Cross-Generational Transfer of Adversarial Attacks Reveals Non-Monotonic Safety Alignment in LLMs",
+      "first_seen": "2026-06-08",
+      "last_updated": "2026-06-08",
+      "folder": "2026-06-08"
+    },
+    "2606.00925": {
+      "version": "v1",
+      "title": "Benchmarking Security Risk Detection and Verification in Open Agentic Skill Ecosystems",
+      "first_seen": "2026-06-08",
+      "last_updated": "2026-06-08",
+      "folder": "2026-06-08"
+    },
+    "2606.02959": {
+      "version": "v1",
+      "title": "Gate AI: LLM Security Benchmark Evaluation Methodology and Results",
+      "first_seen": "2026-06-08",
+      "last_updated": "2026-06-08",
+      "folder": "2026-06-08"
     }
   }
 }
