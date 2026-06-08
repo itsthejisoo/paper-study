@@ -1868,6 +1868,76 @@
       "first_seen": "2026-06-08",
       "last_updated": "2026-06-08",
       "folder": "2026-06-08"
+    },
+    "2606.07502": {
+      "version": "v1",
+      "title": "Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings",
+      "first_seen": "2026-06-09",
+      "last_updated": "2026-06-09",
+      "folder": "2026-06-09"
+    },
+    "2606.00341": {
+      "version": "v1",
+      "title": "ROGUE: Revealing Out-of-Guideline Unsafe Emergent Behavior in LLM Agents",
+      "first_seen": "2026-06-09",
+      "last_updated": "2026-06-09",
+      "folder": "2026-06-09"
+    },
+    "2606.06333": {
+      "version": "v1",
+      "title": "Subspace-Aware Sparse Autoencoders for Effective Mechanistic Interpretability",
+      "first_seen": "2026-06-09",
+      "last_updated": "2026-06-09",
+      "folder": "2026-06-09"
+    },
+    "2606.05972": {
+      "version": "v1",
+      "title": "LLM Explainability with Counterfactual Chains and Causal Graphs",
+      "first_seen": "2026-06-09",
+      "last_updated": "2026-06-09",
+      "folder": "2026-06-09"
+    },
+    "2606.06267": {
+      "version": "v1",
+      "title": "Many Circuits, One Mechanism: Input Variation and Evaluation Granularity in Circuit Discovery",
+      "first_seen": "2026-06-09",
+      "last_updated": "2026-06-09",
+      "folder": "2026-06-09"
+    },
+    "2606.01243": {
+      "version": "v1",
+      "title": "Unlocking the Black Box of Latent Reasoning: An Interpretability-Guided Approach to Intervention",
+      "first_seen": "2026-06-09",
+      "last_updated": "2026-06-09",
+      "folder": "2026-06-09"
+    },
+    "2605.25765": {
+      "version": "v1",
+      "title": "Concept Unlearning via Cross-Attention Activation Projection for Diffusion Models",
+      "first_seen": "2026-06-09",
+      "last_updated": "2026-06-09",
+      "folder": "2026-06-09"
+    },
+    "2606.00342": {
+      "version": "v1",
+      "title": "PE-means: Improved Differentially Private k-means Clustering through Private Evolution",
+      "first_seen": "2026-06-09",
+      "last_updated": "2026-06-09",
+      "folder": "2026-06-09"
+    },
+    "2606.01658": {
+      "version": "v1",
+      "title": "CoreUnlearn: Rethinking Concept Unlearning through Disentangled Component-Level Erasure in Text-guided Diffusion Models",
+      "first_seen": "2026-06-09",
+      "last_updated": "2026-06-09",
+      "folder": "2026-06-09"
+    },
+    "2605.12122": {
+      "version": "v1",
+      "title": "SAEParate: Disentangled Representation Learning via Concept-Aware Contrastive SAEs for Concept Unlearning in Diffusion Models",
+      "first_seen": "2026-06-09",
+      "last_updated": "2026-06-09",
+      "folder": "2026-06-09"
     }
   }
 }
