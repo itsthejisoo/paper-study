@@ -1938,6 +1938,76 @@
       "first_seen": "2026-06-09",
       "last_updated": "2026-06-09",
       "folder": "2026-06-09"
+    },
+    "2606.08960": {
+      "version": "v1",
+      "title": "Hardening Agent Benchmarks with Adversarial Hacker-Fixer Loops",
+      "first_seen": "2026-06-10",
+      "last_updated": "2026-06-10",
+      "folder": "2026-06-10"
+    },
+    "2606.07473": {
+      "version": "v1",
+      "title": "Whisper Hallucination Detection and Mitigation via Hidden Representation Steering and Sparse AutoEncoders",
+      "first_seen": "2026-06-10",
+      "last_updated": "2026-06-10",
+      "folder": "2026-06-10"
+    },
+    "2606.07271": {
+      "version": "v1",
+      "title": "Where Rectified Flows Leak: Characterising Membership Signals Along the Interpolation Path",
+      "first_seen": "2026-06-10",
+      "last_updated": "2026-06-10",
+      "folder": "2026-06-10"
+    },
+    "2606.06735": {
+      "version": "v1",
+      "title": "A Geometric Account of Activation Steering through Angle-Norm Decomposition",
+      "first_seen": "2026-06-10",
+      "last_updated": "2026-06-10",
+      "folder": "2026-06-10"
+    },
+    "2606.06315": {
+      "version": "v1",
+      "title": "LLM Self-Recognition: Steering and Retrieving Activation Signatures",
+      "first_seen": "2026-06-10",
+      "last_updated": "2026-06-10",
+      "folder": "2026-06-10"
+    },
+    "2606.09590": {
+      "version": "v1",
+      "title": "Clinically Grounded Privacy Evaluation of Medical LMs",
+      "first_seen": "2026-06-10",
+      "last_updated": "2026-06-10",
+      "folder": "2026-06-10"
+    },
+    "2606.07970": {
+      "version": "v1",
+      "title": "Defending Against Malicious Finetuning by Scaling Train-time Adversarial Attacks",
+      "first_seen": "2026-06-10",
+      "last_updated": "2026-06-10",
+      "folder": "2026-06-10"
+    },
+    "2606.04027": {
+      "version": "v1",
+      "title": "MaskForge: Structure-Aware Adaptive Attacks for Jailbreaking Diffusion Large Language Models",
+      "first_seen": "2026-06-10",
+      "last_updated": "2026-06-10",
+      "folder": "2026-06-10"
+    },
+    "2606.06502": {
+      "version": "v1",
+      "title": "SIGIL: Subtle Injection for Ground-truth Inference of LLM Training Data",
+      "first_seen": "2026-06-10",
+      "last_updated": "2026-06-10",
+      "folder": "2026-06-10"
+    },
+    "2606.02111": {
+      "version": "v1",
+      "title": "Jailbreaking Multimodal Large Language Models using Multi-Clip Video",
+      "first_seen": "2026-06-10",
+      "last_updated": "2026-06-10",
+      "folder": "2026-06-10"
     }
   }
 }
