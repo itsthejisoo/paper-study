@@ -2008,6 +2008,76 @@
       "first_seen": "2026-06-10",
       "last_updated": "2026-06-10",
       "folder": "2026-06-10"
+    },
+    "2606.09700": {
+      "version": "v1",
+      "title": "What the Eyes See, the LLMs Miss: Exploiting Human Perception for Adversarial Text Attacks",
+      "first_seen": "2026-06-11",
+      "last_updated": "2026-06-11",
+      "folder": "2026-06-11"
+    },
+    "2606.05647": {
+      "version": "v1",
+      "title": "Coding with \"Enemy\": Can Human Developers Detect AI Agent Sabotage?",
+      "first_seen": "2026-06-11",
+      "last_updated": "2026-06-11",
+      "folder": "2026-06-11"
+    },
+    "2606.08044": {
+      "version": "v1",
+      "title": "When Behavioral Safety Evaluation Fails: A Representation-Level Perspective",
+      "first_seen": "2026-06-11",
+      "last_updated": "2026-06-11",
+      "folder": "2026-06-11"
+    },
+    "2606.07867": {
+      "version": "v1",
+      "title": "The Cold-Start Safety Gap in LLM Agents",
+      "first_seen": "2026-06-11",
+      "last_updated": "2026-06-11",
+      "folder": "2026-06-11"
+    },
+    "2606.10456": {
+      "version": "v1",
+      "title": "The Distributed Detectability Band Against Marginal-Preserving Attacks",
+      "first_seen": "2026-06-11",
+      "last_updated": "2026-06-11",
+      "folder": "2026-06-11"
+    },
+    "2606.02423": {
+      "version": "v1",
+      "title": "Investigating and Alleviating Harm Amplification in LLM Interactions",
+      "first_seen": "2026-06-11",
+      "last_updated": "2026-06-11",
+      "folder": "2026-06-11"
+    },
+    "2606.09582": {
+      "version": "v1",
+      "title": "On Choosing the μ Parameter in Gaussian Differential Privacy",
+      "first_seen": "2026-06-11",
+      "last_updated": "2026-06-11",
+      "folder": "2026-06-11"
+    },
+    "2606.04051": {
+      "version": "v1",
+      "title": "RUBAS: Rubric-Based Reinforcement Learning for Agent Safety",
+      "first_seen": "2026-06-11",
+      "last_updated": "2026-06-11",
+      "folder": "2026-06-11"
+    },
+    "2606.04067": {
+      "version": "v1",
+      "title": "Need to Know: Contextual-Integrity-Grounded Query Rewriting for Privacy-Conscious LLM Delegation",
+      "first_seen": "2026-06-11",
+      "last_updated": "2026-06-11",
+      "folder": "2026-06-11"
+    },
+    "2606.02483": {
+      "version": "v1",
+      "title": "Ghost Tool Calls: Issue-Time Privacy for Speculative Agent Tools",
+      "first_seen": "2026-06-11",
+      "last_updated": "2026-06-11",
+      "folder": "2026-06-11"
     }
   }
 }
