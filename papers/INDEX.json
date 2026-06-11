@@ -2078,6 +2078,76 @@
       "first_seen": "2026-06-11",
       "last_updated": "2026-06-11",
       "folder": "2026-06-11"
+    },
+    "2606.11817": {
+      "version": "v1",
+      "title": "Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code",
+      "first_seen": "2026-06-12",
+      "last_updated": "2026-06-12",
+      "folder": "2026-06-12"
+    },
+    "2606.02540": {
+      "version": "v1",
+      "title": "SkillHarm: Lifecycle-Aware Skill-Based Attacks via Automated Construction",
+      "first_seen": "2026-06-12",
+      "last_updated": "2026-06-12",
+      "folder": "2026-06-12"
+    },
+    "2606.11722": {
+      "version": "v1",
+      "title": "ICA Lens: Interpreting Language Models Without Training Another Dictionary",
+      "first_seen": "2026-06-12",
+      "last_updated": "2026-06-12",
+      "folder": "2026-06-12"
+    },
+    "2606.07943": {
+      "version": "v1",
+      "title": "POISE: Position-Aware Undetectable Skill Injection on LLM Agents",
+      "first_seen": "2026-06-12",
+      "last_updated": "2026-06-12",
+      "folder": "2026-06-12"
+    },
+    "2606.09401": {
+      "version": "v1",
+      "title": "Benchmarking Empirical Privacy Protection for Adaptations of Large Language Models",
+      "first_seen": "2026-06-12",
+      "last_updated": "2026-06-12",
+      "folder": "2026-06-12"
+    },
+    "2606.03990": {
+      "version": "v1",
+      "title": "Neuron Populations Exhibit Divergent Selectivity with Scale",
+      "first_seen": "2026-06-12",
+      "last_updated": "2026-06-12",
+      "folder": "2026-06-12"
+    },
+    "2606.03808": {
+      "version": "v1",
+      "title": "PURGE: Projected Unlearning via Retain-Guided Erasure",
+      "first_seen": "2026-06-12",
+      "last_updated": "2026-06-12",
+      "folder": "2026-06-12"
+    },
+    "2606.12385": {
+      "version": "v1",
+      "title": "Which Models Are Our Models Built On? Auditing Invisible Dependencies in Modern LLMs",
+      "first_seen": "2026-06-12",
+      "last_updated": "2026-06-12",
+      "folder": "2026-06-12"
+    },
+    "2606.00613": {
+      "version": "v1",
+      "title": "Linguistics-Aware Non-Distortionary LLM Watermarking",
+      "first_seen": "2026-06-12",
+      "last_updated": "2026-06-12",
+      "folder": "2026-06-12"
+    },
+    "2606.03885": {
+      "version": "v1",
+      "title": "Attribution via Distributional Paths for Information Revelation",
+      "first_seen": "2026-06-12",
+      "last_updated": "2026-06-12",
+      "folder": "2026-06-12"
     }
   }
 }
