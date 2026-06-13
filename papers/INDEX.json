@@ -2148,6 +2148,146 @@
       "first_seen": "2026-06-12",
       "last_updated": "2026-06-12",
       "folder": "2026-06-12"
+    },
+    "2606.12360": {
+      "version": "v1",
+      "title": "Anatomy of Post-Training: Using Interpretability to Characterize Data and Shape the Learning Signal",
+      "first_seen": "2026-06-13",
+      "last_updated": "2026-06-13",
+      "folder": "2026-06-13"
+    },
+    "2606.00642": {
+      "version": "v1",
+      "title": "Hidden Thoughts Are Not Secret: Reasoning Trace Exposure in LLMs",
+      "first_seen": "2026-06-13",
+      "last_updated": "2026-06-13",
+      "folder": "2026-06-13"
+    },
+    "2606.11592": {
+      "version": "v1",
+      "title": "Defense Against Prompt Inversion Attacks: An Information-Theoretic Approach for LLM Collaborative Inference",
+      "first_seen": "2026-06-13",
+      "last_updated": "2026-06-13",
+      "folder": "2026-06-13"
+    },
+    "2606.11599": {
+      "version": "v1",
+      "title": "When is Your LLM Steerable?",
+      "first_seen": "2026-06-13",
+      "last_updated": "2026-06-13",
+      "folder": "2026-06-13"
+    },
+    "2606.04168": {
+      "version": "v1",
+      "title": "When Autoregressive Consistency Hurts Safety Alignment",
+      "first_seen": "2026-06-13",
+      "last_updated": "2026-06-13",
+      "folder": "2026-06-13"
+    },
+    "2606.08454": {
+      "version": "v1",
+      "title": "Beyond Linear Activation Steering: Invertible Latent Transformations for Controlling LLM Behavior",
+      "first_seen": "2026-06-13",
+      "last_updated": "2026-06-13",
+      "folder": "2026-06-13"
+    },
+    "2606.08496": {
+      "version": "v1",
+      "title": "SAEExplainer: Interpreting SAE Features with Activation-Guided Preference Optimization",
+      "first_seen": "2026-06-13",
+      "last_updated": "2026-06-13",
+      "folder": "2026-06-13"
+    },
+    "2606.00930": {
+      "version": "v1",
+      "title": "Detection vs. Execution: Single-Bucket Probes Miss Half the Mamba-2 State Sink",
+      "first_seen": "2026-06-13",
+      "last_updated": "2026-06-13",
+      "folder": "2026-06-13"
+    },
+    "2606.03190": {
+      "version": "v1",
+      "title": "Focused on the User, Overlooking the Risks: Security and Privacy Understandings, Practices and Challenges of Independent Chinese AI Agent Developers",
+      "first_seen": "2026-06-13",
+      "last_updated": "2026-06-13",
+      "folder": "2026-06-13"
+    },
+    "2606.00027": {
+      "version": "v1",
+      "title": "A Multi-Domain Red Teaming Framework for Safety, Robustness, and Fairness Evaluation of Medical Large Language Models",
+      "first_seen": "2026-06-13",
+      "last_updated": "2026-06-13",
+      "folder": "2026-06-13"
+    },
+    "2606.11409": {
+      "version": "v1",
+      "title": "Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models",
+      "first_seen": "2026-06-14",
+      "last_updated": "2026-06-14",
+      "folder": "2026-06-14"
+    },
+    "2606.08236": {
+      "version": "v1",
+      "title": "Shared Semantics, Divergent Mechanisms: Unsupervised Feature Discovery by Aligning Semantics and Mechanisms",
+      "first_seen": "2026-06-14",
+      "last_updated": "2026-06-14",
+      "folder": "2026-06-14"
+    },
+    "2505.24379": {
+      "version": "v3",
+      "title": "Unlearned but Not Forgotten: Data Extraction after Exact Unlearning in LLM",
+      "first_seen": "2026-06-14",
+      "last_updated": "2026-06-14",
+      "folder": "2026-06-14"
+    },
+    "2606.12341": {
+      "version": "v1",
+      "title": "OCELOT: Inference-Leakage Budgets for Privacy-Preserving LLM Agents",
+      "first_seen": "2026-06-14",
+      "last_updated": "2026-06-14",
+      "folder": "2026-06-14"
+    },
+    "2606.11648": {
+      "version": "v1",
+      "title": "Dummy Backdoor as a Defense: Removing Unknown Backdoors via Shared Internal Mechanisms for Generative LLMs",
+      "first_seen": "2026-06-14",
+      "last_updated": "2026-06-14",
+      "folder": "2026-06-14"
+    },
+    "2606.09084": {
+      "version": "v1",
+      "title": "Context-Fractured Decomposition Attacks on Tool-Using LLM Agents: Exploiting Artifact Provenance Gaps",
+      "first_seen": "2026-06-14",
+      "last_updated": "2026-06-14",
+      "folder": "2026-06-14"
+    },
+    "2606.02302": {
+      "version": "v1",
+      "title": "SeClaw: Spec-Driven Security Task Synthesis for Evaluating Autonomous Agents",
+      "first_seen": "2026-06-14",
+      "last_updated": "2026-06-14",
+      "folder": "2026-06-14"
+    },
+    "2606.05004": {
+      "version": "v1",
+      "title": "SharedRequest: Privacy-Preserving Model-Agnostic Inference for Large Language Models",
+      "first_seen": "2026-06-14",
+      "last_updated": "2026-06-14",
+      "folder": "2026-06-14"
+    },
+    "2606.07524": {
+      "version": "v1",
+      "title": "ABLE: Representing and Mapping LLMs via Attribution-Based Large-model Embedding",
+      "first_seen": "2026-06-14",
+      "last_updated": "2026-06-14",
+      "folder": "2026-06-14"
+    },
+    "2506.17231": {
+      "version": "v1",
+      "title": "Efficient and Stealthy Jailbreak Attacks via Adversarial Prompt Distillation from LLMs to SLMs",
+      "first_seen": "2026-06-14",
+      "last_updated": "2026-06-14",
+      "folder": "2026-06-14"
     }
   }
 }
