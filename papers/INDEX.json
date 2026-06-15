@@ -2288,6 +2288,106 @@
       "first_seen": "2026-06-14",
       "last_updated": "2026-06-14",
       "folder": "2026-06-14"
+    },
+    "2606.10813": {
+      "version": "v2",
+      "title": "RedAct: Redacting Agent Capability Traces for Procedural Skill Protection",
+      "first_seen": "2026-06-16",
+      "domain": [
+        "agent_safety",
+        "model_ip"
+      ],
+      "source": "HF Daily"
+    },
+    "2606.10747": {
+      "version": "v1",
+      "title": "The Arbiter Agent: Continually Monitoring Multi-Agent Conversations to Detect Emergent Misalignment",
+      "first_seen": "2026-06-16",
+      "domain": [
+        "agent_safety",
+        "multi_agent"
+      ],
+      "source": "HF Daily"
+    },
+    "2606.11202": {
+      "version": "v1",
+      "title": "One Jailbreak, Many Tongues: Learning Language-Insensitive Intention Representations for Multilingual Jailbreak Detection",
+      "first_seen": "2026-06-16",
+      "domain": [
+        "jailbreak",
+        "ai_security"
+      ],
+      "source": "arxiv"
+    },
+    "2606.12291": {
+      "version": "v1",
+      "title": "Measuring Epistemic Resilience of LLMs Under Misleading Medical Context",
+      "first_seen": "2026-06-16",
+      "domain": [
+        "ai_security",
+        "adversarial_robustness"
+      ],
+      "source": "HF Daily"
+    },
+    "2606.12683": {
+      "version": "v1",
+      "title": "From AGI to ASI",
+      "first_seen": "2026-06-16",
+      "domain": [
+        "ai_safety",
+        "alignment"
+      ],
+      "source": "HF Daily"
+    },
+    "2606.14697": {
+      "version": "v1",
+      "title": "ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning",
+      "first_seen": "2026-06-16",
+      "domain": [
+        "llm_interpretability",
+        "hallucination"
+      ],
+      "source": "HF Daily"
+    },
+    "2606.12476": {
+      "version": "v2",
+      "title": "Quickest Detection of Hallucination Onset: Delay Bounds and Learned CUSUM Statistics",
+      "first_seen": "2026-06-16",
+      "domain": [
+        "llm_safety",
+        "hallucination"
+      ],
+      "source": "HF Daily"
+    },
+    "2606.06036": {
+      "version": "v1",
+      "title": "Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents",
+      "first_seen": "2026-06-16",
+      "domain": [
+        "agent_memory",
+        "agent_safety"
+      ],
+      "source": "HF Daily"
+    },
+    "2606.14502": {
+      "version": "v1",
+      "title": "From Chatbot to Digital Colleague: The Paradigm Shift Toward Persistent Autonomous AI",
+      "first_seen": "2026-06-16",
+      "domain": [
+        "ai_safety",
+        "agent_governance"
+      ],
+      "source": "HF Daily"
+    },
+    "2606.12384": {
+      "version": "v1",
+      "title": "APPO: Agentic Procedural Policy Optimization",
+      "first_seen": "2026-06-16",
+      "domain": [
+        "agent",
+        "interpretability"
+      ],
+      "source": "HF Daily"
     }
   }
 }
