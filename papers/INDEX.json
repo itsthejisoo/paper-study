@@ -2388,6 +2388,76 @@
         "interpretability"
       ],
       "source": "HF Daily"
+    },
+    "2606.12138": {
+      "version": "v1",
+      "title": "Unstable Features, Reproducible Subspaces: Understanding Seed Dependence in Sparse Autoencoders",
+      "first_seen": "2026-06-17",
+      "last_updated": "2026-06-17",
+      "folder": "2026-06-17"
+    },
+    "2606.16519": {
+      "version": "v1",
+      "title": "BadWorld: Adversarial Attacks on World Models",
+      "first_seen": "2026-06-17",
+      "last_updated": "2026-06-17",
+      "folder": "2026-06-17"
+    },
+    "2606.16952": {
+      "version": "v1",
+      "title": "Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data",
+      "first_seen": "2026-06-17",
+      "last_updated": "2026-06-17",
+      "folder": "2026-06-17"
+    },
+    "2506.13972": {
+      "version": "v2",
+      "title": "Membership Inference Attacks as Privacy Tools: Reliability, Disparity and Ensemble",
+      "first_seen": "2026-06-17",
+      "last_updated": "2026-06-17",
+      "folder": "2026-06-17"
+    },
+    "2606.10481": {
+      "version": "v1",
+      "title": "Advancing the State-of-the-Art in Empirical Privacy Auditing",
+      "first_seen": "2026-06-17",
+      "last_updated": "2026-06-17",
+      "folder": "2026-06-17"
+    },
+    "2606.09701": {
+      "version": "v1",
+      "title": "Learning to Attack and Defend: Adaptive Red Teaming of Language Models via GRPO",
+      "first_seen": "2026-06-17",
+      "last_updated": "2026-06-17",
+      "folder": "2026-06-17"
+    },
+    "2506.10424": {
+      "version": "v1",
+      "title": "SOFT: Selective Data Obfuscation for Protecting LLM Fine-tuning against Membership Inference Attacks",
+      "first_seen": "2026-06-17",
+      "last_updated": "2026-06-17",
+      "folder": "2026-06-17"
+    },
+    "2606.09178": {
+      "version": "v1",
+      "title": "Culturally-Adapted Red-Teaming Across East and Southeast Asian Contexts: A Methodological and Comparative Analysis",
+      "first_seen": "2026-06-17",
+      "last_updated": "2026-06-17",
+      "folder": "2026-06-17"
+    },
+    "2606.07443": {
+      "version": "v1",
+      "title": "Sort, Partition, Randomize: Optimal Binary Hypothesis Testing under Local Differential Privacy",
+      "first_seen": "2026-06-17",
+      "last_updated": "2026-06-17",
+      "folder": "2026-06-17"
+    },
+    "2606.11283": {
+      "version": "v1",
+      "title": "Fixed-Parameter Tractability of Private Synthetic Data Generation",
+      "first_seen": "2026-06-17",
+      "last_updated": "2026-06-17",
+      "folder": "2026-06-17"
     }
   }
 }
