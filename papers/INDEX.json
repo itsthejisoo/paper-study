@@ -2458,6 +2458,62 @@
       "first_seen": "2026-06-17",
       "last_updated": "2026-06-17",
       "folder": "2026-06-17"
+    },
+    "2606.17168": {
+      "version": "v1",
+      "title": "RepSelect: Robust LLM Unlearning via Representation Selectivity",
+      "first_seen": "2026-06-18",
+      "last_updated": "2026-06-18",
+      "folder": "papers/2026-06-18"
+    },
+    "2606.16527": {
+      "version": "v1",
+      "title": "DoubtProbe: Black-Box Jailbreak Defense via Structural Verification and Semantic Auditing",
+      "first_seen": "2026-06-18",
+      "last_updated": "2026-06-18",
+      "folder": "papers/2026-06-18"
+    },
+    "2606.15810": {
+      "version": "v1",
+      "title": "Let Them Steal: Trapping Large Language Model Extraction Attacks with Knowledge Honeypot",
+      "first_seen": "2026-06-18",
+      "last_updated": "2026-06-18",
+      "folder": "papers/2026-06-18"
+    },
+    "2606.15788": {
+      "version": "v1",
+      "title": "GAS-Leak-LLM: Genetic Algorithm-Based Suffix Optimization for Black-Box LLM Jailbreaking",
+      "first_seen": "2026-06-18",
+      "last_updated": "2026-06-18",
+      "folder": "papers/2026-06-18"
+    },
+    "2606.15899": {
+      "version": "v1",
+      "title": "SkillVetBench: LLM-as-Judge for Multi-Dimensional Security Risk Evaluation in Open-Source LLM Agent Skills",
+      "first_seen": "2026-06-18",
+      "last_updated": "2026-06-18",
+      "folder": "papers/2026-06-18"
+    },
+    "2606.15730": {
+      "version": "v1",
+      "title": "InstantForget: Update-Free Backdoor Unlearning with Inference-Time Feature Reset",
+      "first_seen": "2026-06-18",
+      "last_updated": "2026-06-18",
+      "folder": "papers/2026-06-18"
+    },
+    "2606.15819": {
+      "version": "v1",
+      "title": "SACE: Concept Erasure at the Semantic Singularity in Visual Autoregressive Models",
+      "first_seen": "2026-06-18",
+      "last_updated": "2026-06-18",
+      "folder": "papers/2026-06-18"
+    },
+    "2606.17182": {
+      "version": "v1",
+      "title": "Verified Detection and Prevention of Concurrency Anomalies in Multi-Agent Large Language Model Systems",
+      "first_seen": "2026-06-18",
+      "last_updated": "2026-06-18",
+      "folder": "papers/2026-06-18"
     }
   }
 }
