@@ -2514,6 +2514,41 @@
       "first_seen": "2026-06-18",
       "last_updated": "2026-06-18",
       "folder": "papers/2026-06-18"
+    },
+    "2606.18322": {
+      "version": "v1",
+      "title": "SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior",
+      "first_seen": "2026-06-18",
+      "last_updated": "2026-06-18",
+      "folder": "papers/2026-06-19"
+    },
+    "2606.12629": {
+      "version": "v2",
+      "title": "Bag of Dims: Training-Free Mechanistic Interpretability via Dimension-Level Sign Patterns",
+      "first_seen": "2026-06-18",
+      "last_updated": "2026-06-18",
+      "folder": "papers/2026-06-19"
+    },
+    "2606.01479": {
+      "version": "v1",
+      "title": "Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech",
+      "first_seen": "2026-06-18",
+      "last_updated": "2026-06-18",
+      "folder": "papers/2026-06-19"
+    },
+    "2606.16751": {
+      "version": "v1",
+      "title": "Automated jailbreak attack targeting multiple defense strategies",
+      "first_seen": "2026-06-18",
+      "last_updated": "2026-06-18",
+      "folder": "papers/2026-06-19"
+    },
+    "2606.10749": {
+      "version": "v1",
+      "title": "Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation",
+      "first_seen": "2026-06-18",
+      "last_updated": "2026-06-18",
+      "folder": "papers/2026-06-19"
     }
   }
 }
