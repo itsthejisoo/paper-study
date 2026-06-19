@@ -2549,6 +2549,76 @@
       "first_seen": "2026-06-18",
       "last_updated": "2026-06-18",
       "folder": "papers/2026-06-19"
+    },
+    "2606.20408": {
+      "version": "v1",
+      "title": "NRT-Bench: Benchmarking Multi-Turn Red-Teaming of LLM Operator Agents in Safety-Critical Control Rooms",
+      "first_seen": "2026-06-20",
+      "last_updated": "2026-06-20",
+      "folder": "2026-06-20"
+    },
+    "2606.09145": {
+      "version": "v1",
+      "title": "PrivCode++: Latent-Conditioned Differentially Private Code Generation for Comprehensive Guarantees",
+      "first_seen": "2026-06-20",
+      "last_updated": "2026-06-20",
+      "folder": "2026-06-20"
+    },
+    "2606.13385": {
+      "version": "v1",
+      "title": "Who Pays the Price? Stakeholder-Centric Prompt Injection Benchmarking for Real-world Web Agents",
+      "first_seen": "2026-06-20",
+      "last_updated": "2026-06-20",
+      "folder": "2026-06-20"
+    },
+    "2606.07978": {
+      "version": "v1",
+      "title": "MechLens: Late Crystallization of Factual Knowledge Explains Intervention Effectiveness in Language Models",
+      "first_seen": "2026-06-20",
+      "last_updated": "2026-06-20",
+      "folder": "2026-06-20"
+    },
+    "2606.10080": {
+      "version": "v1",
+      "title": "VFUSE: Virulent Feature Understanding with Sparse autoEncoders",
+      "first_seen": "2026-06-20",
+      "last_updated": "2026-06-20",
+      "folder": "2026-06-20"
+    },
+    "2606.20347": {
+      "version": "v1",
+      "title": "Critical Percolation as a Synthetic Data Model for Interpretability",
+      "first_seen": "2026-06-20",
+      "last_updated": "2026-06-20",
+      "folder": "2026-06-20"
+    },
+    "2606.03002": {
+      "version": "v1",
+      "title": "Perplexity Can Miss SAE Feature Damage Under Quantization",
+      "first_seen": "2026-06-20",
+      "last_updated": "2026-06-20",
+      "folder": "2026-06-20"
+    },
+    "2606.10904": {
+      "version": "v1",
+      "title": "Comparative Analysis of Inference-Time Defense Methods for Multimodal Large Language Models",
+      "first_seen": "2026-06-20",
+      "last_updated": "2026-06-20",
+      "folder": "2026-06-20"
+    },
+    "2606.02907": {
+      "version": "v1",
+      "title": "Linear Probes Detect Task Format, Not Reasoning Mode in Language Model Hidden States",
+      "first_seen": "2026-06-20",
+      "last_updated": "2026-06-20",
+      "folder": "2026-06-20"
+    },
+    "2606.09315": {
+      "version": "v1",
+      "title": "Brain-Prompt Injection: A Route-Safety Audit for BCI-LLM Agents",
+      "first_seen": "2026-06-20",
+      "last_updated": "2026-06-20",
+      "folder": "2026-06-20"
     }
   }
 }
