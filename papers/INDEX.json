@@ -2619,6 +2619,76 @@
       "first_seen": "2026-06-20",
       "last_updated": "2026-06-20",
       "folder": "2026-06-20"
+    },
+    "2606.18193": {
+      "version": "v1",
+      "title": "A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models",
+      "first_seen": "2026-06-21",
+      "last_updated": "2026-06-21",
+      "folder": "2026-06-21"
+    },
+    "2606.07963": {
+      "version": "v1",
+      "title": "Shared Latent Structures Enable Unified Backdoor Detection and Mitigation in LLMs",
+      "first_seen": "2026-06-21",
+      "last_updated": "2026-06-21",
+      "folder": "2026-06-21"
+    },
+    "2606.06529": {
+      "version": "v1",
+      "title": "Attack Selection in Agentic AI Control Evaluations Meaningfully Decreases Safety",
+      "first_seen": "2026-06-21",
+      "last_updated": "2026-06-21",
+      "folder": "2026-06-21"
+    },
+    "2606.06140": {
+      "version": "v1",
+      "title": "RedEdit: Agentic Red-Teaming of Image Safety Classifiers via MCTS-Guided Photo-Editing",
+      "first_seen": "2026-06-21",
+      "last_updated": "2026-06-21",
+      "folder": "2026-06-21"
+    },
+    "2606.16527": {
+      "version": "v1",
+      "title": "DoubtProbe: Black-Box Jailbreak Defense via Structural Verification and Semantic Auditing",
+      "first_seen": "2026-06-21",
+      "last_updated": "2026-06-21",
+      "folder": "2026-06-21"
+    },
+    "2606.13949": {
+      "version": "v1",
+      "title": "Minim: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization",
+      "first_seen": "2026-06-21",
+      "last_updated": "2026-06-21",
+      "folder": "2026-06-21"
+    },
+    "2606.05290": {
+      "version": "v1",
+      "title": "Do Models Share Safety Representations? Cross-Model Steering for Safe Visual Generation",
+      "first_seen": "2026-06-21",
+      "last_updated": "2026-06-21",
+      "folder": "2026-06-21"
+    },
+    "2606.14347": {
+      "version": "v1",
+      "title": "When Language Representations Interact: Separability and Cross-Lingual Effects in LLMs",
+      "first_seen": "2026-06-21",
+      "last_updated": "2026-06-21",
+      "folder": "2026-06-21"
+    },
+    "2506.12913": {
+      "version": "v1",
+      "title": "Jailbreak Transferability Emerges from Shared Representations",
+      "first_seen": "2026-06-21",
+      "last_updated": "2026-06-21",
+      "folder": "2026-06-21"
+    },
+    "2606.00088": {
+      "version": "v1",
+      "title": "From Frontier to Shadow AI: A Simmering Threat to Assurance and Security in Critical Infrastructure",
+      "first_seen": "2026-06-21",
+      "last_updated": "2026-06-21",
+      "folder": "2026-06-21"
     }
   }
 }
