@@ -2469,9 +2469,9 @@
     "2606.16527": {
       "version": "v1",
       "title": "DoubtProbe: Black-Box Jailbreak Defense via Structural Verification and Semantic Auditing",
-      "first_seen": "2026-06-18",
-      "last_updated": "2026-06-18",
-      "folder": "papers/2026-06-18"
+      "first_seen": "2026-06-21",
+      "last_updated": "2026-06-21",
+      "folder": "2026-06-21"
     },
     "2606.15810": {
       "version": "v1",
@@ -2648,13 +2648,6 @@
       "last_updated": "2026-06-21",
       "folder": "2026-06-21"
     },
-    "2606.16527": {
-      "version": "v1",
-      "title": "DoubtProbe: Black-Box Jailbreak Defense via Structural Verification and Semantic Auditing",
-      "first_seen": "2026-06-21",
-      "last_updated": "2026-06-21",
-      "folder": "2026-06-21"
-    },
     "2606.13949": {
       "version": "v1",
       "title": "Minim: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization",
@@ -2689,6 +2682,69 @@
       "first_seen": "2026-06-21",
       "last_updated": "2026-06-21",
       "folder": "2026-06-21"
+    },
+    "2606.16939": {
+      "version": "v1",
+      "title": "Scalable Circuit Learning for Interpreting Large Language Models",
+      "first_seen": "2026-06-22",
+      "last_updated": "2026-06-22",
+      "folder": "2026-06-22"
+    },
+    "2606.18710": {
+      "version": "v1",
+      "title": "Image Prompt Reconstruction Attacks on Distributed MLLM Inference Frameworks",
+      "first_seen": "2026-06-22",
+      "last_updated": "2026-06-22",
+      "folder": "2026-06-22"
+    },
+    "2606.19464": {
+      "version": "v1",
+      "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+      "first_seen": "2026-06-22",
+      "last_updated": "2026-06-22",
+      "folder": "2026-06-22"
+    },
+    "2606.20023": {
+      "version": "v1",
+      "title": "When Lower Privileges Suffice: Studying Over-Privileged Tool Selection in LLM Agents",
+      "first_seen": "2026-06-22",
+      "last_updated": "2026-06-22",
+      "folder": "2026-06-22"
+    },
+    "2606.20508": {
+      "version": "v1",
+      "title": "What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?",
+      "first_seen": "2026-06-22",
+      "last_updated": "2026-06-22",
+      "folder": "2026-06-22"
+    },
+    "2606.16488": {
+      "version": "v1",
+      "title": "An Energy-Driven Framework for Privacy-Aware Synthetic Data Generation",
+      "first_seen": "2026-06-22",
+      "last_updated": "2026-06-22",
+      "folder": "2026-06-22"
+    },
+    "2606.18619": {
+      "version": "v1",
+      "title": "Code-Augur: Agentic Vulnerability Detection via Specification Inference",
+      "first_seen": "2026-06-22",
+      "last_updated": "2026-06-22",
+      "folder": "2026-06-22"
+    },
+    "2606.19149": {
+      "version": "v1",
+      "title": "OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing",
+      "first_seen": "2026-06-22",
+      "last_updated": "2026-06-22",
+      "folder": "2026-06-22"
+    },
+    "2606.20502": {
+      "version": "v1",
+      "title": "Calibration Without Comprehension: Diagnosing the Limits of Fine-Tuning LLMs for Vulnerability Detection in Systems Software",
+      "first_seen": "2026-06-22",
+      "last_updated": "2026-06-22",
+      "folder": "2026-06-22"
     }
   }
 }
