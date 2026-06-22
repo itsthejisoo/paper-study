@@ -2745,6 +2745,76 @@
       "first_seen": "2026-06-22",
       "last_updated": "2026-06-22",
       "folder": "2026-06-22"
+    },
+    "2606.18829": {
+      "version": "v1",
+      "title": "GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents",
+      "first_seen": "2026-06-23",
+      "last_updated": "2026-06-23",
+      "folder": "2026-06-23"
+    },
+    "2606.20560": {
+      "version": "v1",
+      "title": "How Transparent is DiffusionGemma?",
+      "first_seen": "2026-06-23",
+      "last_updated": "2026-06-23",
+      "folder": "2026-06-23"
+    },
+    "2606.18312": {
+      "version": "v1",
+      "title": "TIGER: Inverting Transformer Gradients via Embedding-Subspace Distance Optimization",
+      "first_seen": "2026-06-23",
+      "last_updated": "2026-06-23",
+      "folder": "2026-06-23"
+    },
+    "2606.18673": {
+      "version": "v1",
+      "title": "Understanding and Mitigating Prompt Leaking Attacks in Real-World LLM-Based Applications",
+      "first_seen": "2026-06-23",
+      "last_updated": "2026-06-23",
+      "folder": "2026-06-23"
+    },
+    "2606.20470": {
+      "version": "v1",
+      "title": "Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems",
+      "first_seen": "2026-06-23",
+      "last_updated": "2026-06-23",
+      "folder": "2026-06-23"
+    },
+    "2606.18530": {
+      "version": "v1",
+      "title": "Evaluating Prompting-Based Defenses Against Domain-Camouflaged Injection Attacks",
+      "first_seen": "2026-06-23",
+      "last_updated": "2026-06-23",
+      "folder": "2026-06-23"
+    },
+    "2606.16897": {
+      "version": "v1",
+      "title": "Contrastive-Difference CKA Reveals Concept-Specific Structural Alignment Across Language Model Architectures",
+      "first_seen": "2026-06-23",
+      "last_updated": "2026-06-23",
+      "folder": "2026-06-23"
+    },
+    "2606.20243": {
+      "version": "v1",
+      "title": "Phoenix: Safe GitHub Issue Resolution via Multi-Agent LLMs",
+      "first_seen": "2026-06-23",
+      "last_updated": "2026-06-23",
+      "folder": "2026-06-23"
+    },
+    "2606.18223": {
+      "version": "v1",
+      "title": "Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents",
+      "first_seen": "2026-06-23",
+      "last_updated": "2026-06-23",
+      "folder": "2026-06-23"
+    },
+    "2606.19887": {
+      "version": "v1",
+      "title": "FFinRED: An Expert-Guided Benchmark Generation and Evaluation Framework for Financial LLM Red-Teaming",
+      "first_seen": "2026-06-23",
+      "last_updated": "2026-06-23",
+      "folder": "2026-06-23"
     }
   }
 }
