@@ -2815,6 +2815,146 @@
       "first_seen": "2026-06-23",
       "last_updated": "2026-06-23",
       "folder": "2026-06-23"
+    },
+    "2606.03811": {
+      "version": "v1",
+      "title": "AI Agents Enable Adaptive Computer Worms",
+      "first_seen": "2026-06-24",
+      "last_updated": "2026-06-24",
+      "folder": "2026-06-24"
+    },
+    "2606.21638": {
+      "version": "v1",
+      "title": "Toward Open Weight Models Without Risks: Separating Public and Private Capabilities in LLMs",
+      "first_seen": "2026-06-24",
+      "last_updated": "2026-06-24",
+      "folder": "2026-06-24"
+    },
+    "2606.23189": {
+      "version": "v1",
+      "title": "Capable but Careless: Do Computer-Use Agents Follow Contextual Integrity?",
+      "first_seen": "2026-06-24",
+      "last_updated": "2026-06-24",
+      "folder": "2026-06-24"
+    },
+    "2506.04245": {
+      "version": "v4",
+      "title": "Contextual Integrity in LLMs via Reasoning and Reinforcement Learning",
+      "first_seen": "2026-06-24",
+      "last_updated": "2026-06-24",
+      "folder": "2026-06-24"
+    },
+    "2506.15170": {
+      "version": "v3",
+      "title": "From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem",
+      "first_seen": "2026-06-24",
+      "last_updated": "2026-06-24",
+      "folder": "2026-06-24"
+    },
+    "2606.04778": {
+      "version": "v1",
+      "title": "Inference-Time Vulnerability Beyond Shallow Safety: Alignment Along Generation Trajectories",
+      "first_seen": "2026-06-24",
+      "last_updated": "2026-06-24",
+      "folder": "2026-06-24"
+    },
+    "2606.05194": {
+      "version": "v1",
+      "title": "Temporal Preference Concepts and their Functions in a Large Language Model",
+      "first_seen": "2026-06-24",
+      "last_updated": "2026-06-24",
+      "folder": "2026-06-24"
+    },
+    "2506.24068": {
+      "version": "v3",
+      "title": "STACK: Adversarial Attacks on LLM Safeguard Pipelines",
+      "first_seen": "2026-06-24",
+      "last_updated": "2026-06-24",
+      "folder": "2026-06-24"
+    },
+    "2506.12274": {
+      "version": "v1",
+      "title": "InfoFlood: Jailbreaking Large Language Models with Information Overload",
+      "first_seen": "2026-06-24",
+      "last_updated": "2026-06-24",
+      "folder": "2026-06-24"
+    },
+    "2506.19874": {
+      "version": "v1",
+      "title": "Towards Provable (In)Secure Model Weight Release Schemes",
+      "first_seen": "2026-06-24",
+      "last_updated": "2026-06-24",
+      "folder": "2026-06-24"
+    },
+    "2606.23449": {
+      "version": "v1",
+      "title": "AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction",
+      "first_seen": "2026-06-25",
+      "last_updated": "2026-06-25",
+      "folder": "papers/2026-06-25"
+    },
+    "2606.20636": {
+      "version": "v1",
+      "title": "SkillHarness: Harnessing Safe Skills for Computer-Use Agents",
+      "first_seen": "2026-06-25",
+      "last_updated": "2026-06-25",
+      "folder": "papers/2026-06-25"
+    },
+    "2606.20097": {
+      "version": "v1",
+      "title": "HydraHead: From Head-Level Functional Heterogeneity to Specialized Attention Hybridization",
+      "first_seen": "2026-06-25",
+      "last_updated": "2026-06-25",
+      "folder": "papers/2026-06-25"
+    },
+    "2606.21906": {
+      "version": "v1",
+      "title": "Deeper is Not Always Better: Mitigating the Alignment Tax via Confident Layer Decoding",
+      "first_seen": "2026-06-25",
+      "last_updated": "2026-06-25",
+      "folder": "papers/2026-06-25"
+    },
+    "2606.22875": {
+      "version": "v1",
+      "title": "FedOT: Ownership Verification and Leakage Tracing via Watermarks for Federated LDMs",
+      "first_seen": "2026-06-25",
+      "last_updated": "2026-06-25",
+      "folder": "papers/2026-06-25"
+    },
+    "2606.20553": {
+      "version": "v1",
+      "title": "From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning",
+      "first_seen": "2026-06-25",
+      "last_updated": "2026-06-25",
+      "folder": "papers/2026-06-25"
+    },
+    "2606.16788": {
+      "version": "v1",
+      "title": "SoK: Security and Privacy of Foundation-Model-Powered Robots",
+      "first_seen": "2026-06-25",
+      "last_updated": "2026-06-25",
+      "folder": "papers/2026-06-25"
+    },
+    "2606.19603": {
+      "version": "v1",
+      "title": "Comparing Linear Probes with Mahalanobis Cosine Similarity",
+      "first_seen": "2026-06-25",
+      "last_updated": "2026-06-25",
+      "folder": "papers/2026-06-25"
+    },
+    "2606.23267": {
+      "version": "v1",
+      "title": "Safe Few-Step Generation via Velocity Editing",
+      "first_seen": "2026-06-25",
+      "last_updated": "2026-06-25",
+      "folder": "papers/2026-06-25"
+    },
+    "2606.12900": {
+      "version": "v1",
+      "title": "Zero-source LLM Hallucination Detection with Human-like Criteria Probing",
+      "first_seen": "2026-06-25",
+      "last_updated": "2026-06-25",
+      "folder": "papers/2026-06-25"
     }
   }
 }
