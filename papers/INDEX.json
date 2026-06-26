@@ -2955,6 +2955,76 @@
       "first_seen": "2026-06-25",
       "last_updated": "2026-06-25",
       "folder": "papers/2026-06-25"
+    },
+    "2606.25182": {
+      "version": "v1",
+      "title": "What Intermediate Layers Know: Detecting Jailbreaks from Entropy Dynamics",
+      "first_seen": "2026-06-26",
+      "last_updated": "2026-06-26",
+      "folder": "2026-06-26"
+    },
+    "2606.21710": {
+      "version": "v1",
+      "title": "PrivacyAlign: Contextual Privacy Alignment for LLM Agents",
+      "first_seen": "2026-06-26",
+      "last_updated": "2026-06-26",
+      "folder": "2026-06-26"
+    },
+    "2606.12809": {
+      "version": "v1",
+      "title": "MLUBench: A Benchmark for Lifelong Unlearning Evaluation in Multimodal Large Language Models",
+      "first_seen": "2026-06-26",
+      "last_updated": "2026-06-26",
+      "folder": "2026-06-26"
+    },
+    "2606.10525": {
+      "version": "v1",
+      "title": "Assessing Automated Prompt Injection Attacks in Agentic Environments",
+      "first_seen": "2026-06-26",
+      "last_updated": "2026-06-26",
+      "folder": "2026-06-26"
+    },
+    "2606.11425": {
+      "version": "v1",
+      "title": "JailbreakOPT: Tool-Assisted Iterative Jailbreak Prompt Optimization",
+      "first_seen": "2026-06-26",
+      "last_updated": "2026-06-26",
+      "folder": "2026-06-26"
+    },
+    "2606.15396": {
+      "version": "v1",
+      "title": "CHILLGuard: Towards Fine-Grained Chinese LLM Safety Guardrail",
+      "first_seen": "2026-06-26",
+      "last_updated": "2026-06-26",
+      "folder": "2026-06-26"
+    },
+    "2606.23380": {
+      "version": "v2",
+      "title": "Affective AI Safety: The Missing Piece in LLM Safety",
+      "first_seen": "2026-06-26",
+      "last_updated": "2026-06-26",
+      "folder": "2026-06-26"
+    },
+    "2606.10029": {
+      "version": "v1",
+      "title": "Interpreting and Steering a Text-to-Speech Language Model with Sparse Autoencoders",
+      "first_seen": "2026-06-26",
+      "last_updated": "2026-06-26",
+      "folder": "2026-06-26"
+    },
+    "2606.10794": {
+      "version": "v2",
+      "title": "READER: Robust Evidence-based Authorship Decoding via Extracted Representations",
+      "first_seen": "2026-06-26",
+      "last_updated": "2026-06-26",
+      "folder": "2026-06-26"
+    },
+    "2606.06857": {
+      "version": "v1",
+      "title": "Interpreting Brain Responses to Language with Sparse Features from Language Models",
+      "first_seen": "2026-06-26",
+      "last_updated": "2026-06-26",
+      "folder": "2026-06-26"
     }
   }
 }
