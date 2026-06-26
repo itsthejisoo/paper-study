@@ -3025,6 +3025,76 @@
       "first_seen": "2026-06-26",
       "last_updated": "2026-06-26",
       "folder": "2026-06-26"
+    },
+    "2508.04039": {
+      "version": "v1",
+      "title": "Large Reasoning Models Are Autonomous Jailbreak Agents",
+      "first_seen": "2026-06-27",
+      "last_updated": "2026-06-27",
+      "folder": "2026-06-27"
+    },
+    "2606.17114": {
+      "version": "v1",
+      "title": "An Evaluation of Data Leakage Risks in Tool-Using LLM Agents in Realistic Scenarios",
+      "first_seen": "2026-06-27",
+      "last_updated": "2026-06-27",
+      "folder": "2026-06-27"
+    },
+    "2606.19660": {
+      "version": "v1",
+      "title": "A Layered Security Framework Against Prompt Injection in RAG-Based Chatbots",
+      "first_seen": "2026-06-27",
+      "last_updated": "2026-06-27",
+      "folder": "2026-06-27"
+    },
+    "2606.23030": {
+      "version": "v1",
+      "title": "Have You Ever Seen Them? Entity-level Membership Inference through Interrogating Large Language Models",
+      "first_seen": "2026-06-27",
+      "last_updated": "2026-06-27",
+      "folder": "2026-06-27"
+    },
+    "2506.22557": {
+      "version": "v1",
+      "title": "MetaCipher: A Time-Persistent and Universal Multi-Agent Framework for Cipher-Based Jailbreak Attacks for LLMs",
+      "first_seen": "2026-06-27",
+      "last_updated": "2026-06-27",
+      "folder": "2026-06-27"
+    },
+    "2510.02917": {
+      "version": "v1",
+      "title": "Mechanistic Interpretability of Code Correctness in LLMs via Sparse Autoencoders",
+      "first_seen": "2026-06-27",
+      "last_updated": "2026-06-27",
+      "folder": "2026-06-27"
+    },
+    "2503.11232": {
+      "version": "v1",
+      "title": "PrivacyScalpel: Enhancing LLM Privacy via Interpretable Feature Intervention with Sparse Autoencoders",
+      "first_seen": "2026-06-27",
+      "last_updated": "2026-06-27",
+      "folder": "2026-06-27"
+    },
+    "2506.05640": {
+      "version": "v2",
+      "title": "FedShield-LLM: A Secure and Scalable Federated Fine-Tuned Large Language Model",
+      "first_seen": "2026-06-27",
+      "last_updated": "2026-06-27",
+      "folder": "2026-06-27"
+    },
+    "2508.09363": {
+      "version": "v1",
+      "title": "Resurrecting the Salmon: Rethinking Mechanistic Interpretability with Domain-Specific Sparse Autoencoders",
+      "first_seen": "2026-06-27",
+      "last_updated": "2026-06-27",
+      "folder": "2026-06-27"
+    },
+    "2603.23269": {
+      "version": "v1",
+      "title": "Not All Tokens Are Created Equal: Query-Efficient Jailbreak Fuzzing for LLMs",
+      "first_seen": "2026-06-27",
+      "last_updated": "2026-06-27",
+      "folder": "2026-06-27"
     }
   }
 }
