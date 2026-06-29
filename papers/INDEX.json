@@ -3095,6 +3095,76 @@
       "first_seen": "2026-06-27",
       "last_updated": "2026-06-27",
       "folder": "2026-06-27"
+    },
+    "2504.13151": {
+      "version": "v2",
+      "title": "MIB: A Mechanistic Interpretability Benchmark",
+      "first_seen": "2026-06-29",
+      "last_updated": "2026-06-29",
+      "folder": "2026-06-29"
+    },
+    "2506.17353": {
+      "version": "v1",
+      "title": "Differentiation-Based Extraction of Proprietary Data from Fine-Tuned LLMs",
+      "first_seen": "2026-06-29",
+      "last_updated": "2026-06-29",
+      "folder": "2026-06-29"
+    },
+    "2606.26161": {
+      "version": "v1",
+      "title": "Refusal Lives Downstream of Persona in Chat Models",
+      "first_seen": "2026-06-29",
+      "last_updated": "2026-06-29",
+      "folder": "2026-06-29"
+    },
+    "2506.22521": {
+      "version": "v1",
+      "title": "A Survey on Model Extraction Attacks and Defenses for Large Language Models",
+      "first_seen": "2026-06-29",
+      "last_updated": "2026-06-29",
+      "folder": "2026-06-29"
+    },
+    "2606.26396": {
+      "version": "v1",
+      "title": "At the Edge of Understanding: Sparse Autoencoders Trace The Limits of Transformer Generalization",
+      "first_seen": "2026-06-29",
+      "last_updated": "2026-06-29",
+      "folder": "2026-06-29"
+    },
+    "2506.12699": {
+      "version": "v2",
+      "title": "SoK: The Privacy Paradox of Large Language Models: Advancements, Privacy Risks, and Mitigation",
+      "first_seen": "2026-06-29",
+      "last_updated": "2026-06-29",
+      "folder": "2026-06-29"
+    },
+    "2506.07402": {
+      "version": "v1",
+      "title": "Beyond Jailbreaks: Revealing Stealthier and Broader LLM Security Risks Stemming from Alignment Failures",
+      "first_seen": "2026-06-29",
+      "last_updated": "2026-06-29",
+      "folder": "2026-06-29"
+    },
+    "2506.04250": {
+      "version": "v1",
+      "title": "SafeSteer: Interpretable Safety Steering with Refusal-Evasion in LLMs",
+      "first_seen": "2026-06-29",
+      "last_updated": "2026-06-29",
+      "folder": "2026-06-29"
+    },
+    "2506.09227": {
+      "version": "v1",
+      "title": "SoK: Machine Unlearning for Large Language Models",
+      "first_seen": "2026-06-29",
+      "last_updated": "2026-06-29",
+      "folder": "2026-06-29"
+    },
+    "2506.10946": {
+      "version": "v2",
+      "title": "GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models",
+      "first_seen": "2026-06-29",
+      "last_updated": "2026-06-29",
+      "folder": "2026-06-29"
     }
   }
 }
