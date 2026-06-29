@@ -3165,6 +3165,76 @@
       "first_seen": "2026-06-29",
       "last_updated": "2026-06-29",
       "folder": "2026-06-29"
+    },
+    "2606.22873": {
+      "version": "v3",
+      "title": "SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning",
+      "first_seen": "2026-06-30",
+      "last_updated": "2026-06-30",
+      "folder": "papers/2026-06-30"
+    },
+    "2606.27379": {
+      "version": "v1",
+      "title": "Position: The Term \"Machine Unlearning\" Is Overused in LLMs",
+      "first_seen": "2026-06-30",
+      "last_updated": "2026-06-30",
+      "folder": "papers/2026-06-30"
+    },
+    "2606.27632": {
+      "version": "v1",
+      "title": "Yuvion LLM: An Adversarially-Aware Large Language Model for Content And AI Safety",
+      "first_seen": "2026-06-30",
+      "last_updated": "2026-06-30",
+      "folder": "papers/2026-06-30"
+    },
+    "2606.18062": {
+      "version": "v1",
+      "title": "Security and Privacy Prompts in the Wild: What Users Ask LLMs and How LLMs Respond",
+      "first_seen": "2026-06-30",
+      "last_updated": "2026-06-30",
+      "folder": "papers/2026-06-30"
+    },
+    "2606.22528": {
+      "version": "v1",
+      "title": "Governance Decay: How Context Compaction Silently Erases Safety Constraints in Long-Horizon LLM Agents",
+      "first_seen": "2026-06-30",
+      "last_updated": "2026-06-30",
+      "folder": "papers/2026-06-30"
+    },
+    "2606.12737": {
+      "version": "v1",
+      "title": "PI-Hunter: Automated Red-Teaming for Exposing and Localizing Prompt Injections",
+      "first_seen": "2026-06-30",
+      "last_updated": "2026-06-30",
+      "folder": "papers/2026-06-30"
+    },
+    "2606.23927": {
+      "version": "v1",
+      "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+      "first_seen": "2026-06-30",
+      "last_updated": "2026-06-30",
+      "folder": "papers/2026-06-30"
+    },
+    "2606.19755": {
+      "version": "v1",
+      "title": "SafeSpec: Fast and Safe LLM via Dynamic Reflective Sampling",
+      "first_seen": "2026-06-30",
+      "last_updated": "2026-06-30",
+      "folder": "papers/2026-06-30"
+    },
+    "2606.18310": {
+      "version": "v1",
+      "title": "Conflict-Aware Retriever Editing for Knowledge Injection Attacks on LLM-Based RAG Systems",
+      "first_seen": "2026-06-30",
+      "last_updated": "2026-06-30",
+      "folder": "papers/2026-06-30"
+    },
+    "2606.26936": {
+      "version": "v1",
+      "title": "Jailbreaking for the Average Jane: Choosing Optimal Jailbreaks via Bandit Algorithms for Automatically Enhanced Queries",
+      "first_seen": "2026-06-30",
+      "last_updated": "2026-06-30",
+      "folder": "papers/2026-06-30"
     }
   }
 }
