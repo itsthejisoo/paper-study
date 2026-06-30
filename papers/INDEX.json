@@ -3235,6 +3235,76 @@
       "first_seen": "2026-06-30",
       "last_updated": "2026-06-30",
       "folder": "papers/2026-06-30"
+    },
+    "2606.28733": {
+      "version": "v1",
+      "title": "Agentic Abstention: Do Agents Know When to Stop Instead of Act?",
+      "first_seen": "2026-07-01",
+      "last_updated": "2026-07-01",
+      "folder": "2026-07-01"
+    },
+    "2606.29225": {
+      "version": "v1",
+      "title": "PolicyGuard: A Dialogue-Grounded Sub-Agent Verifier for Policy Adherence in LLM Agents",
+      "first_seen": "2026-07-01",
+      "last_updated": "2026-07-01",
+      "folder": "2026-07-01"
+    },
+    "2606.29887": {
+      "version": "v1",
+      "title": "SafePyramid: A Hierarchical Benchmark for In-context Policy Guardrailing",
+      "first_seen": "2026-07-01",
+      "last_updated": "2026-07-01",
+      "folder": "2026-07-01"
+    },
+    "2606.23404": {
+      "version": "v1",
+      "title": "ReasoningLens: Hierarchical Visualization and Diagnostic Auditing for Large Reasoning Models",
+      "first_seen": "2026-07-01",
+      "last_updated": "2026-07-01",
+      "folder": "2026-07-01"
+    },
+    "2601.14004": {
+      "version": "v1",
+      "title": "Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models",
+      "first_seen": "2026-07-01",
+      "last_updated": "2026-07-01",
+      "folder": "2026-07-01"
+    },
+    "2603.19375": {
+      "version": "v1",
+      "title": "Automated Membership Inference Attacks: Discovering MIA Signal Computations using LLM Agents",
+      "first_seen": "2026-07-01",
+      "last_updated": "2026-07-01",
+      "folder": "2026-07-01"
+    },
+    "2507.00665": {
+      "version": "v1",
+      "title": "SAFER: Probing Safety in Reward Models with Sparse Autoencoder",
+      "first_seen": "2026-07-01",
+      "last_updated": "2026-07-01",
+      "folder": "2026-07-01"
+    },
+    "2602.24009": {
+      "version": "v3",
+      "title": "Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking",
+      "first_seen": "2026-07-01",
+      "last_updated": "2026-07-01",
+      "folder": "2026-07-01"
+    },
+    "2606.09204": {
+      "version": "v1",
+      "title": "The Injection Paradox: Brand-Level Suppression in Safety-Trained LLM Recommendations via RAG Context Injection",
+      "first_seen": "2026-07-01",
+      "last_updated": "2026-07-01",
+      "folder": "2026-07-01"
+    },
+    "2507.07146": {
+      "version": "v2",
+      "title": "Attention-Aware GNN-based Input Defense against Multi-Turn LLM Jailbreak",
+      "first_seen": "2026-07-01",
+      "last_updated": "2026-07-01",
+      "folder": "2026-07-01"
     }
   }
 }
