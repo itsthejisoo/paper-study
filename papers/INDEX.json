@@ -3305,6 +3305,146 @@
       "first_seen": "2026-07-01",
       "last_updated": "2026-07-01",
       "folder": "2026-07-01"
+    },
+    "2606.22673": {
+      "version": "v1",
+      "title": "AgentLens: Interpretable Safety Steering via Mechanistic Subspaces for Multi-Turn Coding Agent",
+      "first_seen": "2026-07-02",
+      "last_updated": "2026-07-02",
+      "folder": "2026-07-02"
+    },
+    "2606.26968": {
+      "version": "v1",
+      "title": "RedVox: Safety and Fairness Gaps in Speech Models Across Languages",
+      "first_seen": "2026-07-02",
+      "last_updated": "2026-07-02",
+      "folder": "2026-07-02"
+    },
+    "2604.10326": {
+      "version": "v1",
+      "title": "Jailbreaking the Matrix: Nullspace Steering for Controlled Model Subversion",
+      "first_seen": "2026-07-02",
+      "last_updated": "2026-07-02",
+      "folder": "2026-07-02"
+    },
+    "2602.12418": {
+      "version": "v1",
+      "title": "Sparse Autoencoders are Capable LLM Jailbreak Mitigators",
+      "first_seen": "2026-07-02",
+      "last_updated": "2026-07-02",
+      "folder": "2026-07-02"
+    },
+    "2603.05773": {
+      "version": "v2",
+      "title": "Knowing without Acting: The Disentangled Geometry of Safety Mechanisms in Large Language Models",
+      "first_seen": "2026-07-02",
+      "last_updated": "2026-07-02",
+      "folder": "2026-07-02"
+    },
+    "2606.26620": {
+      "version": "v1",
+      "title": "Discovering Millions of Interpretable Features with Sparse Autoencoders",
+      "first_seen": "2026-07-02",
+      "last_updated": "2026-07-02",
+      "folder": "2026-07-02"
+    },
+    "2606.17110": {
+      "version": "v2",
+      "title": "Loss Landscape Poisoning: Targeted Extraction of Unseen Training Data from LLMs",
+      "first_seen": "2026-07-02",
+      "last_updated": "2026-07-02",
+      "folder": "2026-07-02"
+    },
+    "2606.26627": {
+      "version": "v1",
+      "title": "Agents That Know Too Much: A Data-Centric Survey of Privacy in LLM Agents",
+      "first_seen": "2026-07-02",
+      "last_updated": "2026-07-02",
+      "folder": "2026-07-02"
+    },
+    "2507.01020": {
+      "version": "v1",
+      "title": "AutoAdv: Automated Adversarial Prompting for Multi-Turn Jailbreaking of Large Language Models",
+      "first_seen": "2026-07-02",
+      "last_updated": "2026-07-02",
+      "folder": "2026-07-02"
+    },
+    "2604.23711": {
+      "version": "v1",
+      "title": "SPORE: Efficient and Training-Free Privacy Extraction Attack on LLMs via Inference-Time Hybrid Probing",
+      "first_seen": "2026-07-02",
+      "last_updated": "2026-07-02",
+      "folder": "2026-07-02"
+    },
+    "2607.00572": {
+      "version": "v1",
+      "title": "HARC: Coupling Harmfulness and Refusal Directions for Robust Safety Alignment",
+      "first_seen": "2026-07-03",
+      "last_updated": "2026-07-03",
+      "folder": "2026-07-03"
+    },
+    "2607.00361": {
+      "version": "v1",
+      "title": "ReShift: Aha-Moment-Driven Reasoning-Level Backdoor Attacks on Vision-Language Models",
+      "first_seen": "2026-07-03",
+      "last_updated": "2026-07-03",
+      "folder": "2026-07-03"
+    },
+    "2607.00333": {
+      "version": "v1",
+      "title": "(A)I Sees What You Don't: Exploiting New Attack Surfaces in Third-Party Mobile Agents",
+      "first_seen": "2026-07-03",
+      "last_updated": "2026-07-03",
+      "folder": "2026-07-03"
+    },
+    "2607.00422": {
+      "version": "v1",
+      "title": "KidnapRAG: A Black-Box Attack for Hijacking Reasoning in Agentic Retrieval-Augmented Generation Systems",
+      "first_seen": "2026-07-03",
+      "last_updated": "2026-07-03",
+      "folder": "2026-07-03"
+    },
+    "2607.00481": {
+      "version": "v1",
+      "title": "Beyond the Prompt: Jailbreaking Function-Calling LLMs via Simulated Moderation Traces",
+      "first_seen": "2026-07-03",
+      "last_updated": "2026-07-03",
+      "folder": "2026-07-03"
+    },
+    "2607.00362": {
+      "version": "v1",
+      "title": "SoK: Attack and Defense Landscape of Mobile On-device AI Systems",
+      "first_seen": "2026-07-03",
+      "last_updated": "2026-07-03",
+      "folder": "2026-07-03"
+    },
+    "2607.00576": {
+      "version": "v1",
+      "title": "Safe Alone, Unsafe Together: Safeguarding Against Implicit Toxicity When Benign Images Combine",
+      "first_seen": "2026-07-03",
+      "last_updated": "2026-07-03",
+      "folder": "2026-07-03"
+    },
+    "2607.01208": {
+      "version": "v1",
+      "title": "Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation",
+      "first_seen": "2026-07-03",
+      "last_updated": "2026-07-03",
+      "folder": "2026-07-03"
+    },
+    "2607.01047": {
+      "version": "v1",
+      "title": "Conversable Complexity: Agentic LLM Collectives as Interpretable Substrates",
+      "first_seen": "2026-07-03",
+      "last_updated": "2026-07-03",
+      "folder": "2026-07-03"
+    },
+    "2607.01153": {
+      "version": "v1",
+      "title": "Adversarial Pragmatics for AI Safety Evaluation: A Benchmark for Instruction Conflict, Embedded Commands, and Policy Ambiguity",
+      "first_seen": "2026-07-03",
+      "last_updated": "2026-07-03",
+      "folder": "2026-07-03"
     }
   }
 }
