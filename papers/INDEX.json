@@ -3445,6 +3445,76 @@
       "first_seen": "2026-07-03",
       "last_updated": "2026-07-03",
       "folder": "2026-07-03"
+    },
+    "2605.30727": {
+      "version": "v1",
+      "title": "MosaicLeaks: Privacy Risks in Querying-in-the-Open for Deep Research Agents",
+      "first_seen": "2026-07-04",
+      "last_updated": "2026-07-04",
+      "folder": "2026-07-04"
+    },
+    "2604.10577": {
+      "version": "v1",
+      "title": "The Blind Spot of Agent Safety: How Benign User Instructions Expose Critical Vulnerabilities in Computer-Use Agents",
+      "first_seen": "2026-07-04",
+      "last_updated": "2026-07-04",
+      "folder": "2026-07-04"
+    },
+    "2606.28153": {
+      "version": "v1",
+      "title": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models",
+      "first_seen": "2026-07-04",
+      "last_updated": "2026-07-04",
+      "folder": "2026-07-04"
+    },
+    "2607.02514": {
+      "version": "v1",
+      "title": "Distributed Attacks in Persistent-State AI Control",
+      "first_seen": "2026-07-04",
+      "last_updated": "2026-07-04",
+      "folder": "2026-07-04"
+    },
+    "2607.02510": {
+      "version": "v1",
+      "title": "Online Safety Monitoring for LLMs",
+      "first_seen": "2026-07-04",
+      "last_updated": "2026-07-04",
+      "folder": "2026-07-04"
+    },
+    "2606.24408": {
+      "version": "v1",
+      "title": "Natural Identifiers for Privacy and Data Audits in Large Language Models",
+      "first_seen": "2026-07-04",
+      "last_updated": "2026-07-04",
+      "folder": "2026-07-04"
+    },
+    "2604.18697": {
+      "version": "v1",
+      "title": "Beyond Indistinguishability: Measuring Extraction Risk in LLM APIs",
+      "first_seen": "2026-07-04",
+      "last_updated": "2026-07-04",
+      "folder": "2026-07-04"
+    },
+    "2604.00209": {
+      "version": "v1",
+      "title": "Do LLMs Know What Is Private Internally? Probing and Steering Contextual Privacy Norms in Large Language Model Representations",
+      "first_seen": "2026-07-04",
+      "last_updated": "2026-07-04",
+      "folder": "2026-07-04"
+    },
+    "2605.29251": {
+      "version": "v1",
+      "title": "Provably Secure Agent Guardrail",
+      "first_seen": "2026-07-04",
+      "last_updated": "2026-07-04",
+      "folder": "2026-07-04"
+    },
+    "2604.23130": {
+      "version": "v1",
+      "title": "Mechanistic Steering of LLMs Reveals Layer-wise Feature Vulnerabilities in Adversarial Settings",
+      "first_seen": "2026-07-04",
+      "last_updated": "2026-07-04",
+      "folder": "2026-07-04"
     }
   }
 }
