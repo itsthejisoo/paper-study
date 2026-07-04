@@ -3515,6 +3515,76 @@
       "first_seen": "2026-07-04",
       "last_updated": "2026-07-04",
       "folder": "2026-07-04"
+    },
+    "2607.01002": {
+      "version": "v1",
+      "title": "Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads",
+      "first_seen": "2026-07-05",
+      "last_updated": "2026-07-05",
+      "folder": "2026-07-05"
+    },
+    "2607.00325": {
+      "version": "v1",
+      "title": "Watermarking for Proprietary Dataset Protection",
+      "first_seen": "2026-07-05",
+      "last_updated": "2026-07-05",
+      "folder": "2026-07-05"
+    },
+    "2607.02396": {
+      "version": "v1",
+      "title": "Fast Multi-dimensional Refusal Subspaces via RFM-AGOP",
+      "first_seen": "2026-07-05",
+      "last_updated": "2026-07-05",
+      "folder": "2026-07-05"
+    },
+    "2607.00876": {
+      "version": "v2",
+      "title": "The Binary Tree Mechanism is Optimal for Approximate Differentially Private Continual Counting",
+      "first_seen": "2026-07-05",
+      "last_updated": "2026-07-05",
+      "folder": "2026-07-05"
+    },
+    "2607.02389": {
+      "version": "v1",
+      "title": "Steerability via constraints: a substrate for scalable oversight of coding agents",
+      "first_seen": "2026-07-05",
+      "last_updated": "2026-07-05",
+      "folder": "2026-07-05"
+    },
+    "2607.01686": {
+      "version": "v1",
+      "title": "WARP: Weight-Space Analysis for Recovering Training Data Portfolios",
+      "first_seen": "2026-07-05",
+      "last_updated": "2026-07-05",
+      "folder": "2026-07-05"
+    },
+    "2607.00510": {
+      "version": "v1",
+      "title": "Prototype Language Models",
+      "first_seen": "2026-07-05",
+      "last_updated": "2026-07-05",
+      "folder": "2026-07-05"
+    },
+    "2607.01859": {
+      "version": "v1",
+      "title": "Safety Targeted Embedding Exploit via Refinement",
+      "first_seen": "2026-07-05",
+      "last_updated": "2026-07-05",
+      "folder": "2026-07-05"
+    },
+    "2607.00089": {
+      "version": "v1",
+      "title": "Representation as a Bottleneck for Mechanistic Interpretability: The Manifestation Unit Protocol",
+      "first_seen": "2026-07-05",
+      "last_updated": "2026-07-05",
+      "folder": "2026-07-05"
+    },
+    "2607.00403": {
+      "version": "v1",
+      "title": "A Penny for Your Prompts: Experiments Detecting and Mitigating LLM Usage by Survey Respondents",
+      "first_seen": "2026-07-05",
+      "last_updated": "2026-07-05",
+      "folder": "2026-07-05"
     }
   }
 }
