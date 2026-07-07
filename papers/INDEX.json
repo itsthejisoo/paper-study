@@ -3379,16 +3379,16 @@
     "2607.00572": {
       "version": "v1",
       "title": "HARC: Coupling Harmfulness and Refusal Directions for Robust Safety Alignment",
-      "first_seen": "2026-07-03",
-      "last_updated": "2026-07-03",
-      "folder": "2026-07-03"
+      "first_seen": "2026-07-08",
+      "last_updated": "2026-07-08",
+      "folder": "2026-07-08"
     },
     "2607.00361": {
       "version": "v1",
       "title": "ReShift: Aha-Moment-Driven Reasoning-Level Backdoor Attacks on Vision-Language Models",
-      "first_seen": "2026-07-03",
-      "last_updated": "2026-07-03",
-      "folder": "2026-07-03"
+      "first_seen": "2026-07-08",
+      "last_updated": "2026-07-08",
+      "folder": "2026-07-08"
     },
     "2607.00333": {
       "version": "v1",
@@ -3400,16 +3400,16 @@
     "2607.00422": {
       "version": "v1",
       "title": "KidnapRAG: A Black-Box Attack for Hijacking Reasoning in Agentic Retrieval-Augmented Generation Systems",
-      "first_seen": "2026-07-03",
-      "last_updated": "2026-07-03",
-      "folder": "2026-07-03"
+      "first_seen": "2026-07-08",
+      "last_updated": "2026-07-08",
+      "folder": "2026-07-08"
     },
     "2607.00481": {
       "version": "v1",
       "title": "Beyond the Prompt: Jailbreaking Function-Calling LLMs via Simulated Moderation Traces",
-      "first_seen": "2026-07-03",
-      "last_updated": "2026-07-03",
-      "folder": "2026-07-03"
+      "first_seen": "2026-07-08",
+      "last_updated": "2026-07-08",
+      "folder": "2026-07-08"
     },
     "2607.00362": {
       "version": "v1",
@@ -3421,9 +3421,9 @@
     "2607.00576": {
       "version": "v1",
       "title": "Safe Alone, Unsafe Together: Safeguarding Against Implicit Toxicity When Benign Images Combine",
-      "first_seen": "2026-07-03",
-      "last_updated": "2026-07-03",
-      "folder": "2026-07-03"
+      "first_seen": "2026-07-08",
+      "last_updated": "2026-07-08",
+      "folder": "2026-07-08"
     },
     "2607.01208": {
       "version": "v1",
@@ -3585,6 +3585,181 @@
       "first_seen": "2026-07-05",
       "last_updated": "2026-07-05",
       "folder": "2026-07-05"
+    },
+    "2606.31748": {
+      "version": "v1",
+      "title": "Addressing Over-Refusal in LLMs with Competing Rewards",
+      "first_seen": "2026-07-06",
+      "last_updated": "2026-07-06",
+      "folder": "2026-07-06"
+    },
+    "2606.31474": {
+      "version": "v1",
+      "title": "TabPATE: Differentially Private Tabular In-Context Learning Without Public Data",
+      "first_seen": "2026-07-06",
+      "last_updated": "2026-07-06",
+      "folder": "2026-07-06"
+    },
+    "2606.31991": {
+      "version": "v1",
+      "title": "Amplifying Membership Signal Through Chained Regeneration",
+      "first_seen": "2026-07-06",
+      "last_updated": "2026-07-06",
+      "folder": "2026-07-06"
+    },
+    "2606.31591": {
+      "version": "v1",
+      "title": "Evil Spectra: How Optimisers can Amplify or Suppress Emergent Misalignment",
+      "first_seen": "2026-07-06",
+      "last_updated": "2026-07-06",
+      "folder": "2026-07-06"
+    },
+    "2606.31394": {
+      "version": "v1",
+      "title": "Resolving superposition in AI for interpretability and cross-modal alignment in patient-neuronal images",
+      "first_seen": "2026-07-06",
+      "last_updated": "2026-07-06",
+      "folder": "2026-07-06"
+    },
+    "2606.32022": {
+      "version": "v1",
+      "title": "SemRF: A Semantic Reference Frame for Residual-Stream Dynamics in Language Models",
+      "first_seen": "2026-07-06",
+      "last_updated": "2026-07-06",
+      "folder": "2026-07-06"
+    },
+    "2607.01336": {
+      "version": "v1",
+      "title": "Mechanistic Interpretability and Causal Feature Steering of Neural Quantum States via Sparse Autoencoders",
+      "first_seen": "2026-07-06",
+      "last_updated": "2026-07-06",
+      "folder": "2026-07-06"
+    },
+    "2607.00440": {
+      "version": "v1",
+      "title": "Minos: A Multi-Agent Collaborative Framework for Provenance-Based Backward Tracking",
+      "first_seen": "2026-07-06",
+      "last_updated": "2026-07-06",
+      "folder": "2026-07-06"
+    },
+    "2607.01138": {
+      "version": "v1",
+      "title": "Antaeus: Hunting Repository-Level Logic Vulnerabilities via Context-Grounded LLM Reasoning",
+      "first_seen": "2026-07-06",
+      "last_updated": "2026-07-06",
+      "folder": "2026-07-06"
+    },
+    "2606.31742": {
+      "version": "v1",
+      "title": "FedXDS: Leveraging Model Attribution Methods to counteract Data Heterogeneity in Federated Learning",
+      "first_seen": "2026-07-06",
+      "last_updated": "2026-07-06",
+      "folder": "2026-07-06"
+    },
+    "2606.31227": {
+      "version": "v1",
+      "title": "Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming",
+      "first_seen": "2026-07-07",
+      "last_updated": "2026-07-07",
+      "folder": "2026-07-07"
+    },
+    "2507.11097": {
+      "version": "v1",
+      "title": "The Devil behind the mask: An emergent safety vulnerability of Diffusion LLMs",
+      "first_seen": "2026-07-07",
+      "last_updated": "2026-07-07",
+      "folder": "2026-07-07"
+    },
+    "2507.22171": {
+      "version": "v3",
+      "title": "Enhancing Jailbreak Attacks on LLMs via Persona Prompts",
+      "first_seen": "2026-07-07",
+      "last_updated": "2026-07-07",
+      "folder": "2026-07-07"
+    },
+    "2507.04446": {
+      "version": "v4",
+      "title": "Sampling-aware Adversarial Attacks Against Large Language Models",
+      "first_seen": "2026-07-07",
+      "last_updated": "2026-07-07",
+      "folder": "2026-07-07"
+    },
+    "2507.02844": {
+      "version": "v1",
+      "title": "Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection",
+      "first_seen": "2026-07-07",
+      "last_updated": "2026-07-07",
+      "folder": "2026-07-07"
+    },
+    "2607.02513": {
+      "version": "v1",
+      "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+      "first_seen": "2026-07-07",
+      "last_updated": "2026-07-07",
+      "folder": "2026-07-07"
+    },
+    "2607.02079": {
+      "version": "v1",
+      "title": "HaloGuard 1.0: An Open Weights Constitutional Classifier for Multilingual AI Safety",
+      "first_seen": "2026-07-07",
+      "last_updated": "2026-07-07",
+      "folder": "2026-07-07"
+    },
+    "2607.02047": {
+      "version": "v1",
+      "title": "OpenSafeIntent: Evaluating Intent-Calibrated Safe Completion Across Dual-Use Prompt Sets",
+      "first_seen": "2026-07-07",
+      "last_updated": "2026-07-07",
+      "folder": "2026-07-07"
+    },
+    "2607.01802": {
+      "version": "v1",
+      "title": "On the Limits of Steering Vectors for Preference-Aligned Generation",
+      "first_seen": "2026-07-07",
+      "last_updated": "2026-07-07",
+      "folder": "2026-07-07"
+    },
+    "2606.31653": {
+      "version": "v1",
+      "title": "Improving Certified Robustness via Adversarial Distillation",
+      "first_seen": "2026-07-07",
+      "last_updated": "2026-07-07",
+      "folder": "2026-07-07"
+    },
+    "2607.01793": {
+      "version": "v1",
+      "title": "Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification",
+      "first_seen": "2026-07-08",
+      "last_updated": "2026-07-08",
+      "folder": "2026-07-08"
+    },
+    "2607.01764": {
+      "version": "v1",
+      "title": "Mastermind: Strategy-grounded Learning for Repository-Scale Vulnerability Reproduction",
+      "first_seen": "2026-07-08",
+      "last_updated": "2026-07-08",
+      "folder": "2026-07-08"
+    },
+    "2607.04510": {
+      "version": "v1",
+      "title": "Transplanting, inverting, and preventing a misalignment persona: method-conditional emergent misalignment in Qwen2.5",
+      "first_seen": "2026-07-08",
+      "last_updated": "2026-07-08",
+      "folder": "2026-07-08"
+    },
+    "2607.05355": {
+      "version": "v1",
+      "title": "Faithfulness to Refusal: A Causal Audit of Neuron Selectors",
+      "first_seen": "2026-07-08",
+      "last_updated": "2026-07-08",
+      "folder": "2026-07-08"
+    },
+    "2607.04525": {
+      "version": "v1",
+      "title": "Language Models Represent and Transform Concepts with Shared Geometry",
+      "first_seen": "2026-07-08",
+      "last_updated": "2026-07-08",
+      "folder": "2026-07-08"
     }
   }
 }
