@@ -3760,6 +3760,76 @@
       "first_seen": "2026-07-08",
       "last_updated": "2026-07-08",
       "folder": "2026-07-08"
+    },
+    "2607.02357": {
+      "version": "v2",
+      "title": "Cloak and Detonate: Scanner Evasion and Dynamic Detection of Agent Skill Malware",
+      "first_seen": "2026-07-09",
+      "last_updated": "2026-07-09",
+      "folder": "2026-07-09"
+    },
+    "2607.02857": {
+      "version": "v1",
+      "title": "MOSAIC: Knowledge-Guided CLI Command Composition Attack in LLM Coding Agents",
+      "first_seen": "2026-07-09",
+      "last_updated": "2026-07-09",
+      "folder": "2026-07-09"
+    },
+    "2607.04645": {
+      "version": "v1",
+      "title": "Retroactive Chain-of-Thought (RetroCoT): Forensic Reconstruction Prompts as a Safety Diagnostic Across Model Generations",
+      "first_seen": "2026-07-09",
+      "last_updated": "2026-07-09",
+      "folder": "2026-07-09"
+    },
+    "2607.05069": {
+      "version": "v1",
+      "title": "MIRAGE: Defending Long-Form RAG Against Misinformation Pollution",
+      "first_seen": "2026-07-09",
+      "last_updated": "2026-07-09",
+      "folder": "2026-07-09"
+    },
+    "2607.02121": {
+      "version": "v1",
+      "title": "Behind the Refusal: Determining Guardrail Activation via Behavioral Monitoring",
+      "first_seen": "2026-07-09",
+      "last_updated": "2026-07-09",
+      "folder": "2026-07-09"
+    },
+    "2607.02714": {
+      "version": "v2",
+      "title": "Not All Refusals Are Equal: How Safety Alignment Fails Cybersecurity at Scale",
+      "first_seen": "2026-07-09",
+      "last_updated": "2026-07-09",
+      "folder": "2026-07-09"
+    },
+    "2607.02897": {
+      "version": "v1",
+      "title": "PPE-Bench: A Benchmark for Evaluating MLLM Unlearning under Private-Public Entanglement",
+      "first_seen": "2026-07-09",
+      "last_updated": "2026-07-09",
+      "folder": "2026-07-09"
+    },
+    "2607.02932": {
+      "version": "v1",
+      "title": "PromptPET: Privacy-Utility Optimized Prompt Obfuscation",
+      "first_seen": "2026-07-09",
+      "last_updated": "2026-07-09",
+      "folder": "2026-07-09"
+    },
+    "2607.02819": {
+      "version": "v1",
+      "title": "Vision Token Manipulation Attacks on Cloud-Edge Inference of Large Vision-Language Models",
+      "first_seen": "2026-07-09",
+      "last_updated": "2026-07-09",
+      "folder": "2026-07-09"
+    },
+    "2607.02903": {
+      "version": "v1",
+      "title": "TIER: Trajectory-Invariant Explanation Regularization for Membership Privacy",
+      "first_seen": "2026-07-09",
+      "last_updated": "2026-07-09",
+      "folder": "2026-07-09"
     }
   }
 }
