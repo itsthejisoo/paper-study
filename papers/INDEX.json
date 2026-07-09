@@ -3830,6 +3830,76 @@
       "first_seen": "2026-07-09",
       "last_updated": "2026-07-09",
       "folder": "2026-07-09"
+    },
+    "2607.01518": {
+      "version": "v1",
+      "title": "Overthink-Triggered Slowdown Attacks on LVLM-Based Robotic Systems",
+      "first_seen": "2026-07-10",
+      "last_updated": "2026-07-10",
+      "folder": "2026-07-10"
+    },
+    "2607.01276": {
+      "version": "v1",
+      "title": "Embedding Inference Attack",
+      "first_seen": "2026-07-10",
+      "last_updated": "2026-07-10",
+      "folder": "2026-07-10"
+    },
+    "2607.01854": {
+      "version": "v1",
+      "title": "Has This Checkpoint Been Abliterated? A Two-Signal Audit and Its Failure Map",
+      "first_seen": "2026-07-10",
+      "last_updated": "2026-07-10",
+      "folder": "2026-07-10"
+    },
+    "2606.15821": {
+      "version": "v1",
+      "title": "The Truth Stays in the Family: Enhancing Contextual Grounding via Inherited Truthful Heads in Model Lineages",
+      "first_seen": "2026-07-10",
+      "last_updated": "2026-07-10",
+      "folder": "2026-07-10"
+    },
+    "2605.08382": {
+      "version": "v1",
+      "title": "SecureForge: Finding and Preventing Vulnerabilities in LLM-Generated Code via Prompt Optimization",
+      "first_seen": "2026-07-10",
+      "last_updated": "2026-07-10",
+      "folder": "2026-07-10"
+    },
+    "2606.15796": {
+      "version": "v1",
+      "title": "DifFRACT: Diffusion Feature Reconstruction and Attribution for Circuit Tracing",
+      "first_seen": "2026-07-10",
+      "last_updated": "2026-07-10",
+      "folder": "2026-07-10"
+    },
+    "2605.29237": {
+      "version": "v1",
+      "title": "Evolving Skill-Structured Attack Memory Enhances LLM Jailbreaking",
+      "first_seen": "2026-07-10",
+      "last_updated": "2026-07-10",
+      "folder": "2026-07-10"
+    },
+    "2604.07835": {
+      "version": "v1",
+      "title": "Silencing the Guardrails: Inference-Time Jailbreaking via Dynamic Contextual Representation Ablation",
+      "first_seen": "2026-07-10",
+      "last_updated": "2026-07-10",
+      "folder": "2026-07-10"
+    },
+    "2603.07557": {
+      "version": "v1",
+      "title": "AgentRaft: Automated Detection of Data Over-Exposure in LLM Agents",
+      "first_seen": "2026-07-10",
+      "last_updated": "2026-07-10",
+      "folder": "2026-07-10"
+    },
+    "2607.00693": {
+      "version": "v1",
+      "title": "The Rise and Fall of Google's Privacy Sandbox",
+      "first_seen": "2026-07-10",
+      "last_updated": "2026-07-10",
+      "folder": "2026-07-10"
     }
   }
 }
