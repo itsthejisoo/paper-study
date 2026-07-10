@@ -3900,6 +3900,76 @@
       "first_seen": "2026-07-10",
       "last_updated": "2026-07-10",
       "folder": "2026-07-10"
+    },
+    "2604.20945": {
+      "version": "v1",
+      "title": "Breaking Bad: Interpretability-Based Safety Audits of State-of-the-Art LLMs",
+      "first_seen": "2026-07-11",
+      "last_updated": "2026-07-11",
+      "folder": "2026-07-11"
+    },
+    "2507.22149": {
+      "version": "v4",
+      "title": "When Truthful Representations Flip Under Deceptive Instructions?",
+      "first_seen": "2026-07-11",
+      "last_updated": "2026-07-11",
+      "folder": "2026-07-11"
+    },
+    "2607.01277": {
+      "version": "v1",
+      "title": "Cognitive Firewall: A Proactive, Zero-Trust, Multi-Gate Framework for LLM Safety",
+      "first_seen": "2026-07-11",
+      "last_updated": "2026-07-11",
+      "folder": "2026-07-11"
+    },
+    "2607.01679": {
+      "version": "v1",
+      "title": "Beyond Gradient-Based Attacks: Adversarial Robustness and Explainability Stability in Cybersecurity Classifiers",
+      "first_seen": "2026-07-11",
+      "last_updated": "2026-07-11",
+      "folder": "2026-07-11"
+    },
+    "2607.02451": {
+      "version": "v1",
+      "title": "SoK: A Taxonomy for Cybersecurity Incident Response Influence Factors",
+      "first_seen": "2026-07-11",
+      "last_updated": "2026-07-11",
+      "folder": "2026-07-11"
+    },
+    "2607.01702": {
+      "version": "v1",
+      "title": "Pmeta-TLA: Backdoor Attacks for Speech Classification Models via Meta-Learning with Timbre Leakage Attack",
+      "first_seen": "2026-07-11",
+      "last_updated": "2026-07-11",
+      "folder": "2026-07-11"
+    },
+    "2607.01442": {
+      "version": "v1",
+      "title": "From Forgeries to Foundation Models: A Systematic Survey of Identity Document Attack and Detection",
+      "first_seen": "2026-07-11",
+      "last_updated": "2026-07-11",
+      "folder": "2026-07-11"
+    },
+    "2607.01019": {
+      "version": "v1",
+      "title": "Toward a Unified Security and Privacy Framework for AI-Native 6G Networks",
+      "first_seen": "2026-07-11",
+      "last_updated": "2026-07-11",
+      "folder": "2026-07-11"
+    },
+    "2607.03215": {
+      "version": "v1",
+      "title": "Builder, Defender, Breaker: The Case Against Removing the Human from the AI-Driven Security Lifecycle",
+      "first_seen": "2026-07-11",
+      "last_updated": "2026-07-11",
+      "folder": "2026-07-11"
+    },
+    "2607.02615": {
+      "version": "v1",
+      "title": "The Agent Creates, We Validate: A Lightweight Framework for Agentic Artifact Generation",
+      "first_seen": "2026-07-11",
+      "last_updated": "2026-07-11",
+      "folder": "2026-07-11"
     }
   }
 }
