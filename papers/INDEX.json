@@ -3461,10 +3461,10 @@
       "folder": "2026-07-04"
     },
     "2606.28153": {
-      "version": "v1",
+      "version": "v2",
       "title": "Robust Harmful Features Under Jailbreak Attacks: Mechanistic Evidence from Attention Head Specialization in Large Language Models",
       "first_seen": "2026-07-04",
-      "last_updated": "2026-07-04",
+      "last_updated": "2026-07-12",
       "folder": "2026-07-04"
     },
     "2607.02514": {
@@ -3970,6 +3970,167 @@
       "first_seen": "2026-07-11",
       "last_updated": "2026-07-11",
       "folder": "2026-07-11"
+    },
+    "2607.07903": {
+      "version": "v1",
+      "title": "Mechanistic Interpretability of LLM Jailbreaks via Internal Attribution Graphs",
+      "first_seen": "2026-07-12",
+      "last_updated": "2026-07-12",
+      "folder": "papers/2026-07-12"
+    },
+    "2607.07433": {
+      "version": "v1",
+      "title": "Beware of Agentic Botnets: Scalable Untargeted Promptware Attacks via Universal and Transferable Adversarial HalluSquatting",
+      "first_seen": "2026-07-12",
+      "last_updated": "2026-07-12",
+      "folder": "papers/2026-07-12"
+    },
+    "2607.08395": {
+      "version": "v1",
+      "title": "Token-Flow Firewall: Semantic Runtime Auditing for Persistent AI Agents",
+      "first_seen": "2026-07-12",
+      "last_updated": "2026-07-12",
+      "folder": "papers/2026-07-12"
+    },
+    "2607.05029": {
+      "version": "v1",
+      "title": "Your Agent's Memories Are Not Its Own: Forged Reasoning Attacks on LLM Agent Memory and Defenses",
+      "first_seen": "2026-07-12",
+      "last_updated": "2026-07-12",
+      "folder": "papers/2026-07-12"
+    },
+    "2607.08400": {
+      "version": "v1",
+      "title": "TRACE: A Two-Channel Robust Attribution Watermark via Complementary Embeddings for LLM-Agent Trajectories",
+      "first_seen": "2026-07-12",
+      "last_updated": "2026-07-12",
+      "folder": "papers/2026-07-12"
+    },
+    "2607.06608": {
+      "version": "v1",
+      "title": "Security and Privacy in Agentic AI: Grand Challenges and Future Directions",
+      "first_seen": "2026-07-12",
+      "last_updated": "2026-07-12",
+      "folder": "papers/2026-07-12"
+    },
+    "2607.05353": {
+      "version": "v1",
+      "title": "Selective Disclosure Watermarking for Large Language Models",
+      "first_seen": "2026-07-12",
+      "last_updated": "2026-07-12",
+      "folder": "papers/2026-07-12"
+    },
+    "2607.06963": {
+      "version": "v1",
+      "title": "Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies",
+      "first_seen": "2026-07-12",
+      "last_updated": "2026-07-12",
+      "folder": "papers/2026-07-12"
+    },
+    "2607.08173": {
+      "version": "v1",
+      "title": "Overthinking: Amplifying Reasoning Weights to Extract Learned Secrets",
+      "first_seen": "2026-07-13",
+      "last_updated": "2026-07-13",
+      "folder": "papers/2026-07-13"
+    },
+    "2607.08077": {
+      "version": "v1",
+      "title": "Modular Pretraining Enables Access Control",
+      "first_seen": "2026-07-13",
+      "last_updated": "2026-07-13",
+      "folder": "papers/2026-07-13"
+    },
+    "2607.08066": {
+      "version": "v1",
+      "title": "Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring",
+      "first_seen": "2026-07-13",
+      "last_updated": "2026-07-13",
+      "folder": "papers/2026-07-13"
+    },
+    "2607.08393": {
+      "version": "v1",
+      "title": "Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generalize in Large Language Model Finetuning",
+      "first_seen": "2026-07-13",
+      "last_updated": "2026-07-13",
+      "folder": "papers/2026-07-13"
+    },
+    "2607.07916": {
+      "version": "v1",
+      "title": "Persona Cartography: Charting Language Model Personality Traits in Weight Space",
+      "first_seen": "2026-07-13",
+      "last_updated": "2026-07-13",
+      "folder": "papers/2026-07-13"
+    },
+    "2607.08349": {
+      "version": "v1",
+      "title": "Certified Interventional Fidelity: Anytime-Valid, Adaptive Evaluation of Causal Claims in Mechanistic Interpretability",
+      "first_seen": "2026-07-13",
+      "last_updated": "2026-07-13",
+      "folder": "papers/2026-07-13"
+    },
+    "2607.08733": {
+      "version": "v1",
+      "title": "Super Weights in LLMs and the Failure of Selective Training",
+      "first_seen": "2026-07-13",
+      "last_updated": "2026-07-13",
+      "folder": "papers/2026-07-13"
+    },
+    "2607.08659": {
+      "version": "v1",
+      "title": "EdgeRefine: Privacy-Utility Balance for Graphs via Jaccard Sampling under Edge Differential Privacy",
+      "first_seen": "2026-07-13",
+      "last_updated": "2026-07-13",
+      "folder": "papers/2026-07-13"
+    },
+    "2607.08122": {
+      "version": "v1",
+      "title": "Workload-Preserving Differentially Private Synthetic Data for Causal Inference via Maximum-Entropy Calibration",
+      "first_seen": "2026-07-13",
+      "last_updated": "2026-07-13",
+      "folder": "papers/2026-07-13"
+    },
+    "2607.08651": {
+      "version": "v1",
+      "title": "Secure Decentralized Federated Learning via Gossip and Virtual Voting",
+      "first_seen": "2026-07-13",
+      "last_updated": "2026-07-13",
+      "folder": "papers/2026-07-13"
+    },
+    "2607.09532": {
+      "version": "v1",
+      "title": "Statistically Undetectable Backdoors in Deep Neural Networks",
+      "first_seen": "2026-07-14",
+      "last_updated": "2026-07-14",
+      "folder": "papers/2026-07-14"
+    },
+    "2607.09236": {
+      "version": "v1",
+      "title": "Forget Narrowly, Retain Broadly: Unlearning as an Asymmetric Generalization Problem",
+      "first_seen": "2026-07-14",
+      "last_updated": "2026-07-14",
+      "folder": "papers/2026-07-14"
+    },
+    "2607.08046": {
+      "version": "v1",
+      "title": "What LLM Forecasters Know but Don't Say: Probing Internal Representations for Calibration and Faithfulness",
+      "first_seen": "2026-07-14",
+      "last_updated": "2026-07-14",
+      "folder": "papers/2026-07-14"
+    },
+    "2607.09156": {
+      "version": "v1",
+      "title": "Present but Rescaled: Chat-to-Agent Transfer of Additive Activation Steering",
+      "first_seen": "2026-07-14",
+      "last_updated": "2026-07-14",
+      "folder": "papers/2026-07-14"
+    },
+    "2607.08499": {
+      "version": "v1",
+      "title": "Cross-seed explainability using Procrustes-conditioned Joint End-to-end Top-K Sparse Autoencoders",
+      "first_seen": "2026-07-14",
+      "last_updated": "2026-07-14",
+      "folder": "papers/2026-07-14"
     }
   }
 }
