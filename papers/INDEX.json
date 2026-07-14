@@ -4131,6 +4131,76 @@
       "first_seen": "2026-07-14",
       "last_updated": "2026-07-14",
       "folder": "papers/2026-07-14"
+    },
+    "2607.11881": {
+      "version": "v1",
+      "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
+      "first_seen": "2026-07-15",
+      "last_updated": "2026-07-15",
+      "folder": "papers/2026-07-15"
+    },
+    "2607.00397": {
+      "version": "v1",
+      "title": "NeuroCogMap Reveals Cognitive Organization of Large Language Models",
+      "first_seen": "2026-07-15",
+      "last_updated": "2026-07-15",
+      "folder": "papers/2026-07-15"
+    },
+    "2607.07993": {
+      "version": "v1",
+      "title": "Hallucination Self-Play: Bootstrapping Reinforced Detector via Evolved Generator",
+      "first_seen": "2026-07-15",
+      "last_updated": "2026-07-15",
+      "folder": "papers/2026-07-15"
+    },
+    "2607.00083": {
+      "version": "v1",
+      "title": "Harnessing the Latent Space: From Steering Vectors to Model Calibrators for Control and Trust",
+      "first_seen": "2026-07-15",
+      "last_updated": "2026-07-15",
+      "folder": "papers/2026-07-15"
+    },
+    "2607.00415": {
+      "version": "v1",
+      "title": "A Mechanistic View of Authority Hierarchy in LLM Sycophancy",
+      "first_seen": "2026-07-15",
+      "last_updated": "2026-07-15",
+      "folder": "papers/2026-07-15"
+    },
+    "2607.00605": {
+      "version": "v1",
+      "title": "Auditing Forgetting in Limited Memory Language Models",
+      "first_seen": "2026-07-15",
+      "last_updated": "2026-07-15",
+      "folder": "papers/2026-07-15"
+    },
+    "2607.00158": {
+      "version": "v1",
+      "title": "Readable but Not Controllable: Neuron-Level Evidence for Medical LLM Hallucination",
+      "first_seen": "2026-07-15",
+      "last_updated": "2026-07-15",
+      "folder": "papers/2026-07-15"
+    },
+    "2607.09487": {
+      "version": "v1",
+      "title": "Neural Collapse Is Forbidden: Information Floors in Language Models",
+      "first_seen": "2026-07-15",
+      "last_updated": "2026-07-15",
+      "folder": "papers/2026-07-15"
+    },
+    "2607.08339": {
+      "version": "v1",
+      "title": "TypeProbe: Recovering Type Representations from Hidden States of Pre-trained Code Models",
+      "first_seen": "2026-07-15",
+      "last_updated": "2026-07-15",
+      "folder": "papers/2026-07-15"
+    },
+    "2607.08368": {
+      "version": "v1",
+      "title": "FedOPAL: One-Shot Federated Learning via Analytic Visual Prompt Tuning",
+      "first_seen": "2026-07-15",
+      "last_updated": "2026-07-15",
+      "folder": "papers/2026-07-15"
     }
   }
 }
