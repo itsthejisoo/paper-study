@@ -4201,6 +4201,76 @@
       "first_seen": "2026-07-15",
       "last_updated": "2026-07-15",
       "folder": "papers/2026-07-15"
+    },
+    "2607.12649": {
+      "version": "v1",
+      "title": "Extractable Memorization From First Principles",
+      "first_seen": "2026-07-16",
+      "last_updated": "2026-07-16",
+      "folder": "2026-07-16"
+    },
+    "2607.12354": {
+      "version": "v1",
+      "title": "Reducing information dependency does not cause training data privacy. Adversarially non-robust features do",
+      "first_seen": "2026-07-16",
+      "last_updated": "2026-07-16",
+      "folder": "2026-07-16"
+    },
+    "2607.12447": {
+      "version": "v1",
+      "title": "The Computational Basis of Confidence in Large Language Models",
+      "first_seen": "2026-07-16",
+      "last_updated": "2026-07-16",
+      "folder": "2026-07-16"
+    },
+    "2607.12166": {
+      "version": "v1",
+      "title": "From Geometric Recovery to Causal Validation: A Reproducible Audit of Sparse Autoencoder Features, from Superposition Geometry to Causal Inertness",
+      "first_seen": "2026-07-16",
+      "last_updated": "2026-07-16",
+      "folder": "2026-07-16"
+    },
+    "2607.12204": {
+      "version": "v1",
+      "title": "Forgetful Attention: A Trainable Support-Vector Memory with Certified Selection and Exact Unlearning",
+      "first_seen": "2026-07-16",
+      "last_updated": "2026-07-16",
+      "folder": "2026-07-16"
+    },
+    "2607.12438": {
+      "version": "v1",
+      "title": "Fisher Rank Inflation: A Spectral Signature of Memorization under Label Noise",
+      "first_seen": "2026-07-16",
+      "last_updated": "2026-07-16",
+      "folder": "2026-07-16"
+    },
+    "2607.12616": {
+      "version": "v1",
+      "title": "The Geometry of Memorization: Finite-Time Spectral Sensitivity as a Diagnostic for Flow Matching Models",
+      "first_seen": "2026-07-16",
+      "last_updated": "2026-07-16",
+      "folder": "2026-07-16"
+    },
+    "2607.12112": {
+      "version": "v1",
+      "title": "Continual Learning with Elastic Regularization and Synthetic Replay for Federated MLLM Fine-Tuning",
+      "first_seen": "2026-07-16",
+      "last_updated": "2026-07-16",
+      "folder": "2026-07-16"
+    },
+    "2607.12526": {
+      "version": "v1",
+      "title": "From Preimage Search To Source-Grounded Feature Inversion",
+      "first_seen": "2026-07-16",
+      "last_updated": "2026-07-16",
+      "folder": "2026-07-16"
+    },
+    "2607.12500": {
+      "version": "v1",
+      "title": "Adversarial Attacks on Online Handwriting using Salience-based Temporal Editing",
+      "first_seen": "2026-07-16",
+      "last_updated": "2026-07-16",
+      "folder": "2026-07-16"
     }
   }
 }
