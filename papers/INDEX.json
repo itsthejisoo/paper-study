@@ -4271,6 +4271,76 @@
       "first_seen": "2026-07-16",
       "last_updated": "2026-07-16",
       "folder": "2026-07-16"
+    },
+    "2607.05910": {
+      "version": "v1",
+      "title": "PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails",
+      "first_seen": "2026-07-17",
+      "last_updated": "2026-07-17",
+      "folder": "2026-07-17"
+    },
+    "2607.07184": {
+      "version": "v1",
+      "title": "Predicting LLM Safety Before Release by Simulating Deployment",
+      "first_seen": "2026-07-17",
+      "last_updated": "2026-07-17",
+      "folder": "2026-07-17"
+    },
+    "2605.10834": {
+      "version": "v1",
+      "title": "From Controlled to the Wild: Evaluation of Pentesting Agents for the Real-World",
+      "first_seen": "2026-07-17",
+      "last_updated": "2026-07-17",
+      "folder": "2026-07-17"
+    },
+    "2507.13474": {
+      "version": "v1",
+      "title": "Paper Summary Attack: Jailbreaking LLMs through LLM Safety Papers",
+      "first_seen": "2026-07-17",
+      "last_updated": "2026-07-17",
+      "folder": "2026-07-17"
+    },
+    "2607.05318": {
+      "version": "v1",
+      "title": "PiSAs: Benchmarking Contextual Integrity in Multi-User Agentic Systems",
+      "first_seen": "2026-07-17",
+      "last_updated": "2026-07-17",
+      "folder": "2026-07-17"
+    },
+    "2507.15613": {
+      "version": "v1",
+      "title": "Multi-Stage Prompt Inference Attacks on Enterprise LLM Systems",
+      "first_seen": "2026-07-17",
+      "last_updated": "2026-07-17",
+      "folder": "2026-07-17"
+    },
+    "2607.08605": {
+      "version": "v1",
+      "title": "When Structured Sparse Autoencoders Learn Consistent Concepts Across Modalities",
+      "first_seen": "2026-07-17",
+      "last_updated": "2026-07-17",
+      "folder": "2026-07-17"
+    },
+    "2506.23603": {
+      "version": "v2",
+      "title": "SoK: Semantic Privacy in Large Language Models",
+      "first_seen": "2026-07-17",
+      "last_updated": "2026-07-17",
+      "folder": "2026-07-17"
+    },
+    "2507.12919": {
+      "version": "v1",
+      "title": "Architectural Backdoors in Deep Learning: A Survey of Vulnerabilities, Detection, and Defense",
+      "first_seen": "2026-07-17",
+      "last_updated": "2026-07-17",
+      "folder": "2026-07-17"
+    },
+    "2507.02699": {
+      "version": "v1",
+      "title": "Control at Stake: Evaluating the Security Landscape of LLM-Driven Email Agents",
+      "first_seen": "2026-07-17",
+      "last_updated": "2026-07-17",
+      "folder": "2026-07-17"
     }
   }
 }
