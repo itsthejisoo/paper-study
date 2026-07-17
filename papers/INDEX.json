@@ -4341,6 +4341,76 @@
       "first_seen": "2026-07-17",
       "last_updated": "2026-07-17",
       "folder": "2026-07-17"
+    },
+    "2607.03968": {
+      "version": "v1",
+      "title": "Refused in Chat, Written in Code: Workflow-Level Jailbreak Construction in IDE Coding Agents",
+      "first_seen": "2026-07-18",
+      "last_updated": "2026-07-18",
+      "folder": "2026-07-18"
+    },
+    "2607.01236": {
+      "version": "v1",
+      "title": "Safeguarding LLM Agents from Misalignment through Provenance Analysis",
+      "first_seen": "2026-07-18",
+      "last_updated": "2026-07-18",
+      "folder": "2026-07-18"
+    },
+    "2607.08011": {
+      "version": "v1",
+      "title": "Beware What You Autocomplete: Forensic Attribution of Backdoored Code Completions",
+      "first_seen": "2026-07-18",
+      "last_updated": "2026-07-18",
+      "folder": "2026-07-18"
+    },
+    "2607.07481": {
+      "version": "v1",
+      "title": "The Poisoned Chalice of LLM Evaluation Report",
+      "first_seen": "2026-07-18",
+      "last_updated": "2026-07-18",
+      "folder": "2026-07-18"
+    },
+    "2607.07474": {
+      "version": "v1",
+      "title": "Beyond Attack-Success Rate: Action-Graded Severity Scale for Tool-Using AI Agents",
+      "first_seen": "2026-07-18",
+      "last_updated": "2026-07-18",
+      "folder": "2026-07-18"
+    },
+    "2607.07316": {
+      "version": "v1",
+      "title": "Mechanistic Interpretability for Neural Networks: Circuits, Sparse Features and Symbolic Reasoning",
+      "first_seen": "2026-07-18",
+      "last_updated": "2026-07-18",
+      "folder": "2026-07-18"
+    },
+    "2606.15608": {
+      "version": "v1",
+      "title": "On the Adversarial Robustness of Multimodal LLM Judges",
+      "first_seen": "2026-07-18",
+      "last_updated": "2026-07-18",
+      "folder": "2026-07-18"
+    },
+    "2607.10103": {
+      "version": "v1",
+      "title": "A Survey on LLM Watermarking: Theory and Deployment",
+      "first_seen": "2026-07-18",
+      "last_updated": "2026-07-18",
+      "folder": "2026-07-18"
+    },
+    "2607.07635": {
+      "version": "v2",
+      "title": "Unlearning to Protect: A Distilled Reinforcement Learning Framework with Privacy-Preserving Feature Unlearning and XAI for IoT Security",
+      "first_seen": "2026-07-18",
+      "last_updated": "2026-07-18",
+      "folder": "2026-07-18"
+    },
+    "2607.06860": {
+      "version": "v1",
+      "title": "Auditable Machine Unlearning for Privacy-Compliant Ransomware Detection Using Multi-Shard SISA and Deep Reinforcement Learning",
+      "first_seen": "2026-07-18",
+      "last_updated": "2026-07-18",
+      "folder": "2026-07-18"
     }
   }
 }
