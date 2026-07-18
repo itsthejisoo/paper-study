@@ -4411,6 +4411,76 @@
       "first_seen": "2026-07-18",
       "last_updated": "2026-07-18",
       "folder": "2026-07-18"
+    },
+    "2607.15207": {
+      "version": "v1",
+      "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
+      "first_seen": "2026-07-19",
+      "last_updated": "2026-07-19",
+      "folder": "papers/2026-07-19"
+    },
+    "2607.07695": {
+      "version": "v1",
+      "title": "Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety",
+      "first_seen": "2026-07-19",
+      "last_updated": "2026-07-19",
+      "folder": "papers/2026-07-19"
+    },
+    "2607.15218": {
+      "version": "v1",
+      "title": "When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space",
+      "first_seen": "2026-07-19",
+      "last_updated": "2026-07-19",
+      "folder": "papers/2026-07-19"
+    },
+    "2607.06815": {
+      "version": "v1",
+      "title": "Behavioral Privacy Leakage in Agentic Negotiation: Formalizing and Mitigating Inference Attacks via Randomized Policies",
+      "first_seen": "2026-07-19",
+      "last_updated": "2026-07-19",
+      "folder": "papers/2026-07-19"
+    },
+    "2607.05120": {
+      "version": "v1",
+      "title": "Agent Data Injection Attacks are Realistic Threats to AI Agents",
+      "first_seen": "2026-07-19",
+      "last_updated": "2026-07-19",
+      "folder": "papers/2026-07-19"
+    },
+    "2607.14943": {
+      "version": "v1",
+      "title": "Steering Robustness into World Action Models via Mechanistic Interpretability and Optimal Control",
+      "first_seen": "2026-07-19",
+      "last_updated": "2026-07-19",
+      "folder": "papers/2026-07-19"
+    },
+    "2607.13162": {
+      "version": "v2",
+      "title": "What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors",
+      "first_seen": "2026-07-19",
+      "last_updated": "2026-07-19",
+      "folder": "papers/2026-07-19"
+    },
+    "2607.13346": {
+      "version": "v1",
+      "title": "The Refusal Residue: When Probes Catch Alignment Faking and When They Don't",
+      "first_seen": "2026-07-19",
+      "last_updated": "2026-07-19",
+      "folder": "papers/2026-07-19"
+    },
+    "2607.13565": {
+      "version": "v1",
+      "title": "UTS at ELOQUENT 2026 Voight-Kampff: Structural Shifts in AI Writing Bypass State-of-the-Art Detectors",
+      "first_seen": "2026-07-19",
+      "last_updated": "2026-07-19",
+      "folder": "papers/2026-07-19"
+    },
+    "2607.13003": {
+      "version": "v1",
+      "title": "Watermark Forensics for Generative Models: An Information-Theoretic Perspective",
+      "first_seen": "2026-07-19",
+      "last_updated": "2026-07-19",
+      "folder": "papers/2026-07-19"
     }
   }
 }
