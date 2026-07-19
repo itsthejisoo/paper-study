@@ -4481,6 +4481,76 @@
       "first_seen": "2026-07-19",
       "last_updated": "2026-07-19",
       "folder": "papers/2026-07-19"
+    },
+    "2607.14611": {
+      "version": "v1",
+      "title": "Bad Memory: Evaluating Prompt Injection Risks from Memory in Agentic Systems",
+      "first_seen": "2026-07-20",
+      "last_updated": "2026-07-20",
+      "folder": "papers/2026-07-20"
+    },
+    "2607.14147": {
+      "version": "v1",
+      "title": "Breaking Refusal in the First Half: A Mechanistic Study of the Prefill Jailbreak",
+      "first_seen": "2026-07-20",
+      "last_updated": "2026-07-20",
+      "folder": "papers/2026-07-20"
+    },
+    "2607.14345": {
+      "version": "v1",
+      "title": "Value Leakage: An LLM's Answers Are Silently Shaped by Its Own Values",
+      "first_seen": "2026-07-20",
+      "last_updated": "2026-07-20",
+      "folder": "papers/2026-07-20"
+    },
+    "2607.14651": {
+      "version": "v1",
+      "title": "MemPoison: Uncovering Persistent Memory Threats and Structural Blind Spots in LLM Agents",
+      "first_seen": "2026-07-20",
+      "last_updated": "2026-07-20",
+      "folder": "papers/2026-07-20"
+    },
+    "2607.14493": {
+      "version": "v1",
+      "title": "Context Contamination in LLM Analysis of Network Security Logs: Poison with Passive Prompt Injection and Mitigation Evaluation",
+      "first_seen": "2026-07-20",
+      "last_updated": "2026-07-20",
+      "folder": "papers/2026-07-20"
+    },
+    "2607.15143": {
+      "version": "v1",
+      "title": "Setup Complete, Now You Are Compromised: Weaponizing Setup Instructions Against AI Coding Agents",
+      "first_seen": "2026-07-20",
+      "last_updated": "2026-07-20",
+      "folder": "papers/2026-07-20"
+    },
+    "2607.14754": {
+      "version": "v1",
+      "title": "FlowGuard: From Signals to Evidence for MCP Security Detection",
+      "first_seen": "2026-07-20",
+      "last_updated": "2026-07-20",
+      "folder": "papers/2026-07-20"
+    },
+    "2607.14570": {
+      "version": "v1",
+      "title": "Democratizing Agent Deployment Safety: A Structural Monitoring Approach",
+      "first_seen": "2026-07-20",
+      "last_updated": "2026-07-20",
+      "folder": "papers/2026-07-20"
+    },
+    "2607.15081": {
+      "version": "v1",
+      "title": "DataShield: Uncovering Risky Fine-Tuning Data Across LLMs Through Consensus Subspace Alignment",
+      "first_seen": "2026-07-20",
+      "last_updated": "2026-07-20",
+      "folder": "papers/2026-07-20"
+    },
+    "2607.13987": {
+      "version": "v1",
+      "title": "Agent Skill Security: Threat Models, Attacks, Defenses, and Evaluation",
+      "first_seen": "2026-07-20",
+      "last_updated": "2026-07-20",
+      "folder": "papers/2026-07-20"
     }
   }
 }
