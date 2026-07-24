@@ -4789,6 +4789,76 @@
       "first_seen": "2026-07-24",
       "last_updated": "2026-07-24",
       "folder": "2026-07-24"
+    },
+    "2607.20564": {
+      "version": "v1",
+      "title": "PhantomSeal: Proactive Deepfakes Defense with Identity/Context Protection and Forensic Tracing",
+      "first_seen": "2026-07-25",
+      "last_updated": "2026-07-25",
+      "folder": "2026-07-25"
+    },
+    "2607.20727": {
+      "version": "v1",
+      "title": "Edit-Neighboring Data Streams and Privacy under Continual Observation",
+      "first_seen": "2026-07-25",
+      "last_updated": "2026-07-25",
+      "folder": "2026-07-25"
+    },
+    "2607.20759": {
+      "version": "v1",
+      "title": "IssueTrojanBench: Benchmarking AI Coding Agents Against Malicious Issue Requests",
+      "first_seen": "2026-07-25",
+      "last_updated": "2026-07-25",
+      "folder": "2026-07-25"
+    },
+    "2607.20723": {
+      "version": "v1",
+      "title": "Leaky Language Models: Stealing Architecture and Inference Optimizations via Per-Token Timing",
+      "first_seen": "2026-07-25",
+      "last_updated": "2026-07-25",
+      "folder": "2026-07-25"
+    },
+    "2607.21151": {
+      "version": "v1",
+      "title": "V-DEAL: Diagnosing Video Safety De-Calibration as an Understanding-Refusal Coupling Failure",
+      "first_seen": "2026-07-25",
+      "last_updated": "2026-07-25",
+      "folder": "2026-07-25"
+    },
+    "2607.20982": {
+      "version": "v1",
+      "title": "GuardianAgentBench: Where Agents Fail and How to Guard Them",
+      "first_seen": "2026-07-25",
+      "last_updated": "2026-07-25",
+      "folder": "2026-07-25"
+    },
+    "2607.20890": {
+      "version": "v1",
+      "title": "Information-Theoretically Secure Aggregation for Lightweight Federated Learning: Resilient to Dropouts and Adversaries",
+      "first_seen": "2026-07-25",
+      "last_updated": "2026-07-25",
+      "folder": "2026-07-25"
+    },
+    "2607.20860": {
+      "version": "v1",
+      "title": "Which Model Is Actually Serving You? IRIS: Budgeted Black-Box Auditing of Model Substitution and Routing Dilution in LLM Gateways",
+      "first_seen": "2026-07-25",
+      "last_updated": "2026-07-25",
+      "folder": "2026-07-25"
+    },
+    "2607.20730": {
+      "version": "v1",
+      "title": "GPE: Evaluating Robust Evidence Aggregation for Fact Verification under Controllable GEO-Style Poisoning",
+      "first_seen": "2026-07-25",
+      "last_updated": "2026-07-25",
+      "folder": "2026-07-25"
+    },
+    "2607.20581": {
+      "version": "v1",
+      "title": "Geometric Configurations of Perturbed Jailbreak Prompts",
+      "first_seen": "2026-07-25",
+      "last_updated": "2026-07-25",
+      "folder": "2026-07-25"
     }
   }
 }
