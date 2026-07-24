@@ -3391,11 +3391,11 @@
       "folder": "2026-07-08"
     },
     "2607.00333": {
-      "version": "v1",
+      "version": "v2",
       "title": "(A)I Sees What You Don't: Exploiting New Attack Surfaces in Third-Party Mobile Agents",
       "first_seen": "2026-07-03",
-      "last_updated": "2026-07-03",
-      "folder": "2026-07-03"
+      "last_updated": "2026-07-23",
+      "folder": "2026-07-23"
     },
     "2607.00422": {
       "version": "v1",
@@ -4551,6 +4551,244 @@
       "first_seen": "2026-07-20",
       "last_updated": "2026-07-20",
       "folder": "papers/2026-07-20"
+    },
+    "2607.08147": {
+      "version": "v1",
+      "title": "Prismata: Confining Cross-Site Prompt Injection in Web Agents",
+      "first_seen": "2026-07-21",
+      "last_updated": "2026-07-21",
+      "folder": "2026-07-21"
+    },
+    "2607.08282": {
+      "version": "v1",
+      "title": "Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models",
+      "first_seen": "2026-07-21",
+      "last_updated": "2026-07-21",
+      "folder": "2026-07-21"
+    },
+    "2607.06643": {
+      "version": "v1",
+      "title": "The Power of Backdoor Absorption in Community Training",
+      "first_seen": "2026-07-21",
+      "last_updated": "2026-07-21",
+      "folder": "2026-07-21"
+    },
+    "2607.05842": {
+      "version": "v1",
+      "title": "Beyond Refusal: A Same-Lineage Study of Aligned and Abliterated LLMs for Vulnerability Analysis",
+      "first_seen": "2026-07-21",
+      "last_updated": "2026-07-21",
+      "folder": "2026-07-21"
+    },
+    "2607.07881": {
+      "version": "v1",
+      "title": "Functional and Secure Code Generation with Task Vectors",
+      "first_seen": "2026-07-21",
+      "last_updated": "2026-07-21",
+      "folder": "2026-07-21"
+    },
+    "2607.15937": {
+      "version": "v1",
+      "title": "The Language of Security: How Prompt Syntax Shapes Secure Code Generation in Open LLMs",
+      "first_seen": "2026-07-21",
+      "last_updated": "2026-07-21",
+      "folder": "2026-07-21"
+    },
+    "2607.07397": {
+      "version": "v1",
+      "title": "Agentic Data Environments",
+      "first_seen": "2026-07-21",
+      "last_updated": "2026-07-21",
+      "folder": "2026-07-21"
+    },
+    "2607.14205": {
+      "version": "v1",
+      "title": "Privacy Leakage in Federated Learning in Radiology Reports: A Comparative Evaluation of Tokenizer-Driven Privacy Risks",
+      "first_seen": "2026-07-21",
+      "last_updated": "2026-07-21",
+      "folder": "2026-07-21"
+    },
+    "2607.14442": {
+      "version": "v1",
+      "title": "Disclosure Divergence: Measuring Privacy Policy and Data Safety Misalignment at Scale",
+      "first_seen": "2026-07-21",
+      "last_updated": "2026-07-21",
+      "folder": "2026-07-21"
+    },
+    "2607.14434": {
+      "version": "v1",
+      "title": "A Measurement Study of AI-Environment Realism Gaps in Malware-Analysis Sandboxes",
+      "first_seen": "2026-07-21",
+      "last_updated": "2026-07-21",
+      "folder": "2026-07-21"
+    },
+    "2607.17779": {
+      "version": "v1",
+      "title": "Dynamic Defense Profiling Enables Cognitive Jailbreak of Text-to-Image Models",
+      "first_seen": "2026-07-22",
+      "last_updated": "2026-07-22",
+      "folder": "2026-07-22"
+    },
+    "2607.18100": {
+      "version": "v1",
+      "title": "Can We Break LLMs Out of Self-Loops? Activation Steering for Reasoning",
+      "first_seen": "2026-07-22",
+      "last_updated": "2026-07-22",
+      "folder": "2026-07-22"
+    },
+    "2607.17890": {
+      "version": "v1",
+      "title": "Stress Testing Concept Erasure with Large Language Model Agents",
+      "first_seen": "2026-07-22",
+      "last_updated": "2026-07-22",
+      "folder": "2026-07-22"
+    },
+    "2607.14921": {
+      "version": "v1",
+      "title": "Random Logit Scaling: Defending Deep Neural Networks Against Black-Box Score-Based Adversarial Example Attacks",
+      "first_seen": "2026-07-22",
+      "last_updated": "2026-07-22",
+      "folder": "2026-07-22"
+    },
+    "2607.14607": {
+      "version": "v1",
+      "title": "Auditing Fairness-Privacy Trade-offs: Subpopulation-Level Effects of Fairness-Enhancing Algorithms",
+      "first_seen": "2026-07-22",
+      "last_updated": "2026-07-22",
+      "folder": "2026-07-22"
+    },
+    "2607.17575": {
+      "version": "v1",
+      "title": "A Dual-Hypothesis Reasoning Framework for LLM Guardrails",
+      "first_seen": "2026-07-22",
+      "last_updated": "2026-07-22",
+      "folder": "2026-07-22"
+    },
+    "2607.17621": {
+      "version": "v1",
+      "title": "Mechanistic Attention Guidance for Agent Memory Refinement",
+      "first_seen": "2026-07-22",
+      "last_updated": "2026-07-22",
+      "folder": "2026-07-22"
+    },
+    "2607.11698": {
+      "version": "v1",
+      "title": "Agent Hacks Agent: Autoresearch for Production-Agent Red-Teaming",
+      "first_seen": "2026-07-22",
+      "last_updated": "2026-07-22",
+      "folder": "2026-07-22"
+    },
+    "2607.07827": {
+      "version": "v1",
+      "title": "Open Models, Open Risks: Measuring Unsafe Generation in Text-to-Image Models In the Wild",
+      "first_seen": "2026-07-22",
+      "last_updated": "2026-07-22",
+      "folder": "2026-07-22"
+    },
+    "2607.06326": {
+      "version": "v1",
+      "title": "DT-Guard: Intent-Driven Reasoning-Active Training for Reasoning-Free LLM Safety Guardrail",
+      "first_seen": "2026-07-22",
+      "last_updated": "2026-07-22",
+      "folder": "2026-07-22"
+    },
+    "2607.13425": {
+      "version": "v1",
+      "title": "Data-Efficient Adaptation of LLMs via Attention Head Reweighting",
+      "first_seen": "2026-07-23",
+      "last_updated": "2026-07-23",
+      "folder": "2026-07-23"
+    },
+    "2607.18228": {
+      "version": "v1",
+      "title": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes",
+      "first_seen": "2026-07-23",
+      "last_updated": "2026-07-23",
+      "folder": "2026-07-23"
+    },
+    "2607.00464": {
+      "version": "v1",
+      "title": "MolSafeEval: A Benchmark for Uncovering Safety Risks in AI-Generated Molecules",
+      "first_seen": "2026-07-23",
+      "last_updated": "2026-07-23",
+      "folder": "2026-07-23"
+    },
+    "2607.14888": {
+      "version": "v1",
+      "title": "Innocuous-Seeming Data, Latent Ideology: Ideological Generalisation in Finetuned LLMs",
+      "first_seen": "2026-07-23",
+      "last_updated": "2026-07-23",
+      "folder": "2026-07-23"
+    },
+    "2607.01305": {
+      "version": "v1",
+      "title": "Generative AI and Federated Learning for Intrusion Detection Systems: A Survey",
+      "first_seen": "2026-07-23",
+      "last_updated": "2026-07-23",
+      "folder": "2026-07-23"
+    },
+    "2607.00113": {
+      "version": "v1",
+      "title": "SemiScope: Disentangling Classifier Tuning and Joint Optimization in Semi-Supervised Security Classification",
+      "first_seen": "2026-07-23",
+      "last_updated": "2026-07-23",
+      "folder": "2026-07-23"
+    },
+    "2607.00173": {
+      "version": "v1",
+      "title": "TallyTrain: Communication-Efficient Federated Distillation via Hard-Label Consensus",
+      "first_seen": "2026-07-23",
+      "last_updated": "2026-07-23",
+      "folder": "2026-07-23"
+    },
+    "2607.20379": {
+      "version": "v1",
+      "title": "Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations",
+      "first_seen": "2026-07-24",
+      "last_updated": "2026-07-24",
+      "folder": "2026-07-24"
+    },
+    "2607.19595": {
+      "version": "v1",
+      "title": "Twin Agent: Context Residual Compression for Privilege Separated Agents",
+      "first_seen": "2026-07-24",
+      "last_updated": "2026-07-24",
+      "folder": "2026-07-24"
+    },
+    "2607.17152": {
+      "version": "v1",
+      "title": "How Jailbreak Attacks Inform Safety Alignment: A Defender-Centric, Shapley-Based Evaluation of Jailbreak Contributions",
+      "first_seen": "2026-07-24",
+      "last_updated": "2026-07-24",
+      "folder": "2026-07-24"
+    },
+    "2607.19674": {
+      "version": "v1",
+      "title": "FedLSG: LLM-Enhanced Semantic Calibration for Federated Graph Backdoor Defense",
+      "first_seen": "2026-07-24",
+      "last_updated": "2026-07-24",
+      "folder": "2026-07-24"
+    },
+    "2607.15977": {
+      "version": "v1",
+      "title": "Refusal is Not Safety! Benchmarking Latent Safety Risks of LLM-Driven Content Humorization",
+      "first_seen": "2026-07-24",
+      "last_updated": "2026-07-24",
+      "folder": "2026-07-24"
+    },
+    "2607.05587": {
+      "version": "v1",
+      "title": "A Mechanistic Lens on Semantic Conflicts: Using Activation Patching to Understand LLM Behavior",
+      "first_seen": "2026-07-24",
+      "last_updated": "2026-07-24",
+      "folder": "2026-07-24"
+    },
+    "2606.17035": {
+      "version": "v1",
+      "title": "Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning",
+      "first_seen": "2026-07-24",
+      "last_updated": "2026-07-24",
+      "folder": "2026-07-24"
     }
   }
 }
