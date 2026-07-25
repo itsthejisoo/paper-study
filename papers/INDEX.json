@@ -4859,6 +4859,76 @@
       "first_seen": "2026-07-25",
       "last_updated": "2026-07-25",
       "folder": "2026-07-25"
+    },
+    "2607.01232": {
+      "version": "v2",
+      "title": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training",
+      "first_seen": "2026-07-26",
+      "last_updated": "2026-07-26",
+      "folder": "2026-07-26"
+    },
+    "2607.19957": {
+      "version": "v1",
+      "title": "HijackKV: New Threat in Position-Independent KV Cache Reuse",
+      "first_seen": "2026-07-26",
+      "last_updated": "2026-07-26",
+      "folder": "2026-07-26"
+    },
+    "2607.19829": {
+      "version": "v1",
+      "title": "DARWIN: Evolving Jailbreak Adversary and Guardrail for LLM Safety Evaluation and Protection",
+      "first_seen": "2026-07-26",
+      "last_updated": "2026-07-26",
+      "folder": "2026-07-26"
+    },
+    "2607.19913": {
+      "version": "v1",
+      "title": "JANUS: Foreseeing Latent Risk for Long-Horizon Agent Safety",
+      "first_seen": "2026-07-26",
+      "last_updated": "2026-07-26",
+      "folder": "2026-07-26"
+    },
+    "2607.20121": {
+      "version": "v2",
+      "title": "OpenSkillRisk: Benchmarking Agent Safety When Using Real-World Risky Third-Party Skills",
+      "first_seen": "2026-07-26",
+      "last_updated": "2026-07-26",
+      "folder": "2026-07-26"
+    },
+    "2607.19894": {
+      "version": "v1",
+      "title": "Defense Against LLM Backdoors using Critical Neuron Isolation Pruning",
+      "first_seen": "2026-07-26",
+      "last_updated": "2026-07-26",
+      "folder": "2026-07-26"
+    },
+    "2607.19430": {
+      "version": "v1",
+      "title": "ChannelGuard: Safe Models Do Not Compose into Safe Multi-Agent Systems",
+      "first_seen": "2026-07-26",
+      "last_updated": "2026-07-26",
+      "folder": "2026-07-26"
+    },
+    "2607.21491": {
+      "version": "v1",
+      "title": "What, Where, and How: Disentangling the Roles of Task, Language, and Model in Code Model Representations",
+      "first_seen": "2026-07-26",
+      "last_updated": "2026-07-26",
+      "folder": "2026-07-26"
+    },
+    "2607.21433": {
+      "version": "v1",
+      "title": "Token Budget Saturation and Mechanistic Early Detection of Reasoning Non-Convergence in Chain-of-Thought Models",
+      "first_seen": "2026-07-26",
+      "last_updated": "2026-07-26",
+      "folder": "2026-07-26"
+    },
+    "2607.21090": {
+      "version": "v1",
+      "title": "Training Large Language Models for Self-Explanation Faithfulness",
+      "first_seen": "2026-07-26",
+      "last_updated": "2026-07-26",
+      "folder": "2026-07-26"
     }
   }
 }
