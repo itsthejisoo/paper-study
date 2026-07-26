@@ -3377,10 +3377,10 @@
       "folder": "2026-07-02"
     },
     "2607.00572": {
-      "version": "v1",
+      "version": "v3",
       "title": "HARC: Coupling Harmfulness and Refusal Directions for Robust Safety Alignment",
       "first_seen": "2026-07-08",
-      "last_updated": "2026-07-08",
+      "last_updated": "2026-07-27",
       "folder": "2026-07-08"
     },
     "2607.00361": {
@@ -4929,6 +4929,69 @@
       "first_seen": "2026-07-26",
       "last_updated": "2026-07-26",
       "folder": "2026-07-26"
+    },
+    "2607.19424": {
+      "version": "v1",
+      "title": "JailMeter: An Evidence-Based Evaluation Framework for Jailbreak Attacks on Large Language Models",
+      "first_seen": "2026-07-27",
+      "last_updated": "2026-07-27",
+      "folder": "2026-07-27"
+    },
+    "2607.19683": {
+      "version": "v1",
+      "title": "GhostPrompt: Cross-Image Adversarial Prompt for Vision-Language Models",
+      "first_seen": "2026-07-27",
+      "last_updated": "2026-07-27",
+      "folder": "2026-07-27"
+    },
+    "2607.20216": {
+      "version": "v1",
+      "title": "Small, Free, and Effective: Orchestrating Open-Weight Small Language Models to Outperform Single LLM for Malware Analysis",
+      "first_seen": "2026-07-27",
+      "last_updated": "2026-07-27",
+      "folder": "2026-07-27"
+    },
+    "2607.21325": {
+      "version": "v1",
+      "title": "Toward cryptographically verifiable authorization for autonomous AI agents: A security hypothesis, preliminary formal model, and proof-of-concept implementation",
+      "first_seen": "2026-07-27",
+      "last_updated": "2026-07-27",
+      "folder": "2026-07-27"
+    },
+    "2607.21162": {
+      "version": "v1",
+      "title": "Agree on the Model, Verify the Inference: GKR Protocols for HND-Based Transformer Inference",
+      "first_seen": "2026-07-27",
+      "last_updated": "2026-07-27",
+      "folder": "2026-07-27"
+    },
+    "2607.20280": {
+      "version": "v1",
+      "title": "Chained Attacks on Drone-Based Federated Learning: From Network Disruption to Device Impersonation",
+      "first_seen": "2026-07-27",
+      "last_updated": "2026-07-27",
+      "folder": "2026-07-27"
+    },
+    "2607.19855": {
+      "version": "v1",
+      "title": "Adversarial Frontiers: Minimum-Norm Attack Ensembles for Robustness Evaluation",
+      "first_seen": "2026-07-27",
+      "last_updated": "2026-07-27",
+      "folder": "2026-07-27"
+    },
+    "2607.20494": {
+      "version": "v1",
+      "title": "Isolating LLM Alignment from Regex: Zero Coverage and Metric-Dependent Divergence Under Adversarial Mutation",
+      "first_seen": "2026-07-27",
+      "last_updated": "2026-07-27",
+      "folder": "2026-07-27"
+    },
+    "2607.20713": {
+      "version": "v1",
+      "title": "Security Vulnerability Patterns in AI-Generated Code: A Cross-Model Comparative Study",
+      "first_seen": "2026-07-27",
+      "last_updated": "2026-07-27",
+      "folder": "2026-07-27"
     }
   }
 }
