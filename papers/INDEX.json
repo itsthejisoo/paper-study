@@ -5062,6 +5062,76 @@
       "first_seen": "2026-07-28",
       "last_updated": "2026-07-28",
       "folder": "2026-07-28"
+    },
+    "2607.21366": {
+      "version": "v1",
+      "title": "Hilbert Operator for Progressive Encoding (HOPE): A Mathematical Framework for Deconstructing Learned Representations in Deep Networks",
+      "first_seen": "2026-07-29",
+      "last_updated": "2026-07-29",
+      "folder": "2026-07-29"
+    },
+    "2607.24645": {
+      "version": "v1",
+      "title": "Sparse Autoencoders Encode Both Concepts and Functions: The Downstream Geometry of Feature Effects",
+      "first_seen": "2026-07-29",
+      "last_updated": "2026-07-29",
+      "folder": "2026-07-29"
+    },
+    "2607.24625": {
+      "version": "v1",
+      "title": "Agentic Permissions Policy Algebra for Taint Confinement in LLM Agents",
+      "first_seen": "2026-07-29",
+      "last_updated": "2026-07-29",
+      "folder": "2026-07-29"
+    },
+    "2607.24556": {
+      "version": "v1",
+      "title": "BettiSplit: Topology-Guided Privacy-Aware Split Learning Against Feature Inversion and Gradient Leakage",
+      "first_seen": "2026-07-29",
+      "last_updated": "2026-07-29",
+      "folder": "2026-07-29"
+    },
+    "2607.24392": {
+      "version": "v1",
+      "title": "When LLM Defenses Backfire: Characterizing Safety, Performance, and Cost Trade-offs",
+      "first_seen": "2026-07-29",
+      "last_updated": "2026-07-29",
+      "folder": "2026-07-29"
+    },
+    "2607.24177": {
+      "version": "v1",
+      "title": "EXE-Bench: Ranking the Tradeoffs of AI-based Windows Malware Detectors for Real-World Usability",
+      "first_seen": "2026-07-29",
+      "last_updated": "2026-07-29",
+      "folder": "2026-07-29"
+    },
+    "2607.24174": {
+      "version": "v1",
+      "title": "Just Testing, Move Along: Evasion of LLM-based System Log Interpretation by Prompt Injection",
+      "first_seen": "2026-07-29",
+      "last_updated": "2026-07-29",
+      "folder": "2026-07-29"
+    },
+    "2607.23999": {
+      "version": "v1",
+      "title": "ContainmentBench: Trace-Based Evaluation of Prompt-Injection Defenses for Tool-Using LLM Agents",
+      "first_seen": "2026-07-29",
+      "last_updated": "2026-07-29",
+      "folder": "2026-07-29"
+    },
+    "2607.23444": {
+      "version": "v1",
+      "title": "Isolated but Exposed: Persistence-Based Memory Extraction Attack on LLM Agents",
+      "first_seen": "2026-07-29",
+      "last_updated": "2026-07-29",
+      "folder": "2026-07-29"
+    },
+    "2607.23015": {
+      "version": "v1",
+      "title": "Mask2Shield: Strengthening LLM Safety against Neuron-Pruning Attacks",
+      "first_seen": "2026-07-29",
+      "last_updated": "2026-07-29",
+      "folder": "2026-07-29"
     }
   }
 }
