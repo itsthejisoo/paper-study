@@ -5132,6 +5132,76 @@
       "first_seen": "2026-07-29",
       "last_updated": "2026-07-29",
       "folder": "2026-07-29"
+    },
+    "2607.25857": {
+      "version": "v1",
+      "title": "Shieldstral",
+      "first_seen": "2026-07-30",
+      "last_updated": "2026-07-30",
+      "folder": "2026-07-30"
+    },
+    "2607.25987": {
+      "version": "v1",
+      "title": "IH-Benchmark: A Conflict-Centered Benchmark for Instruction-Hierarchy Robustness in LLM Applications",
+      "first_seen": "2026-07-30",
+      "last_updated": "2026-07-30",
+      "folder": "2026-07-30"
+    },
+    "2607.25968": {
+      "version": "v1",
+      "title": "E-MagDiP: Electro-Magnetic based Differential Privacy for EEG based Community Sensing",
+      "first_seen": "2026-07-30",
+      "last_updated": "2026-07-30",
+      "folder": "2026-07-30"
+    },
+    "2607.25936": {
+      "version": "v1",
+      "title": "From Role Prompt to Infinite Thinking: Exploiting Persona Conditioning for Inference Cost Attacks in LLMs",
+      "first_seen": "2026-07-30",
+      "last_updated": "2026-07-30",
+      "folder": "2026-07-30"
+    },
+    "2607.25907": {
+      "version": "v1",
+      "title": "Minimizing Targeted Activations: Input-Only Suppression of Evaluation-Awareness Latents in Large Language Models",
+      "first_seen": "2026-07-30",
+      "last_updated": "2026-07-30",
+      "folder": "2026-07-30"
+    },
+    "2607.25880": {
+      "version": "v1",
+      "title": "Stemma: Induced Decision Regions Reveal LLM Provenance",
+      "first_seen": "2026-07-30",
+      "last_updated": "2026-07-30",
+      "folder": "2026-07-30"
+    },
+    "2607.25479": {
+      "version": "v1",
+      "title": "Architectural Backdoors in Vision-Language Model Supply Chains via Representation Steering",
+      "first_seen": "2026-07-30",
+      "last_updated": "2026-07-30",
+      "folder": "2026-07-30"
+    },
+    "2607.25451": {
+      "version": "v1",
+      "title": "Bits and Memories: Measuring Verbatim Extraction Across LLM Quantization",
+      "first_seen": "2026-07-30",
+      "last_updated": "2026-07-30",
+      "folder": "2026-07-30"
+    },
+    "2607.25297": {
+      "version": "v1",
+      "title": "Hybrid Analysis for Secure MCP Tool Use in LLM Agents",
+      "first_seen": "2026-07-30",
+      "last_updated": "2026-07-30",
+      "folder": "2026-07-30"
+    },
+    "2607.25270": {
+      "version": "v1",
+      "title": "Where Steering Signals Come From: Activation Source Selection in Activation Steering",
+      "first_seen": "2026-07-30",
+      "last_updated": "2026-07-30",
+      "folder": "2026-07-30"
     }
   }
 }
