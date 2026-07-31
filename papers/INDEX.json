@@ -5202,6 +5202,76 @@
       "first_seen": "2026-07-30",
       "last_updated": "2026-07-30",
       "folder": "2026-07-30"
+    },
+    "2607.26115": {
+      "version": "v1",
+      "title": "GPT-Red: Automated Red Teaming via Self-Play at Scale",
+      "first_seen": "2026-07-31",
+      "last_updated": "2026-07-31",
+      "folder": "2026-07-31"
+    },
+    "2607.26314": {
+      "version": "v1",
+      "title": "StealthBench: Measuring Operational Stealth in Autonomous Offensive-Security Agents",
+      "first_seen": "2026-07-31",
+      "last_updated": "2026-07-31",
+      "folder": "2026-07-31"
+    },
+    "2607.26791": {
+      "version": "v1",
+      "title": "SecRespond: Benchmarking AI Agents for Real-World Post-Compromise Incident Response",
+      "first_seen": "2026-07-31",
+      "last_updated": "2026-07-31",
+      "folder": "2026-07-31"
+    },
+    "2607.27081": {
+      "version": "v1",
+      "title": "On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment",
+      "first_seen": "2026-07-31",
+      "last_updated": "2026-07-31",
+      "folder": "2026-07-31"
+    },
+    "2607.27080": {
+      "version": "v1",
+      "title": "MemSecBench: Tracking Agent Memory Poisoning from Persistence to Consequence and Repair",
+      "first_seen": "2026-07-31",
+      "last_updated": "2026-07-31",
+      "folder": "2026-07-31"
+    },
+    "2607.26998": {
+      "version": "v1",
+      "title": "AgentSnare: Learning to Delay, Divert, and Defuse Autonomous Penetration Agents",
+      "first_seen": "2026-07-31",
+      "last_updated": "2026-07-31",
+      "folder": "2026-07-31"
+    },
+    "2607.26933": {
+      "version": "v1",
+      "title": "Defending Against Backdoor Attacks via Alignment Checking in Model-Contrastive Federated Learning",
+      "first_seen": "2026-07-31",
+      "last_updated": "2026-07-31",
+      "folder": "2026-07-31"
+    },
+    "2607.26849": {
+      "version": "v1",
+      "title": "ToxScreen: Detecting Whether an LLM Has Been Poisoned",
+      "first_seen": "2026-07-31",
+      "last_updated": "2026-07-31",
+      "folder": "2026-07-31"
+    },
+    "2607.26836": {
+      "version": "v1",
+      "title": "Before Agents Speak: Pre-hoc Failure Risk Inference in Multi-Agent Systems",
+      "first_seen": "2026-07-31",
+      "last_updated": "2026-07-31",
+      "folder": "2026-07-31"
+    },
+    "2607.26099": {
+      "version": "v1",
+      "title": "Lilith: Backdoor Generalization under Training-Inference Trigger Shift",
+      "first_seen": "2026-07-31",
+      "last_updated": "2026-07-31",
+      "folder": "2026-07-31"
     }
   }
 }
