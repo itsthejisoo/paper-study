@@ -5272,6 +5272,76 @@
       "first_seen": "2026-07-31",
       "last_updated": "2026-07-31",
       "folder": "2026-07-31"
+    },
+    "2607.28319": {
+      "version": "v1",
+      "title": "Fairness Pruning: Locating Demographic Bias in GLU-MLP Layers via Differential Activations",
+      "first_seen": "2026-08-03",
+      "last_updated": "2026-08-03",
+      "folder": "2026-08-03"
+    },
+    "2607.27230": {
+      "version": "v1",
+      "title": "Multi-Head Attention Residuals",
+      "first_seen": "2026-08-03",
+      "last_updated": "2026-08-03",
+      "folder": "2026-08-03"
+    },
+    "2607.20891": {
+      "version": "v2",
+      "title": "Is Deep Research Reliable? Misleading Knowledge Induces False Conclusions",
+      "first_seen": "2026-08-03",
+      "last_updated": "2026-08-03",
+      "folder": "2026-08-03"
+    },
+    "2607.28165": {
+      "version": "v1",
+      "title": "Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents",
+      "first_seen": "2026-08-03",
+      "last_updated": "2026-08-03",
+      "folder": "2026-08-03"
+    },
+    "2607.28147": {
+      "version": "v1",
+      "title": "Agent Harness Distillation: Inference-Time Harness Extraction and Exploitation in Autonomous Multi-Agent Systems",
+      "first_seen": "2026-08-03",
+      "last_updated": "2026-08-03",
+      "folder": "2026-08-03"
+    },
+    "2607.27951": {
+      "version": "v1",
+      "title": "Safeguards Based on Copyable Context Cannot Provide Reliable Safety for LLMs",
+      "first_seen": "2026-08-03",
+      "last_updated": "2026-08-03",
+      "folder": "2026-08-03"
+    },
+    "2607.27886": {
+      "version": "v1",
+      "title": "Don't Trust the AI Ecosystem: Analyzing Privacy Leakage in Compromised Open-Source Components",
+      "first_seen": "2026-08-03",
+      "last_updated": "2026-08-03",
+      "folder": "2026-08-03"
+    },
+    "2607.27940": {
+      "version": "v1",
+      "title": "TriShield: Zero-Utility-Loss Defense Against Privacy Backdoors in Federated Language Model Fine-Tuning via Orthogonal Gradient Projection and Optimizer State Entanglement",
+      "first_seen": "2026-08-03",
+      "last_updated": "2026-08-03",
+      "folder": "2026-08-03"
+    },
+    "2607.27936": {
+      "version": "v1",
+      "title": "Benign on Label, Malicious by Design: Clean-Label Dormant-to-Activated Backdoor via Machine Unlearning with Removable Camouflage",
+      "first_seen": "2026-08-03",
+      "last_updated": "2026-08-03",
+      "folder": "2026-08-03"
+    },
+    "2607.28191": {
+      "version": "v1",
+      "title": "Secure Aggregation for Privacy-Preserving Federated Learning on Clinical EEG Data",
+      "first_seen": "2026-08-03",
+      "last_updated": "2026-08-03",
+      "folder": "2026-08-03"
     }
   }
 }
