@@ -5342,6 +5342,76 @@
       "first_seen": "2026-08-03",
       "last_updated": "2026-08-03",
       "folder": "2026-08-03"
+    },
+    "2607.28617": {
+      "version": "v1",
+      "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-04",
+      "folder": "2026-08-04"
+    },
+    "2607.29445": {
+      "version": "v1",
+      "title": "QR-Structured Thermal Triggers for Targeted Semantic Attacks on Infrared Vision-Language Models",
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-04",
+      "folder": "2026-08-04"
+    },
+    "2607.29378": {
+      "version": "v1",
+      "title": "PTP: Previous-Token Prediction based LLM Inversion for Near-Exact Prompt Reconstruction",
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-04",
+      "folder": "2026-08-04"
+    },
+    "2607.29254": {
+      "version": "v1",
+      "title": "Tool Specifications Matter: Uncovering and Mitigating Safety Risks in AI Agents",
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-04",
+      "folder": "2026-08-04"
+    },
+    "2607.29199": {
+      "version": "v1",
+      "title": "Alignment Is Local: A Paired Diagnostic for GUI Agents under User-Side Persuasion",
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-04",
+      "folder": "2026-08-04"
+    },
+    "2607.29167": {
+      "version": "v1",
+      "title": "Memory Provenance Laundering in LLM Agents: A Non-Amplification Firewall for Persistent Memory",
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-04",
+      "folder": "2026-08-04"
+    },
+    "2607.29144": {
+      "version": "v1",
+      "title": "Have I Seen You? Embedding Behavior Signals Synthetic Face Dataset Membership",
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-04",
+      "folder": "2026-08-04"
+    },
+    "2607.29100": {
+      "version": "v1",
+      "title": "StraightDP: Geometry-Aware Differential Privacy for Rectified-Flow Transformers",
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-04",
+      "folder": "2026-08-04"
+    },
+    "2607.29062": {
+      "version": "v1",
+      "title": "On the Generalization of Steering Vectors for Chain-of-Thought Faithfulness",
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-04",
+      "folder": "2026-08-04"
+    },
+    "2607.28959": {
+      "version": "v1",
+      "title": "Efficient LLM Adversarial Training via Low-Rank Defense and Circuit-Guided Surrogates",
+      "first_seen": "2026-08-04",
+      "last_updated": "2026-08-04",
+      "folder": "2026-08-04"
     }
   }
 }
