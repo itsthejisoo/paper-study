@@ -5412,6 +5412,76 @@
       "first_seen": "2026-08-04",
       "last_updated": "2026-08-04",
       "folder": "2026-08-04"
+    },
+    "2608.02585": {
+      "version": "v1",
+      "title": "GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning",
+      "first_seen": "2026-08-05",
+      "last_updated": "2026-08-05",
+      "folder": "2026-08-05"
+    },
+    "2608.02518": {
+      "version": "v1",
+      "title": "Magnet: Detecting Cross-Session AI Misuse Through Capability Accumulation",
+      "first_seen": "2026-08-05",
+      "last_updated": "2026-08-05",
+      "folder": "2026-08-05"
+    },
+    "2608.01849": {
+      "version": "v1",
+      "title": "Exploring and Bridging Knowledge Holes in Unlearned Multimodal Large Language Models",
+      "first_seen": "2026-08-05",
+      "last_updated": "2026-08-05",
+      "folder": "2026-08-05"
+    },
+    "2608.01759": {
+      "version": "v1",
+      "title": "Benign Alone, Harmful Together: Exploiting Experience Composition in Self-Evolving LLM Agents",
+      "first_seen": "2026-08-05",
+      "last_updated": "2026-08-05",
+      "folder": "2026-08-05"
+    },
+    "2608.01719": {
+      "version": "v1",
+      "title": "MNC: Scope-Bound Semantic Declassification for Private LLM-Agent Communication",
+      "first_seen": "2026-08-05",
+      "last_updated": "2026-08-05",
+      "folder": "2026-08-05"
+    },
+    "2608.01637": {
+      "version": "v1",
+      "title": "Salami Attack: Stealthy Collusive Memory Poisoning against OpenClaw",
+      "first_seen": "2026-08-05",
+      "last_updated": "2026-08-05",
+      "folder": "2026-08-05"
+    },
+    "2608.01558": {
+      "version": "v1",
+      "title": "Securing Agentic AI: From Per-Action Checks to Trajectory Assurance",
+      "first_seen": "2026-08-05",
+      "last_updated": "2026-08-05",
+      "folder": "2026-08-05"
+    },
+    "2608.01521": {
+      "version": "v1",
+      "title": "MineGrad: Gradient Inversion Attacks on LoRA Fine-Tuning",
+      "first_seen": "2026-08-05",
+      "last_updated": "2026-08-05",
+      "folder": "2026-08-05"
+    },
+    "2608.01422": {
+      "version": "v1",
+      "title": "QR-Erase: Efficient Subspace-Based Machine Unlearning with Layer Localization",
+      "first_seen": "2026-08-05",
+      "last_updated": "2026-08-05",
+      "folder": "2026-08-05"
+    },
+    "2608.01414": {
+      "version": "v1",
+      "title": "No Single Neuron of Failure: Distributed Safety Alignment Against White-Box Attacks",
+      "first_seen": "2026-08-05",
+      "last_updated": "2026-08-05",
+      "folder": "2026-08-05"
     }
   }
 }
