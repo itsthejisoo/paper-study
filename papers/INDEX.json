@@ -5482,6 +5482,76 @@
       "first_seen": "2026-08-05",
       "last_updated": "2026-08-05",
       "folder": "2026-08-05"
+    },
+    "2608.03509": {
+      "version": "v1",
+      "title": "SkillJack: Persistent Skill Backdoors in Self-Evolving Agents",
+      "first_seen": "2026-08-06",
+      "last_updated": "2026-08-06",
+      "folder": "2026-08-06"
+    },
+    "2608.03700": {
+      "version": "v1",
+      "title": "When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills",
+      "first_seen": "2026-08-06",
+      "last_updated": "2026-08-06",
+      "folder": "2026-08-06"
+    },
+    "2608.03913": {
+      "version": "v1",
+      "title": "Sparse Weight Decomposition for Efficient Circuit Extraction",
+      "first_seen": "2026-08-06",
+      "last_updated": "2026-08-06",
+      "folder": "2026-08-06"
+    },
+    "2608.03838": {
+      "version": "v1",
+      "title": "LatentGuard: Efficient and Inspectable Latent Reasoning for LLM Safeguards",
+      "first_seen": "2026-08-06",
+      "last_updated": "2026-08-06",
+      "folder": "2026-08-06"
+    },
+    "2608.03791": {
+      "version": "v1",
+      "title": "Does Forgetting Transfer Across Modalities? A Real-World Benchmark for Cross-Modal Knowledge Unlearning Evaluation",
+      "first_seen": "2026-08-06",
+      "last_updated": "2026-08-06",
+      "folder": "2026-08-06"
+    },
+    "2608.03745": {
+      "version": "v1",
+      "title": "Risky Business: Measuring The Faithfulness-Safety Tension",
+      "first_seen": "2026-08-06",
+      "last_updated": "2026-08-06",
+      "folder": "2026-08-06"
+    },
+    "2608.03844": {
+      "version": "v1",
+      "title": "MAFIA: Query-Only Memory Attacks via Probing and Factual Injection against Audited LLM Agents",
+      "first_seen": "2026-08-06",
+      "last_updated": "2026-08-06",
+      "folder": "2026-08-06"
+    },
+    "2608.03737": {
+      "version": "v1",
+      "title": "Dependency Triad: A Metric to Quantify the Dependencies Between Attributes for Local Differential Privacy",
+      "first_seen": "2026-08-06",
+      "last_updated": "2026-08-06",
+      "folder": "2026-08-06"
+    },
+    "2608.03130": {
+      "version": "v1",
+      "title": "DP-MemView: A Memory Interface for Attribute-Level Transcript Privacy in Long-Term LLM Agents",
+      "first_seen": "2026-08-06",
+      "last_updated": "2026-08-06",
+      "folder": "2026-08-06"
+    },
+    "2608.03210": {
+      "version": "v1",
+      "title": "ICO: Enhancing Semantic-Shift Jailbreaks via Iterative Context Optimization",
+      "first_seen": "2026-08-06",
+      "last_updated": "2026-08-06",
+      "folder": "2026-08-06"
     }
   }
 }
