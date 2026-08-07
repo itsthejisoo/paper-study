@@ -5552,6 +5552,76 @@
       "first_seen": "2026-08-06",
       "last_updated": "2026-08-06",
       "folder": "2026-08-06"
+    },
+    "2608.05108": {
+      "version": "v1",
+      "title": "Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming",
+      "first_seen": "2026-08-07",
+      "last_updated": "2026-08-07",
+      "folder": "2026-08-07"
+    },
+    "2608.03207": {
+      "version": "v1",
+      "title": "DRIFT: Derailing Denoising Trajectories of Flow-Matching VLAs with Adversarial Patch Attack",
+      "first_seen": "2026-08-07",
+      "last_updated": "2026-08-07",
+      "folder": "2026-08-07"
+    },
+    "2608.05127": {
+      "version": "v1",
+      "title": "SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant",
+      "first_seen": "2026-08-07",
+      "last_updated": "2026-08-07",
+      "folder": "2026-08-07"
+    },
+    "2608.05086": {
+      "version": "v1",
+      "title": "Item Response Theory for AI Safety",
+      "first_seen": "2026-08-07",
+      "last_updated": "2026-08-07",
+      "folder": "2026-08-07"
+    },
+    "2608.05040": {
+      "version": "v1",
+      "title": "Private Direct Preference Optimization for LLM Alignment",
+      "first_seen": "2026-08-07",
+      "last_updated": "2026-08-07",
+      "folder": "2026-08-07"
+    },
+    "2608.05036": {
+      "version": "v1",
+      "title": "When Do PEFT Adaptations Leak Structure? Measuring Black-Box Structural Bounds in Public-Base Model Services",
+      "first_seen": "2026-08-07",
+      "last_updated": "2026-08-07",
+      "folder": "2026-08-07"
+    },
+    "2608.04756": {
+      "version": "v1",
+      "title": "PURPOSE: Poisoning Conflict Resolution in RAG via Proxy-Fact-Grounded Updates",
+      "first_seen": "2026-08-07",
+      "last_updated": "2026-08-07",
+      "folder": "2026-08-07"
+    },
+    "2608.04741": {
+      "version": "v1",
+      "title": "LoginTrap: Uncovering Task-Agnostic Phishing-Style Indirect Prompt Injection Attacks against LLM-based Web Agents",
+      "first_seen": "2026-08-07",
+      "last_updated": "2026-08-07",
+      "folder": "2026-08-07"
+    },
+    "2608.04548": {
+      "version": "v1",
+      "title": "A Model Merging Approach for Continual MLLM Unlearning",
+      "first_seen": "2026-08-07",
+      "last_updated": "2026-08-07",
+      "folder": "2026-08-07"
+    },
+    "2608.04519": {
+      "version": "v1",
+      "title": "Leak-Resistant Unlearning: A New Benchmark for Evaluating Multi-Hop Reasoning Consistency and Recovery Robustness",
+      "first_seen": "2026-08-07",
+      "last_updated": "2026-08-07",
+      "folder": "2026-08-07"
     }
   }
 }
