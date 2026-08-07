@@ -5622,6 +5622,76 @@
       "first_seen": "2026-08-07",
       "last_updated": "2026-08-07",
       "folder": "2026-08-07"
+    },
+    "2608.06211": {
+      "version": "v1",
+      "title": "Reversible Unlearnable Examples: Towards the Copyright Protection in Deep Learning Era",
+      "first_seen": "2026-08-08",
+      "last_updated": "2026-08-08",
+      "folder": "2026-08-08"
+    },
+    "2608.05783": {
+      "version": "v1",
+      "title": "GROM: Gradient-Free Rapid One-Shot Machine Unlearning",
+      "first_seen": "2026-08-08",
+      "last_updated": "2026-08-08",
+      "folder": "2026-08-08"
+    },
+    "2608.05737": {
+      "version": "v1",
+      "title": "ABC: Numerical Data Collection under Local Differential Privacy without Prior Knowledge",
+      "first_seen": "2026-08-08",
+      "last_updated": "2026-08-08",
+      "folder": "2026-08-08"
+    },
+    "2608.05732": {
+      "version": "v1",
+      "title": "CircuitSteer: Geometrically Aligned Multi-Layer Steering via Sparse Autoencoder Circuits",
+      "first_seen": "2026-08-08",
+      "last_updated": "2026-08-08",
+      "folder": "2026-08-08"
+    },
+    "2608.05659": {
+      "version": "v1",
+      "title": "Breaking Customized LLMs for Coding: Automated Red Teaming for Instruction Backdoor Attacks",
+      "first_seen": "2026-08-08",
+      "last_updated": "2026-08-08",
+      "folder": "2026-08-08"
+    },
+    "2608.05578": {
+      "version": "v1",
+      "title": "Detecting Safety Training Modification in Language Models via Activation Analysis",
+      "first_seen": "2026-08-08",
+      "last_updated": "2026-08-08",
+      "folder": "2026-08-08"
+    },
+    "2608.05563": {
+      "version": "v1",
+      "title": "When Experience Becomes Instruction: Trajectory Poisoning in Self-Evolving Agent Skill Systems",
+      "first_seen": "2026-08-08",
+      "last_updated": "2026-08-08",
+      "folder": "2026-08-08"
+    },
+    "2608.05495": {
+      "version": "v1",
+      "title": "PromptShield Home: Ambient Multimodal Prompt Injection Defense for Smart-Home Agents",
+      "first_seen": "2026-08-08",
+      "last_updated": "2026-08-08",
+      "folder": "2026-08-08"
+    },
+    "2608.05409": {
+      "version": "v1",
+      "title": "Mood Matters: How Syntactic Sensitivity Undermines Safety Alignment",
+      "first_seen": "2026-08-08",
+      "last_updated": "2026-08-08",
+      "folder": "2026-08-08"
+    },
+    "2608.05199": {
+      "version": "v1",
+      "title": "Post-Hoc Trajectory-Risk Certification for Modular LLM-Based Security Agents",
+      "first_seen": "2026-08-08",
+      "last_updated": "2026-08-08",
+      "folder": "2026-08-08"
     }
   }
 }
