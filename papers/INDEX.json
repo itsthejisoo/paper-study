@@ -1072,10 +1072,10 @@
       "folder": "2026-06-02"
     },
     "2604.16548": {
-      "version": "v1",
-      "title": "A Survey on the Security of Long-Term Memory in LLM Agents: Toward Mnemonic Sovereignty",
+      "version": "v2",
+      "title": "A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle",
       "first_seen": "2026-05-28",
-      "last_updated": "2026-05-28",
+      "last_updated": "2026-08-09",
       "folder": "2026-05-28"
     },
     "2605.24614": {
@@ -5692,6 +5692,34 @@
       "first_seen": "2026-08-08",
       "last_updated": "2026-08-08",
       "folder": "2026-08-08"
+    },
+    "2607.28607": {
+      "version": "v1",
+      "title": "Inducing language models to assert their own consciousness restores human beliefs and values",
+      "first_seen": "2026-08-09",
+      "last_updated": "2026-08-09",
+      "folder": "2026-08-09"
+    },
+    "2408.02882": {
+      "version": "v1",
+      "title": "Compromising Embodied Agents with Contextual Backdoor Attacks",
+      "first_seen": "2026-08-09",
+      "last_updated": "2026-08-09",
+      "folder": "2026-08-09"
+    },
+    "2608.05217": {
+      "version": "v1",
+      "title": "A Survey of Adversarial Efficiency Degradation for Vision Transformer by Exploiting Input-adaptive Optimization",
+      "first_seen": "2026-08-09",
+      "last_updated": "2026-08-09",
+      "folder": "2026-08-09"
+    },
+    "2608.05163": {
+      "version": "v1",
+      "title": "Where Privacy Risk Lives in English-Source Multilingual RAG: A Stage-Decomposed Audit Across Five Query Languages",
+      "first_seen": "2026-08-09",
+      "last_updated": "2026-08-09",
+      "folder": "2026-08-09"
     }
   }
 }
