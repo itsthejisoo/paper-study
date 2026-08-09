@@ -1765,10 +1765,10 @@
       "folder": "2026-06-07"
     },
     "2606.00152": {
-      "version": "v1",
+      "version": "v2",
       "title": "PrivacyPeek: Auditing What LLM-Based Agents Acquire, Not Just What They Say",
       "first_seen": "2026-06-07",
-      "last_updated": "2026-06-07",
+      "last_updated": "2026-08-10",
       "folder": "2026-06-07"
     },
     "2606.00801": {
@@ -5720,6 +5720,69 @@
       "first_seen": "2026-08-09",
       "last_updated": "2026-08-09",
       "folder": "2026-08-09"
+    },
+    "2608.05909": {
+      "version": "v1",
+      "title": "MMAligner: Safeguarding Multimodal Large Language Models through Representation Calibration",
+      "first_seen": "2026-08-10",
+      "last_updated": "2026-08-10",
+      "folder": "2026-08-10"
+    },
+    "2608.05715": {
+      "version": "v1",
+      "title": "Hijacking Robots with a Piece of Paper: A Systematic Study of Physical Prompt Injection in VLM-Controlled Robots",
+      "first_seen": "2026-08-10",
+      "last_updated": "2026-08-10",
+      "folder": "2026-08-10"
+    },
+    "2608.06130": {
+      "version": "v1",
+      "title": "Hardware Keystores for AI Agent Signing Workflows: A Zero-Trust MCP Enforcement Architecture",
+      "first_seen": "2026-08-10",
+      "last_updated": "2026-08-10",
+      "folder": "2026-08-10"
+    },
+    "2608.05430": {
+      "version": "v1",
+      "title": "Robust Context-Aware Detection of Malicious Instructions in Text",
+      "first_seen": "2026-08-10",
+      "last_updated": "2026-08-10",
+      "folder": "2026-08-10"
+    },
+    "2608.05736": {
+      "version": "v1",
+      "title": "Algebraic Cryptanalytic Extraction on Hard-Label Neural Networks",
+      "first_seen": "2026-08-10",
+      "last_updated": "2026-08-10",
+      "folder": "2026-08-10"
+    },
+    "2608.05660": {
+      "version": "v1",
+      "title": "Reasoning Errors Have a Region and a Direction in the Residual-Stream Trajectory of LLMs",
+      "first_seen": "2026-08-10",
+      "last_updated": "2026-08-10",
+      "folder": "2026-08-10"
+    },
+    "2608.05624": {
+      "version": "v1",
+      "title": "Measuring and Detecting Harmful AI Sycophancy",
+      "first_seen": "2026-08-10",
+      "last_updated": "2026-08-10",
+      "folder": "2026-08-10"
+    },
+    "2608.06300": {
+      "version": "v1",
+      "title": "Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors",
+      "first_seen": "2026-08-10",
+      "last_updated": "2026-08-10",
+      "folder": "2026-08-10"
+    },
+    "2608.05884": {
+      "version": "v1",
+      "title": "The Vulnerability With No CVE: Managing Persistent Gaps Between Mandate and Authority in AI Coding Agents",
+      "first_seen": "2026-08-10",
+      "last_updated": "2026-08-10",
+      "folder": "2026-08-10"
     }
   }
 }
