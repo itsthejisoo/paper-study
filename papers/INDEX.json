@@ -5783,6 +5783,76 @@
       "first_seen": "2026-08-10",
       "last_updated": "2026-08-10",
       "folder": "2026-08-10"
+    },
+    "2607.23379": {
+      "version": "v1",
+      "title": "When Activation Oracles Learn Not to Read: Concept-Specific Blind Spots in Fine-Tuned Oracles",
+      "first_seen": "2026-08-11",
+      "last_updated": "2026-08-11",
+      "folder": "2026-08-11"
+    },
+    "2608.04314": {
+      "version": "v1",
+      "title": "Adversarial Attacks for Good: A Survey of Proactive Protection across the Visual Content Lifecycle",
+      "first_seen": "2026-08-11",
+      "last_updated": "2026-08-11",
+      "folder": "2026-08-11"
+    },
+    "2608.06947": {
+      "version": "v1",
+      "title": "When Context Bites: Detecting RAG Poisoning via Document-Level Attention Collapse",
+      "first_seen": "2026-08-11",
+      "last_updated": "2026-08-11",
+      "folder": "2026-08-11"
+    },
+    "2608.07430": {
+      "version": "v1",
+      "title": "Diffusion LLMs as Targets and Adversaries: Mechanistic Safety Exploits",
+      "first_seen": "2026-08-11",
+      "last_updated": "2026-08-11",
+      "folder": "2026-08-11"
+    },
+    "2608.06862": {
+      "version": "v1",
+      "title": "SynChain: Inducing Computer-Use Agent Systems to Construct Their Own Attack Chains",
+      "first_seen": "2026-08-11",
+      "last_updated": "2026-08-11",
+      "folder": "2026-08-11"
+    },
+    "2608.06795": {
+      "version": "v1",
+      "title": "LoRAScan: Detecting Backdoor Prompts in Low-Rank Adapters for Large Language Models via Down-Projection Activation Spikes",
+      "first_seen": "2026-08-11",
+      "last_updated": "2026-08-11",
+      "folder": "2026-08-11"
+    },
+    "2608.06969": {
+      "version": "v1",
+      "title": "Finding Usable Weight Mechanisms with Tiled SVD",
+      "first_seen": "2026-08-11",
+      "last_updated": "2026-08-11",
+      "folder": "2026-08-11"
+    },
+    "2608.07167": {
+      "version": "v1",
+      "title": "NiyamAI - An Intent-Bound AI Agent with Cryptographically Verifiable Guardrails using Zero-Knowledge Proofs",
+      "first_seen": "2026-08-11",
+      "last_updated": "2026-08-11",
+      "folder": "2026-08-11"
+    },
+    "2608.07274": {
+      "version": "v1",
+      "title": "TOFD: Target-Oriented Feature Decoupling against Poisoning Attacks in Split Federated Learning",
+      "first_seen": "2026-08-11",
+      "last_updated": "2026-08-11",
+      "folder": "2026-08-11"
+    },
+    "2608.06909": {
+      "version": "v1",
+      "title": "Long-Horizon Agent Trajectory Attribution: A Unified Benchmark and Fine-Grained Annotation Framework",
+      "first_seen": "2026-08-11",
+      "last_updated": "2026-08-11",
+      "folder": "2026-08-11"
     }
   }
 }
