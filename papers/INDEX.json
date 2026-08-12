@@ -5923,6 +5923,76 @@
       "first_seen": "2026-08-12",
       "last_updated": "2026-08-12",
       "folder": "2026-08-12"
+    },
+    "2608.10703": {
+      "version": "v1",
+      "title": "Your LLM, Your Style: Behavioral Mode Axes for LLM Behavioral Control",
+      "first_seen": "2026-08-13",
+      "last_updated": "2026-08-13",
+      "folder": "2026-08-13"
+    },
+    "2608.09900": {
+      "version": "v1",
+      "title": "Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness",
+      "first_seen": "2026-08-13",
+      "last_updated": "2026-08-13",
+      "folder": "2026-08-13"
+    },
+    "2608.10959": {
+      "version": "v1",
+      "title": "Once Poisoned, Arbitrarily Controlled: A Programmable Backdoor in VLMs",
+      "first_seen": "2026-08-13",
+      "last_updated": "2026-08-13",
+      "folder": "2026-08-13"
+    },
+    "2608.10760": {
+      "version": "v1",
+      "title": "A Gateway Architecture for Enterprise MCP Authentication: Unifying Heterogeneous Auth, Identity Delegation, and the User / Non-User Persona Problem",
+      "first_seen": "2026-08-13",
+      "last_updated": "2026-08-13",
+      "folder": "2026-08-13"
+    },
+    "2608.10614": {
+      "version": "v1",
+      "title": "Trigger the Straggler: Load Hijack on Mixture-of-Experts LLMs",
+      "first_seen": "2026-08-13",
+      "last_updated": "2026-08-13",
+      "folder": "2026-08-13"
+    },
+    "2608.10530": {
+      "version": "v1",
+      "title": "On Understanding, Identifying, and Mitigating Vulnerabilities in Agentic Large Language Models",
+      "first_seen": "2026-08-13",
+      "last_updated": "2026-08-13",
+      "folder": "2026-08-13"
+    },
+    "2608.10281": {
+      "version": "v1",
+      "title": "From Prompt Injection to Web Exploitation: Revisiting Classic Vulnerabilities in LLM-Integrated Applications",
+      "first_seen": "2026-08-13",
+      "last_updated": "2026-08-13",
+      "folder": "2026-08-13"
+    },
+    "2608.10279": {
+      "version": "v1",
+      "title": "Withholding the Completing Chunk: Deterministic Pair-Completion Guardrails for Streaming LLM Output",
+      "first_seen": "2026-08-13",
+      "last_updated": "2026-08-13",
+      "folder": "2026-08-13"
+    },
+    "2608.11197": {
+      "version": "v1",
+      "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
+      "first_seen": "2026-08-13",
+      "last_updated": "2026-08-13",
+      "folder": "2026-08-13"
+    },
+    "2608.10621": {
+      "version": "v1",
+      "title": "ProbGuard: Calibrated Safety Risk Estimation from LLM Output Distributions",
+      "first_seen": "2026-08-13",
+      "last_updated": "2026-08-13",
+      "folder": "2026-08-13"
     }
   }
 }
