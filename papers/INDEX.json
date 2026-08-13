@@ -5993,6 +5993,76 @@
       "first_seen": "2026-08-13",
       "last_updated": "2026-08-13",
       "folder": "2026-08-13"
+    },
+    "2608.00677": {
+      "version": "v1",
+      "title": "OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution",
+      "first_seen": "2026-08-14",
+      "last_updated": "2026-08-14",
+      "folder": "2026-08-14"
+    },
+    "2608.12036": {
+      "version": "v1",
+      "title": "Mechanist: AI as a Scientific Instrument for Discovering the Mechanisms of Intelligence",
+      "first_seen": "2026-08-14",
+      "last_updated": "2026-08-14",
+      "folder": "2026-08-14"
+    },
+    "2608.11878": {
+      "version": "v1",
+      "title": "ToolHazard: Scaling Adversarial Environments for Security Evaluation and Alignment of LLM-based Agents",
+      "first_seen": "2026-08-14",
+      "last_updated": "2026-08-14",
+      "folder": "2026-08-14"
+    },
+    "2608.11274": {
+      "version": "v1",
+      "title": "Agent Safety Should Be a Runtime Contract",
+      "first_seen": "2026-08-14",
+      "last_updated": "2026-08-14",
+      "folder": "2026-08-14"
+    },
+    "2608.12149": {
+      "version": "v1",
+      "title": "Massive Activations in Hybrid Linear Attention Large Language Models: Pre-Attention Spikes and Inter-Spike Plateaus",
+      "first_seen": "2026-08-14",
+      "last_updated": "2026-08-14",
+      "folder": "2026-08-14"
+    },
+    "2608.12273": {
+      "version": "v1",
+      "title": "Convergent Detour Hijacking: Task-Preserving Resource Amplification in Skill-Based LLM Agents",
+      "first_seen": "2026-08-14",
+      "last_updated": "2026-08-14",
+      "folder": "2026-08-14"
+    },
+    "2608.11691": {
+      "version": "v1",
+      "title": "LEMUR: Latent Entropy-aware Multimodal Unlearning via Visual-anchored Reasoning Redirection",
+      "first_seen": "2026-08-14",
+      "last_updated": "2026-08-14",
+      "folder": "2026-08-14"
+    },
+    "2608.11392": {
+      "version": "v1",
+      "title": "AI Guardrail Survival under Single-Cycle Agentic Self-Summarization",
+      "first_seen": "2026-08-14",
+      "last_updated": "2026-08-14",
+      "folder": "2026-08-14"
+    },
+    "2608.11348": {
+      "version": "v1",
+      "title": "An Empirical Study of Output-to-Input Loops for Black-Box Backdoor Detection in Fine-Tuned Open-Weight LLMs",
+      "first_seen": "2026-08-14",
+      "last_updated": "2026-08-14",
+      "folder": "2026-08-14"
+    },
+    "2608.11295": {
+      "version": "v1",
+      "title": "Backdoor Decontamination Dynamics in LLM Agents",
+      "first_seen": "2026-08-14",
+      "last_updated": "2026-08-14",
+      "folder": "2026-08-14"
     }
   }
 }
