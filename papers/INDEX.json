@@ -6063,6 +6063,76 @@
       "first_seen": "2026-08-14",
       "last_updated": "2026-08-14",
       "folder": "2026-08-14"
+    },
+    "2608.09158": {
+      "version": "v1",
+      "title": "From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs",
+      "first_seen": "2026-08-15",
+      "last_updated": "2026-08-15",
+      "folder": "2026-08-15"
+    },
+    "2608.13538": {
+      "version": "v1",
+      "title": "SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization",
+      "first_seen": "2026-08-15",
+      "last_updated": "2026-08-15",
+      "folder": "2026-08-15"
+    },
+    "2608.13048": {
+      "version": "v1",
+      "title": "DMDIntel: Interpreting Large Language Models via Dynamic Mode Decomposition",
+      "first_seen": "2026-08-15",
+      "last_updated": "2026-08-15",
+      "folder": "2026-08-15"
+    },
+    "2608.12996": {
+      "version": "v1",
+      "title": "ATOBench: Tracing How Autonomous Penetration-Testing Agents Verify Vulnerabilities When Target Evidence Lies",
+      "first_seen": "2026-08-15",
+      "last_updated": "2026-08-15",
+      "folder": "2026-08-15"
+    },
+    "2608.12977": {
+      "version": "v1",
+      "title": "Beyond Handcrafted Security: Towards Self-Evolving Defense for LLM Agents",
+      "first_seen": "2026-08-15",
+      "last_updated": "2026-08-15",
+      "folder": "2026-08-15"
+    },
+    "2608.12962": {
+      "version": "v1",
+      "title": "Understanding Backdoor Vulnerabilities in Vertical Federated Learning: The Gap Between Research and Practice",
+      "first_seen": "2026-08-15",
+      "last_updated": "2026-08-15",
+      "folder": "2026-08-15"
+    },
+    "2608.12911": {
+      "version": "v1",
+      "title": "Beyond Visual Evidence: Revealing and Mitigating Relational Privacy Leakage in Document MLLMs",
+      "first_seen": "2026-08-15",
+      "last_updated": "2026-08-15",
+      "folder": "2026-08-15"
+    },
+    "2608.12851": {
+      "version": "v1",
+      "title": "Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents",
+      "first_seen": "2026-08-15",
+      "last_updated": "2026-08-15",
+      "folder": "2026-08-15"
+    },
+    "2608.12789": {
+      "version": "v1",
+      "title": "PIPES: Securing Agent Perception with Provenance and Priors",
+      "first_seen": "2026-08-15",
+      "last_updated": "2026-08-15",
+      "folder": "2026-08-15"
+    },
+    "2608.12652": {
+      "version": "v1",
+      "title": "Excess Separability: Nuisance-Controlled Residual-Stream Probing for Benchmark Contamination Detection",
+      "first_seen": "2026-08-15",
+      "last_updated": "2026-08-15",
+      "folder": "2026-08-15"
     }
   }
 }
