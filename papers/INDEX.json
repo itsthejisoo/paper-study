@@ -6133,6 +6133,76 @@
       "first_seen": "2026-08-15",
       "last_updated": "2026-08-15",
       "folder": "2026-08-15"
+    },
+    "2608.13484": {
+      "version": "v1",
+      "title": "Toward a Gricean Retreat: Probing LLMs for Knowledge Boundaries and Referent Specificity",
+      "first_seen": "2026-08-16",
+      "last_updated": "2026-08-16",
+      "folder": "2026-08-16"
+    },
+    "2608.13453": {
+      "version": "v1",
+      "title": "UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models",
+      "first_seen": "2026-08-16",
+      "last_updated": "2026-08-16",
+      "folder": "2026-08-16"
+    },
+    "2608.13404": {
+      "version": "v1",
+      "title": "Does Fixing Break Security? An Empirical Study of Security Degradation in Iterative LLM-Driven Infrastructure-as-Code Repair",
+      "first_seen": "2026-08-16",
+      "last_updated": "2026-08-16",
+      "folder": "2026-08-16"
+    },
+    "2608.13304": {
+      "version": "v1",
+      "title": "Refusing Intent, Not Form: Wrapper-Based Intent-Group Supervision for LLM Safety",
+      "first_seen": "2026-08-16",
+      "last_updated": "2026-08-16",
+      "folder": "2026-08-16"
+    },
+    "2608.13296": {
+      "version": "v1",
+      "title": "Large-scale Testing Global Optimization Methods with Black-box Adversarial Attacks",
+      "first_seen": "2026-08-16",
+      "last_updated": "2026-08-16",
+      "folder": "2026-08-16"
+    },
+    "2608.12889": {
+      "version": "v1",
+      "title": "Adversarial Robustness in Smishing Detection: A Comparative Analysis of Adversarial Fragility in Classical vs. Transformer-Based Detection Systems",
+      "first_seen": "2026-08-16",
+      "last_updated": "2026-08-16",
+      "folder": "2026-08-16"
+    },
+    "2608.12880": {
+      "version": "v1",
+      "title": "Labels Are Not Endpoints: Treatment Leakage and Construct Validity in MCP Agent Security Evaluation",
+      "first_seen": "2026-08-16",
+      "last_updated": "2026-08-16",
+      "folder": "2026-08-16"
+    },
+    "2608.12821": {
+      "version": "v1",
+      "title": "HiRoute: Hierarchical Routed Prompt Tuning for Safety Alignment of Large Language Models",
+      "first_seen": "2026-08-16",
+      "last_updated": "2026-08-16",
+      "folder": "2026-08-16"
+    },
+    "2608.12717": {
+      "version": "v1",
+      "title": "Perturbation-based Regional Interpretability through Subtraction Mapping (PRISM): naming-error dissociations in language models and post-stroke aphasia",
+      "first_seen": "2026-08-16",
+      "last_updated": "2026-08-16",
+      "folder": "2026-08-16"
+    },
+    "2608.12675": {
+      "version": "v1",
+      "title": "Privacy-Preserving RAG by Concealing Sensitive Information from External LLMs",
+      "first_seen": "2026-08-16",
+      "last_updated": "2026-08-16",
+      "folder": "2026-08-16"
     }
   }
 }
