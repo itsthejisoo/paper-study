@@ -6203,6 +6203,76 @@
       "first_seen": "2026-08-16",
       "last_updated": "2026-08-16",
       "folder": "2026-08-16"
+    },
+    "2608.13482": {
+      "version": "v1",
+      "title": "Synthetic Persona Pretraining: Alignment from Token Zero",
+      "first_seen": "2026-08-17",
+      "last_updated": "2026-08-17",
+      "folder": "2026-08-17"
+    },
+    "2608.12623": {
+      "version": "v1",
+      "title": "When Explanations Betray Backdoors: Black-Box Auditing for Language Model Classifiers",
+      "first_seen": "2026-08-17",
+      "last_updated": "2026-08-17",
+      "folder": "2026-08-17"
+    },
+    "2608.12713": {
+      "version": "v1",
+      "title": "Tracing Provenance and Detecting Tampering with Complementary LLM Watermarks",
+      "first_seen": "2026-08-17",
+      "last_updated": "2026-08-17",
+      "folder": "2026-08-17"
+    },
+    "2608.13030": {
+      "version": "v1",
+      "title": "InterSAGE: The Secure and Verifiable Interoperability Protocol for An Internet of Agents",
+      "first_seen": "2026-08-17",
+      "last_updated": "2026-08-17",
+      "folder": "2026-08-17"
+    },
+    "2608.13167": {
+      "version": "v1",
+      "title": "TRAPSBench: Vision-Language Models Encode but Fail to Express Epistemic Restraint",
+      "first_seen": "2026-08-17",
+      "last_updated": "2026-08-17",
+      "folder": "2026-08-17"
+    },
+    "2608.12654": {
+      "version": "v1",
+      "title": "SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries",
+      "first_seen": "2026-08-17",
+      "last_updated": "2026-08-17",
+      "folder": "2026-08-17"
+    },
+    "2608.13515": {
+      "version": "v1",
+      "title": "Measuring Task-Agnostic Training Data Influence Across Language Model Pretraining",
+      "first_seen": "2026-08-17",
+      "last_updated": "2026-08-17",
+      "folder": "2026-08-17"
+    },
+    "2608.12599": {
+      "version": "v1",
+      "title": "Dead text or binding clause? Measuring and restoring constraint influence in black-box LLM dialogues",
+      "first_seen": "2026-08-17",
+      "last_updated": "2026-08-17",
+      "folder": "2026-08-17"
+    },
+    "2608.12321": {
+      "version": "v1",
+      "title": "LLMs Know the Constraint But Do Not Use It: Activation Bottlenecks in Pragmatic Constraint Reasoning",
+      "first_seen": "2026-08-17",
+      "last_updated": "2026-08-17",
+      "folder": "2026-08-17"
+    },
+    "2608.12333": {
+      "version": "v1",
+      "title": "Vision-Language Models are Fragile Multilingual Associators",
+      "first_seen": "2026-08-17",
+      "last_updated": "2026-08-17",
+      "folder": "2026-08-17"
     }
   }
 }
