@@ -6273,6 +6273,76 @@
       "first_seen": "2026-08-17",
       "last_updated": "2026-08-17",
       "folder": "2026-08-17"
+    },
+    "2608.14391": {
+      "version": "v1",
+      "title": "Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination",
+      "first_seen": "2026-08-18",
+      "last_updated": "2026-08-18",
+      "folder": "2026-08-18"
+    },
+    "2608.13567": {
+      "version": "v1",
+      "title": "Modular Cognitive Architecture Emerges in Large Language Models",
+      "first_seen": "2026-08-18",
+      "last_updated": "2026-08-18",
+      "folder": "2026-08-18"
+    },
+    "2608.09928": {
+      "version": "v1",
+      "title": "Multimodal Model Diffing for Feature Discovery and Control",
+      "first_seen": "2026-08-18",
+      "last_updated": "2026-08-18",
+      "folder": "2026-08-18"
+    },
+    "2608.09209": {
+      "version": "v1",
+      "title": "UNMASK: Discovering and Causally Verifying Spurious Shortcuts in Text Classifiers",
+      "first_seen": "2026-08-18",
+      "last_updated": "2026-08-18",
+      "folder": "2026-08-18"
+    },
+    "2608.14392": {
+      "version": "v1",
+      "title": "Tripwire: Triggering Aligned Refusal via Statistically Certified Safety Neurons",
+      "first_seen": "2026-08-18",
+      "last_updated": "2026-08-18",
+      "folder": "2026-08-18"
+    },
+    "2608.14229": {
+      "version": "v1",
+      "title": "The More Popular, The Harder to Forget: Adaptive Popularity for LLM Unlearning",
+      "first_seen": "2026-08-18",
+      "last_updated": "2026-08-18",
+      "folder": "2026-08-18"
+    },
+    "2608.13754": {
+      "version": "v1",
+      "title": "Explanation Multiplicity: Circuit-Level Interpretability Evidence Does Not Survive Defensible Analytic Variation",
+      "first_seen": "2026-08-18",
+      "last_updated": "2026-08-18",
+      "folder": "2026-08-18"
+    },
+    "2608.14094": {
+      "version": "v1",
+      "title": "P2Skill: Privacy Preserving Skill Distillation for Cloud-Local LLM Inference Systems",
+      "first_seen": "2026-08-18",
+      "last_updated": "2026-08-18",
+      "folder": "2026-08-18"
+    },
+    "2608.13914": {
+      "version": "v1",
+      "title": "Hybrid Quantum-inspired Kolmogorov-Arnold Networks for Privacy-Aware Federated Biosignal Learning",
+      "first_seen": "2026-08-18",
+      "last_updated": "2026-08-18",
+      "folder": "2026-08-18"
+    },
+    "2608.14074": {
+      "version": "v1",
+      "title": "Mandato: Protocol-Level Enforcement of Digitally Signed Mandates on AI Agent Actions with Cryptographically Chained Audit Trails",
+      "first_seen": "2026-08-18",
+      "last_updated": "2026-08-18",
+      "folder": "2026-08-18"
     }
   }
 }
