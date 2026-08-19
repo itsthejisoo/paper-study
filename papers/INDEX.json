@@ -6343,6 +6343,76 @@
       "first_seen": "2026-08-18",
       "last_updated": "2026-08-18",
       "folder": "2026-08-18"
+    },
+    "2608.15304": {
+      "version": "v1",
+      "title": "Understanding Cognition-Induced Risks in Agentic AI Systems",
+      "first_seen": "2026-08-19",
+      "last_updated": "2026-08-19",
+      "folder": "2026-08-19"
+    },
+    "2608.15022": {
+      "version": "v1",
+      "title": "Gathered, Not Admitted: How Attention Brings a Latent Variable into Verbalizable Form",
+      "first_seen": "2026-08-19",
+      "last_updated": "2026-08-19",
+      "folder": "2026-08-19"
+    },
+    "2608.16852": {
+      "version": "v1",
+      "title": "What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models",
+      "first_seen": "2026-08-19",
+      "last_updated": "2026-08-19",
+      "folder": "2026-08-19"
+    },
+    "2608.16806": {
+      "version": "v1",
+      "title": "When State Becomes an Attack Surface: State-Semantic Injection in LLM-Driven Embodied Agents",
+      "first_seen": "2026-08-19",
+      "last_updated": "2026-08-19",
+      "folder": "2026-08-19"
+    },
+    "2608.16650": {
+      "version": "v1",
+      "title": "PCA-guided Activation Scaling for Monotonic Bidirectional Control over LLM Sycophancy",
+      "first_seen": "2026-08-19",
+      "last_updated": "2026-08-19",
+      "folder": "2026-08-19"
+    },
+    "2608.16551": {
+      "version": "v1",
+      "title": "What to Remember, What to Reveal: Privacy-Aware Memory for Conversational Agents",
+      "first_seen": "2026-08-19",
+      "last_updated": "2026-08-19",
+      "folder": "2026-08-19"
+    },
+    "2608.16465": {
+      "version": "v1",
+      "title": "JailbreakSkill: Scaling Automated Red-Teaming with Reusable and Ever-Evolving Skills",
+      "first_seen": "2026-08-19",
+      "last_updated": "2026-08-19",
+      "folder": "2026-08-19"
+    },
+    "2608.16393": {
+      "version": "v1",
+      "title": "Security Assessment of DeepSeek Harness with A.I.G: Evaluating Resistance to Indirect Prompt Injection",
+      "first_seen": "2026-08-19",
+      "last_updated": "2026-08-19",
+      "folder": "2026-08-19"
+    },
+    "2608.16246": {
+      "version": "v1",
+      "title": "CompoSkill: Compositional Skill Chain Attacks from Individually Scanner-Passing LLM Agent Skills",
+      "first_seen": "2026-08-19",
+      "last_updated": "2026-08-19",
+      "folder": "2026-08-19"
+    },
+    "2608.16026": {
+      "version": "v1",
+      "title": "SkillWatermark: An Embedded Skill Watermark of Progressive Privacy Inference via Benign Prompts",
+      "first_seen": "2026-08-19",
+      "last_updated": "2026-08-19",
+      "folder": "2026-08-19"
     }
   }
 }
