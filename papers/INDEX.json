@@ -6413,6 +6413,76 @@
       "first_seen": "2026-08-19",
       "last_updated": "2026-08-19",
       "folder": "2026-08-19"
+    },
+    "2608.17597": {
+      "version": "v1",
+      "title": "HarnessRisk: A Lifecycle-Oriented Benchmark for Agent Harness Safety",
+      "first_seen": "2026-08-20",
+      "last_updated": "2026-08-20",
+      "folder": "2026-08-20"
+    },
+    "2608.17960": {
+      "version": "v1",
+      "title": "COMA: A Compositional Misleading Attack Class on Security-RAG, and a Causal Counterfactual Defense",
+      "first_seen": "2026-08-20",
+      "last_updated": "2026-08-20",
+      "folder": "2026-08-20"
+    },
+    "2608.17836": {
+      "version": "v1",
+      "title": "Leveraging Association Context Retrieval in Knowledge Editing to Build White-Box Attacks on LLMs",
+      "first_seen": "2026-08-20",
+      "last_updated": "2026-08-20",
+      "folder": "2026-08-20"
+    },
+    "2608.17829": {
+      "version": "v1",
+      "title": "The Model's Tell: Measuring Context-Leakage Attack Signals with Behavior Gauges",
+      "first_seen": "2026-08-20",
+      "last_updated": "2026-08-20",
+      "folder": "2026-08-20"
+    },
+    "2608.17804": {
+      "version": "v1",
+      "title": "An Empirical Study of Reward Specification and Benchmark Reliability in GRPO-based LLM Unlearning",
+      "first_seen": "2026-08-20",
+      "last_updated": "2026-08-20",
+      "folder": "2026-08-20"
+    },
+    "2608.17684": {
+      "version": "v1",
+      "title": "Auditing Self-Evolution in Financial Agents: Capability Gains, Security Drift, and Execution-Interface Mismatch",
+      "first_seen": "2026-08-20",
+      "last_updated": "2026-08-20",
+      "folder": "2026-08-20"
+    },
+    "2608.17659": {
+      "version": "v1",
+      "title": "MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps",
+      "first_seen": "2026-08-20",
+      "last_updated": "2026-08-20",
+      "folder": "2026-08-20"
+    },
+    "2608.17588": {
+      "version": "v1",
+      "title": "TRUSS: Towards Task-Reliable and User-Safe Automated Agent Skill Generation",
+      "first_seen": "2026-08-20",
+      "last_updated": "2026-08-20",
+      "folder": "2026-08-20"
+    },
+    "2608.17556": {
+      "version": "v1",
+      "title": "Reflex-Guard: A Low-Latency Guardrail for LLM Prompt Safety Using Dense Semantic Embeddings",
+      "first_seen": "2026-08-20",
+      "last_updated": "2026-08-20",
+      "folder": "2026-08-20"
+    },
+    "2608.17485": {
+      "version": "v1",
+      "title": "KeyPooling: Measuring Where LLM API Relay Paths Collapse Prompt Cache Isolation",
+      "first_seen": "2026-08-20",
+      "last_updated": "2026-08-20",
+      "folder": "2026-08-20"
     }
   }
 }
