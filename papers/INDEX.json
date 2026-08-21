@@ -6483,6 +6483,76 @@
       "first_seen": "2026-08-20",
       "last_updated": "2026-08-20",
       "folder": "2026-08-20"
+    },
+    "2608.15888": {
+      "version": "v1",
+      "title": "Bounded Agents: Delegation Security for Multi-Agent AI Systems",
+      "first_seen": "2026-08-21",
+      "last_updated": "2026-08-21",
+      "folder": "2026-08-21"
+    },
+    "2608.14929": {
+      "version": "v1",
+      "title": "Training Leaves Traces: Centered Residual Signatures for Language Model Lineage Verification",
+      "first_seen": "2026-08-21",
+      "last_updated": "2026-08-21",
+      "folder": "2026-08-21"
+    },
+    "2608.18274": {
+      "version": "v1",
+      "title": "Model Card for OpenAI Privacy Filter",
+      "first_seen": "2026-08-21",
+      "last_updated": "2026-08-21",
+      "folder": "2026-08-21"
+    },
+    "2608.19006": {
+      "version": "v1",
+      "title": "Introducing the Privacy-HSD Trade-off: Hate Speech Detection, but not at the Cost of Privacy",
+      "first_seen": "2026-08-21",
+      "last_updated": "2026-08-21",
+      "folder": "2026-08-21"
+    },
+    "2608.18976": {
+      "version": "v1",
+      "title": "Catastrophic Learning: A New Attack Vector on Continual Learning Networks",
+      "first_seen": "2026-08-21",
+      "last_updated": "2026-08-21",
+      "folder": "2026-08-21"
+    },
+    "2608.18921": {
+      "version": "v1",
+      "title": "SMTrap: Cost-Effective DoS Attacks Against Large Reasoning Models via SMT Conflict Guidance",
+      "first_seen": "2026-08-21",
+      "last_updated": "2026-08-21",
+      "folder": "2026-08-21"
+    },
+    "2608.18768": {
+      "version": "v1",
+      "title": "Readable, Faithful, Used: Three Dissociable Properties of Demographic Identity in a Language Model",
+      "first_seen": "2026-08-21",
+      "last_updated": "2026-08-21",
+      "folder": "2026-08-21"
+    },
+    "2608.18749": {
+      "version": "v1",
+      "title": "Geometric Data Perturbation with Noisy-Anchor Alignment for Privacy-Preserving Collaborative Learning",
+      "first_seen": "2026-08-21",
+      "last_updated": "2026-08-21",
+      "folder": "2026-08-21"
+    },
+    "2608.18736": {
+      "version": "v1",
+      "title": "FedLNS: Leverage LayerNorm Signature Modeling to Mitigate Adversarial Manipulation in Federated LLMs",
+      "first_seen": "2026-08-21",
+      "last_updated": "2026-08-21",
+      "folder": "2026-08-21"
+    },
+    "2608.18610": {
+      "version": "v1",
+      "title": "Denoising-Aware Inversion: Revealing Privacy Risks in Noise-Protected Text Embeddings",
+      "first_seen": "2026-08-21",
+      "last_updated": "2026-08-21",
+      "folder": "2026-08-21"
     }
   }
 }
