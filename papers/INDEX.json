@@ -6553,6 +6553,76 @@
       "first_seen": "2026-08-21",
       "last_updated": "2026-08-21",
       "folder": "2026-08-21"
+    },
+    "2608.20202": {
+      "version": "v1",
+      "title": "MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use",
+      "first_seen": "2026-08-22",
+      "last_updated": "2026-08-22",
+      "folder": "2026-08-22"
+    },
+    "2608.19861": {
+      "version": "v1",
+      "title": "PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents",
+      "first_seen": "2026-08-22",
+      "last_updated": "2026-08-22",
+      "folder": "2026-08-22"
+    },
+    "2608.20338": {
+      "version": "v1",
+      "title": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
+      "first_seen": "2026-08-22",
+      "last_updated": "2026-08-22",
+      "folder": "2026-08-22"
+    },
+    "2608.19982": {
+      "version": "v1",
+      "title": "COPA: Continual Preference Optimization for Adaptive Prompt Injection Defense",
+      "first_seen": "2026-08-22",
+      "last_updated": "2026-08-22",
+      "folder": "2026-08-22"
+    },
+    "2608.19857": {
+      "version": "v1",
+      "title": "Inadvertent Context Leakage in Language Models",
+      "first_seen": "2026-08-22",
+      "last_updated": "2026-08-22",
+      "folder": "2026-08-22"
+    },
+    "2608.19729": {
+      "version": "v1",
+      "title": "SafeBranch: Branch-Pair Safety Alignment for Embodied Agents",
+      "first_seen": "2026-08-22",
+      "last_updated": "2026-08-22",
+      "folder": "2026-08-22"
+    },
+    "2608.19650": {
+      "version": "v1",
+      "title": "Enhancing Privacy in Federated Learning via Dual Obfuscation of Gradients and Training Images",
+      "first_seen": "2026-08-22",
+      "last_updated": "2026-08-22",
+      "folder": "2026-08-22"
+    },
+    "2608.19534": {
+      "version": "v1",
+      "title": "AEGIS: Attention-Embedding Gradient Isolation Shield - Triple-Channel Gradient Masking for Privacy-Preserving Federated LLM Fine-Tuning",
+      "first_seen": "2026-08-22",
+      "last_updated": "2026-08-22",
+      "folder": "2026-08-22"
+    },
+    "2608.19462": {
+      "version": "v1",
+      "title": "A Federated Learning Framework for Privacy-Preserving Oral Cancer Screening on Smartphones",
+      "first_seen": "2026-08-22",
+      "last_updated": "2026-08-22",
+      "folder": "2026-08-22"
+    },
+    "2608.19155": {
+      "version": "v1",
+      "title": "FedGuard-DC: Privacy-Preserving Federated Load Forecasting and Cyber-Attack Detection for Data-Center Loads in Transmission Systems",
+      "first_seen": "2026-08-22",
+      "last_updated": "2026-08-22",
+      "folder": "2026-08-22"
     }
   }
 }
