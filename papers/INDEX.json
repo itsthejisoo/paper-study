@@ -6693,6 +6693,76 @@
       "first_seen": "2026-08-23",
       "last_updated": "2026-08-23",
       "folder": "2026-08-23"
+    },
+    "2608.19652": {
+      "version": "v1",
+      "title": "Can Agent Memory Systems Track Evolving State?",
+      "first_seen": "2026-08-24",
+      "last_updated": "2026-08-24",
+      "folder": "2026-08-24"
+    },
+    "2608.13547": {
+      "version": "v1",
+      "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+      "first_seen": "2026-08-24",
+      "last_updated": "2026-08-24",
+      "folder": "2026-08-24"
+    },
+    "2608.20290": {
+      "version": "v1",
+      "title": "Phantom Gains: Auditing Self-Improvement Against a Measured Null",
+      "first_seen": "2026-08-24",
+      "last_updated": "2026-08-24",
+      "folder": "2026-08-24"
+    },
+    "2608.20097": {
+      "version": "v1",
+      "title": "TrustRAG: Blockchain-Enhanced RAG via Committee-Based Credibility Scoring",
+      "first_seen": "2026-08-24",
+      "last_updated": "2026-08-24",
+      "folder": "2026-08-24"
+    },
+    "2608.19974": {
+      "version": "v1",
+      "title": "ReguSim: Evaluating LLM Agent Rule Grounding in Financial Compliance",
+      "first_seen": "2026-08-24",
+      "last_updated": "2026-08-24",
+      "folder": "2026-08-24"
+    },
+    "2608.19882": {
+      "version": "v1",
+      "title": "TESTNAV: Pareto-Guided Search for Compositional Robustness Testing",
+      "first_seen": "2026-08-24",
+      "last_updated": "2026-08-24",
+      "folder": "2026-08-24"
+    },
+    "2608.19836": {
+      "version": "v1",
+      "title": "Adaptive Probabilistic Shielding by Learning MDPs for Safe Reinforcement Learning",
+      "first_seen": "2026-08-24",
+      "last_updated": "2026-08-24",
+      "folder": "2026-08-24"
+    },
+    "2608.19741": {
+      "version": "v1",
+      "title": "One Success Isn't Reliability: Thinkingbox, a Sandbox and Benchmark for Agents in Stateful Business Workflows",
+      "first_seen": "2026-08-24",
+      "last_updated": "2026-08-24",
+      "folder": "2026-08-24"
+    },
+    "2608.19564": {
+      "version": "v1",
+      "title": "Remember, Verify, or Ask? Cross-Family Evaluation of Memory Commitment in LLM Agents",
+      "first_seen": "2026-08-24",
+      "last_updated": "2026-08-24",
+      "folder": "2026-08-24"
+    },
+    "2608.19207": {
+      "version": "v1",
+      "title": "Compliance, Capability, and Conflict: Benchmarking Multimodal LLMs under System Messages",
+      "first_seen": "2026-08-24",
+      "last_updated": "2026-08-24",
+      "folder": "2026-08-24"
     }
   }
 }
