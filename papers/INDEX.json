@@ -7043,6 +7043,76 @@
       "first_seen": "2026-08-28",
       "last_updated": "2026-08-28",
       "folder": "2026-08-28"
+    },
+    "2608.27439": {
+      "version": "v1",
+      "title": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution",
+      "first_seen": "2026-08-29",
+      "last_updated": "2026-08-29",
+      "folder": "2026-08-29"
+    },
+    "2608.27299": {
+      "version": "v1",
+      "title": "When Context Gets Root: Privilege Escalation in LLM Harnesses",
+      "first_seen": "2026-08-29",
+      "last_updated": "2026-08-29",
+      "folder": "2026-08-29"
+    },
+    "2608.27254": {
+      "version": "v1",
+      "title": "Circuit Condensation: Post-Training that Concentrates a Behavior's Causal Circuit",
+      "first_seen": "2026-08-29",
+      "last_updated": "2026-08-29",
+      "folder": "2026-08-29"
+    },
+    "2608.27234": {
+      "version": "v1",
+      "title": "SPA: Securing Persistent LLM Agents Across Queries with Plan-First Information-Flow Control",
+      "first_seen": "2026-08-29",
+      "last_updated": "2026-08-29",
+      "folder": "2026-08-29"
+    },
+    "2608.27141": {
+      "version": "v1",
+      "title": "Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents",
+      "first_seen": "2026-08-29",
+      "last_updated": "2026-08-29",
+      "folder": "2026-08-29"
+    },
+    "2608.27108": {
+      "version": "v1",
+      "title": "SecureDrive-FL: Joint Differential Privacy and Gradient-Aware Selective Homomorphic Encryption for Federated Driver Monitoring",
+      "first_seen": "2026-08-29",
+      "last_updated": "2026-08-29",
+      "folder": "2026-08-29"
+    },
+    "2608.27092": {
+      "version": "v1",
+      "title": "The Framing Gap: Indirect Prompt-Injection Exfiltration Defeats Surface-Level Defenses in Tool-Using Agents",
+      "first_seen": "2026-08-29",
+      "last_updated": "2026-08-29",
+      "folder": "2026-08-29"
+    },
+    "2608.27037": {
+      "version": "v1",
+      "title": "Neighborhood Watch: Privacy Risks in Seeded Local Combination Synthetic Data",
+      "first_seen": "2026-08-29",
+      "last_updated": "2026-08-29",
+      "folder": "2026-08-29"
+    },
+    "2608.26733": {
+      "version": "v1",
+      "title": "Daydreaming: Stealing Hidden Agent Skills through Black-Box Task Interaction",
+      "first_seen": "2026-08-29",
+      "last_updated": "2026-08-29",
+      "folder": "2026-08-29"
+    },
+    "2608.26222": {
+      "version": "v1",
+      "title": "NeuronFuzz: Safety Neuron Guided Fuzzing for LLM Safety Evaluation",
+      "first_seen": "2026-08-29",
+      "last_updated": "2026-08-29",
+      "folder": "2026-08-29"
     }
   }
 }
