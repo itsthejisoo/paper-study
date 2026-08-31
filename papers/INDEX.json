@@ -7183,6 +7183,76 @@
       "first_seen": "2026-08-30",
       "last_updated": "2026-08-30",
       "folder": "2026-08-30"
+    },
+    "2608.26204": {
+      "version": "v1",
+      "title": "ADeptS-Bench: Measuring the Trustworthiness of Computer Use Agents Across Devices",
+      "first_seen": "2026-08-31",
+      "last_updated": "2026-08-31",
+      "folder": "2026-08-31"
+    },
+    "2608.26237": {
+      "version": "v1",
+      "title": "How Do LLM Agents Actually Get the Flag? Trace-Level Provenance for Agentic Offensive Security Evaluation",
+      "first_seen": "2026-08-31",
+      "last_updated": "2026-08-31",
+      "folder": "2026-08-31"
+    },
+    "2608.25880": {
+      "version": "v1",
+      "title": "Beyond the Editing Canvas: Evidence Divergence in OOXML-to-LLM Ingestion",
+      "first_seen": "2026-08-31",
+      "last_updated": "2026-08-31",
+      "folder": "2026-08-31"
+    },
+    "2608.25457": {
+      "version": "v2",
+      "title": "MACGen: Toward Functionally Correct and Secure Code Generation via Multi-Agent Collaboration",
+      "first_seen": "2026-08-31",
+      "last_updated": "2026-08-31",
+      "folder": "2026-08-31"
+    },
+    "2608.25727": {
+      "version": "v1",
+      "title": "Are LLM-Enhanced GNNs Privacy-Safe?",
+      "first_seen": "2026-08-31",
+      "last_updated": "2026-08-31",
+      "folder": "2026-08-31"
+    },
+    "2608.26402": {
+      "version": "v1",
+      "title": "SILK: Closing the Time-of-Check-to-Time-of-Use Gap in RoT-Protected AI Systems",
+      "first_seen": "2026-08-31",
+      "last_updated": "2026-08-31",
+      "folder": "2026-08-31"
+    },
+    "2608.26861": {
+      "version": "v1",
+      "title": "FIDA: Feature Instability-Driven Attack on Self-Supervised Facial Representation",
+      "first_seen": "2026-08-31",
+      "last_updated": "2026-08-31",
+      "folder": "2026-08-31"
+    },
+    "2608.26696": {
+      "version": "v1",
+      "title": "Five Primitives for Governing Autonomous AI Agents at Runtime",
+      "first_seen": "2026-08-31",
+      "last_updated": "2026-08-31",
+      "folder": "2026-08-31"
+    },
+    "2608.26963": {
+      "version": "v1",
+      "title": "Adversarial Training Without Input Gradients via Low-Rank Householder Expansions",
+      "first_seen": "2026-08-31",
+      "last_updated": "2026-08-31",
+      "folder": "2026-08-31"
+    },
+    "2608.25667": {
+      "version": "v1",
+      "title": "AI Slop and Hallucinations in Vulnerability Assessment: A Survey on Reasoning Failures and Trustworthy Mitigation",
+      "first_seen": "2026-08-31",
+      "last_updated": "2026-08-31",
+      "folder": "2026-08-31"
     }
   }
 }
