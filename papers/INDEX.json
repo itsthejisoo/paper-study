@@ -7253,6 +7253,76 @@
       "first_seen": "2026-08-31",
       "last_updated": "2026-08-31",
       "folder": "2026-08-31"
+    },
+    "2608.27510": {
+      "version": "v1",
+      "title": "How Do Linear Probes Emerge? A Circuit-Tracing Framework with Concept-Targeted Attribution",
+      "first_seen": "2026-09-01",
+      "last_updated": "2026-09-01",
+      "folder": "2026-09-01"
+    },
+    "2608.28411": {
+      "version": "v1",
+      "title": "LongPIBench: A Long-Context Benchmark for Prompt Injection",
+      "first_seen": "2026-09-01",
+      "last_updated": "2026-09-01",
+      "folder": "2026-09-01"
+    },
+    "2608.28389": {
+      "version": "v1",
+      "title": "CamoDocs: A Poisoning Attack Against Retrieval-Augmented Language Models Using Camouflaged Documents",
+      "first_seen": "2026-09-01",
+      "last_updated": "2026-09-01",
+      "folder": "2026-09-01"
+    },
+    "2608.27990": {
+      "version": "v1",
+      "title": "CAITLYN: Can LLM Agents Autonomously Synthesize Defenses against Emerging Injection Attacks?",
+      "first_seen": "2026-09-01",
+      "last_updated": "2026-09-01",
+      "folder": "2026-09-01"
+    },
+    "2608.28361": {
+      "version": "v1",
+      "title": "GRACE: Gradient-guided Coreset Selection for LLM Unlearning",
+      "first_seen": "2026-09-01",
+      "last_updated": "2026-09-01",
+      "folder": "2026-09-01"
+    },
+    "2608.28502": {
+      "version": "v1",
+      "title": "Recognition Without Enforcement: Configuration-Dependent Failures in LLM Agent Instruction Arbitration and External Control",
+      "first_seen": "2026-09-01",
+      "last_updated": "2026-09-01",
+      "folder": "2026-09-01"
+    },
+    "2608.28400": {
+      "version": "v1",
+      "title": "When Verified Source Becomes Attack Input: Defending Smart Contracts Against LLM-Based Vulnerability Scanning",
+      "first_seen": "2026-09-01",
+      "last_updated": "2026-09-01",
+      "folder": "2026-09-01"
+    },
+    "2608.27954": {
+      "version": "v1",
+      "title": "Not to Break, but to Attest: Adversarial Probes for Privacy-Preserving LLM Verification",
+      "first_seen": "2026-09-01",
+      "last_updated": "2026-09-01",
+      "folder": "2026-09-01"
+    },
+    "2608.28327": {
+      "version": "v1",
+      "title": "Layered LLM Defenses as an Ensemble: Access Tiers, Inference Cost, and the Measured Failure Correlation Between Defense Layers",
+      "first_seen": "2026-09-01",
+      "last_updated": "2026-09-01",
+      "folder": "2026-09-01"
+    },
+    "2608.28021": {
+      "version": "v1",
+      "title": "Compared to What? A Human-Anchored Security Benchmark for LLM-Generated Infrastructure-as-Code",
+      "first_seen": "2026-09-01",
+      "last_updated": "2026-09-01",
+      "folder": "2026-09-01"
     }
   }
 }
