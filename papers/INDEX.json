@@ -7393,6 +7393,76 @@
       "first_seen": "2026-09-02",
       "last_updated": "2026-09-02",
       "folder": "2026-09-02"
+    },
+    "2609.02786": {
+      "version": "v1",
+      "title": "SafeEvolve: Harness-Policy Co-Evolution from Agent Experience for Safety Alignment",
+      "first_seen": "2026-09-04",
+      "last_updated": "2026-09-04",
+      "folder": "2026-09-04"
+    },
+    "2609.02774": {
+      "version": "v1",
+      "title": "CodePoisonRAG: Knowledge Poisoning Attacks on Retrieval-Augmented Code Generation",
+      "first_seen": "2026-09-04",
+      "last_updated": "2026-09-04",
+      "folder": "2026-09-04"
+    },
+    "2609.02293": {
+      "version": "v1",
+      "title": "SEAL: Reinforcing Global Safety in Mixture-of-Experts through Shared Expert ALignment",
+      "first_seen": "2026-09-04",
+      "last_updated": "2026-09-04",
+      "folder": "2026-09-04"
+    },
+    "2609.02082": {
+      "version": "v2",
+      "title": "Transfer Safety Awareness for Cross-Modal Safety Drift in Multimodal Large Language Models",
+      "first_seen": "2026-09-04",
+      "last_updated": "2026-09-04",
+      "folder": "2026-09-04"
+    },
+    "2609.02564": {
+      "version": "v1",
+      "title": "A Finger on the Scale: Covert Policy Steering through Agentic Skills",
+      "first_seen": "2026-09-04",
+      "last_updated": "2026-09-04",
+      "folder": "2026-09-04"
+    },
+    "2609.02690": {
+      "version": "v1",
+      "title": "ACLE-MCP: Attested Capability Leases for Execution-Time Trust in Remote LLM Tool Use",
+      "first_seen": "2026-09-04",
+      "last_updated": "2026-09-04",
+      "folder": "2026-09-04"
+    },
+    "2609.02172": {
+      "version": "v1",
+      "title": "Breadth Beats Depth: Improving GCG-Based Jailbreak Optimization with Breadth-Oriented Suffix Search",
+      "first_seen": "2026-09-04",
+      "last_updated": "2026-09-04",
+      "folder": "2026-09-04"
+    },
+    "2609.02285": {
+      "version": "v1",
+      "title": "Entangled Representations Amplify Collateral Damage in Unlearning",
+      "first_seen": "2026-09-04",
+      "last_updated": "2026-09-04",
+      "folder": "2026-09-04"
+    },
+    "2609.01723": {
+      "version": "v1",
+      "title": "Hearing the Whispers: Black-Box Membership Inference Attacks on Finetuned TTS Models",
+      "first_seen": "2026-09-04",
+      "last_updated": "2026-09-04",
+      "folder": "2026-09-04"
+    },
+    "2609.01663": {
+      "version": "v1",
+      "title": "Context Inference Attacks Without Jailbreaks",
+      "first_seen": "2026-09-04",
+      "last_updated": "2026-09-04",
+      "folder": "2026-09-04"
     }
   }
 }
