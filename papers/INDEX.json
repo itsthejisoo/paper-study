@@ -7533,6 +7533,76 @@
       "first_seen": "2026-09-05",
       "last_updated": "2026-09-05",
       "folder": "2026-09-05"
+    },
+    "2609.03293": {
+      "version": "v1",
+      "title": "PACE: Towards Surfacing Hidden Conflicts in User Requests",
+      "first_seen": "2026-09-06",
+      "last_updated": "2026-09-06",
+      "folder": "2026-09-06"
+    },
+    "2609.03844": {
+      "version": "v1",
+      "title": "Flip, Don't Shuffle: Watermarking LLMs at the Speed of Inference",
+      "first_seen": "2026-09-06",
+      "last_updated": "2026-09-06",
+      "folder": "2026-09-06"
+    },
+    "2609.03693": {
+      "version": "v1",
+      "title": "AlcaTRAz - Anchored Tree-Rule Defense Against Jailbreaks",
+      "first_seen": "2026-09-06",
+      "last_updated": "2026-09-06",
+      "folder": "2026-09-06"
+    },
+    "2609.03453": {
+      "version": "v1",
+      "title": "Preprocessing Failure and Adversarial Detection in Depthwise-Separable Edge Vision Systems",
+      "first_seen": "2026-09-06",
+      "last_updated": "2026-09-06",
+      "folder": "2026-09-06"
+    },
+    "2609.03420": {
+      "version": "v1",
+      "title": "Privacy, Robustness, and Fairness Trade-offs in Federated Intrusion Detection: Geometric Indistinguishability at the Aggregation Interface",
+      "first_seen": "2026-09-06",
+      "last_updated": "2026-09-06",
+      "folder": "2026-09-06"
+    },
+    "2609.03376": {
+      "version": "v1",
+      "title": "Spruce: Scalable Private Outsourced Retrieval Using Compact Embeddings",
+      "first_seen": "2026-09-06",
+      "last_updated": "2026-09-06",
+      "folder": "2026-09-06"
+    },
+    "2609.03247": {
+      "version": "v1",
+      "title": "Trust Me, I'm Your Developer: Self-Issued Authentication in Large Language Models",
+      "first_seen": "2026-09-06",
+      "last_updated": "2026-09-06",
+      "folder": "2026-09-06"
+    },
+    "2609.03139": {
+      "version": "v1",
+      "title": "Beyond Small Patches: Black-Box Detection and Purification of Diverse Backdoor Triggers",
+      "first_seen": "2026-09-06",
+      "last_updated": "2026-09-06",
+      "folder": "2026-09-06"
+    },
+    "2609.03055": {
+      "version": "v1",
+      "title": "Seeing Less Is Not Seeing Safely: Privacy Leakage from Task-Scoped Robot Perception Exports",
+      "first_seen": "2026-09-06",
+      "last_updated": "2026-09-06",
+      "folder": "2026-09-06"
+    },
+    "2609.02971": {
+      "version": "v1",
+      "title": "Privacy Leakage in Federated Learning: Gradient-Based Client Identity Inference and Defenses for Inertial Sensing in Vehicular Edge Networks",
+      "first_seen": "2026-09-06",
+      "last_updated": "2026-09-06",
+      "folder": "2026-09-06"
     }
   }
 }
