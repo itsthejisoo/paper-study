@@ -7603,6 +7603,76 @@
       "first_seen": "2026-09-06",
       "last_updated": "2026-09-06",
       "folder": "2026-09-06"
+    },
+    "2609.04170": {
+      "version": "v1",
+      "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
+      "first_seen": "2026-09-07",
+      "last_updated": "2026-09-07",
+      "folder": "2026-09-07"
+    },
+    "2608.30391": {
+      "version": "v1",
+      "title": "Using Grounded Theory for Agent Behavior Analysis at Scale",
+      "first_seen": "2026-09-07",
+      "last_updated": "2026-09-07",
+      "folder": "2026-09-07"
+    },
+    "2609.04194": {
+      "version": "v1",
+      "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
+      "first_seen": "2026-09-07",
+      "last_updated": "2026-09-07",
+      "folder": "2026-09-07"
+    },
+    "2609.04166": {
+      "version": "v1",
+      "title": "From Deceptive Outputs to Deceptive Mechanisms: A Causal Framework for Language-Model Deception Research",
+      "first_seen": "2026-09-07",
+      "last_updated": "2026-09-07",
+      "folder": "2026-09-07"
+    },
+    "2609.04159": {
+      "version": "v1",
+      "title": "SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center",
+      "first_seen": "2026-09-07",
+      "last_updated": "2026-09-07",
+      "folder": "2026-09-07"
+    },
+    "2609.04135": {
+      "version": "v1",
+      "title": "The Natural Language Interaction Protocol and Standard for AI Agents",
+      "first_seen": "2026-09-07",
+      "last_updated": "2026-09-07",
+      "folder": "2026-09-07"
+    },
+    "2609.04075": {
+      "version": "v1",
+      "title": "PatchBench: Evaluating AI Agents for Vulnerability Patching",
+      "first_seen": "2026-09-07",
+      "last_updated": "2026-09-07",
+      "folder": "2026-09-07"
+    },
+    "2609.04017": {
+      "version": "v1",
+      "title": "A Black Box for Agentic Processes: Blockchain-Anchored Evidence for AI Agent Communication, Human Oversight, and GRC Audits",
+      "first_seen": "2026-09-07",
+      "last_updated": "2026-09-07",
+      "folder": "2026-09-07"
+    },
+    "2609.03464": {
+      "version": "v1",
+      "title": "Mind the Gap: Robustness Risks in PII Detection Systems",
+      "first_seen": "2026-09-07",
+      "last_updated": "2026-09-07",
+      "folder": "2026-09-07"
+    },
+    "2609.03322": {
+      "version": "v1",
+      "title": "How Perturbations Propagate: A Multi-Level Analysis of Robustness in Large Language Models",
+      "first_seen": "2026-09-07",
+      "last_updated": "2026-09-07",
+      "folder": "2026-09-07"
     }
   }
 }
