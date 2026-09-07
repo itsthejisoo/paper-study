@@ -7673,6 +7673,76 @@
       "first_seen": "2026-09-07",
       "last_updated": "2026-09-07",
       "folder": "2026-09-07"
+    },
+    "2609.04753": {
+      "version": "v1",
+      "title": "Beneath the Surface of Chains-of-Thought: A Mechanistic Interpretation of Reasoning Operations in LLMs",
+      "first_seen": "2026-09-08",
+      "last_updated": "2026-09-08",
+      "folder": "2026-09-08"
+    },
+    "2609.04714": {
+      "version": "v1",
+      "title": "Refuse without Refusal: A Structural Analysis of Safety-Tuning Responses for Reducing False Refusals in Language Models",
+      "first_seen": "2026-09-08",
+      "last_updated": "2026-09-08",
+      "folder": "2026-09-08"
+    },
+    "2609.04720": {
+      "version": "v1",
+      "title": "Knowing What Not to Answer: Selective Non-Compliance in Vision-Language Models",
+      "first_seen": "2026-09-08",
+      "last_updated": "2026-09-08",
+      "folder": "2026-09-08"
+    },
+    "2609.04533": {
+      "version": "v1",
+      "title": "Repeat-After-Me: Black-Box Adaptive Visual Prompt Injection",
+      "first_seen": "2026-09-08",
+      "last_updated": "2026-09-08",
+      "folder": "2026-09-08"
+    },
+    "2609.05385": {
+      "version": "v1",
+      "title": "Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence",
+      "first_seen": "2026-09-08",
+      "last_updated": "2026-09-08",
+      "folder": "2026-09-08"
+    },
+    "2609.05329": {
+      "version": "v1",
+      "title": "Machine Unlearning as Private Retroactive Algorithms",
+      "first_seen": "2026-09-08",
+      "last_updated": "2026-09-08",
+      "folder": "2026-09-08"
+    },
+    "2609.05269": {
+      "version": "v1",
+      "title": "CONTINUITY: Security-Context Contracts for Composable LLM Agent Controls",
+      "first_seen": "2026-09-08",
+      "last_updated": "2026-09-08",
+      "folder": "2026-09-08"
+    },
+    "2609.05117": {
+      "version": "v1",
+      "title": "TIER: Threat Implicitness Benchmark for Evaluating LLM Safety Behaviors",
+      "first_seen": "2026-09-08",
+      "last_updated": "2026-09-08",
+      "folder": "2026-09-08"
+    },
+    "2609.04875": {
+      "version": "v1",
+      "title": "Forgetting Without Restarting: Execution-State Unlearning for Stateful LLM Agents",
+      "first_seen": "2026-09-08",
+      "last_updated": "2026-09-08",
+      "folder": "2026-09-08"
+    },
+    "2609.05381": {
+      "version": "v1",
+      "title": "Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models",
+      "first_seen": "2026-09-08",
+      "last_updated": "2026-09-08",
+      "folder": "2026-09-08"
     }
   }
 }
