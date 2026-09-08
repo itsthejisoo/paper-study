@@ -7743,6 +7743,76 @@
       "first_seen": "2026-09-08",
       "last_updated": "2026-09-08",
       "folder": "2026-09-08"
+    },
+    "2609.04482": {
+      "version": "v1",
+      "title": "Safety for Whom? Boundary-Aware Self-Distillation for Controlled LLM Safety Refusal",
+      "first_seen": "2026-09-09",
+      "last_updated": "2026-09-09",
+      "folder": "2026-09-09"
+    },
+    "2609.00605": {
+      "version": "v1",
+      "title": "Confess What You Know: Forget-Set Misalignment with Model Knowledge in LLM Unlearning",
+      "first_seen": "2026-09-09",
+      "last_updated": "2026-09-09",
+      "folder": "2026-09-09"
+    },
+    "2609.00351": {
+      "version": "v1",
+      "title": "Detecting Hidden Behaviors in LLMs via Activation-matched Finetuning",
+      "first_seen": "2026-09-09",
+      "last_updated": "2026-09-09",
+      "folder": "2026-09-09"
+    },
+    "2609.05309": {
+      "version": "v1",
+      "title": "How Does mHC Use Its Residual Streams? Selective Routing and Near-Identity Mixing",
+      "first_seen": "2026-09-09",
+      "last_updated": "2026-09-09",
+      "folder": "2026-09-09"
+    },
+    "2609.05149": {
+      "version": "v1",
+      "title": "From Vision to Language: Investigating Causal Information Flow in Multimodal Decision-Making",
+      "first_seen": "2026-09-09",
+      "last_updated": "2026-09-09",
+      "folder": "2026-09-09"
+    },
+    "2609.05074": {
+      "version": "v1",
+      "title": "Influence Score and Transformers interpretability: Measure of the Effective Impact of Attention Heads at inference time",
+      "first_seen": "2026-09-09",
+      "last_updated": "2026-09-09",
+      "folder": "2026-09-09"
+    },
+    "2609.04495": {
+      "version": "v1",
+      "title": "Rethinking Indirect Prompt Injection as a Test-Time Search Problem",
+      "first_seen": "2026-09-09",
+      "last_updated": "2026-09-09",
+      "folder": "2026-09-09"
+    },
+    "2609.04475": {
+      "version": "v1",
+      "title": "Client-Side Probing of Deleted Ridge Statistics in Federated Unlearning",
+      "first_seen": "2026-09-09",
+      "last_updated": "2026-09-09",
+      "folder": "2026-09-09"
+    },
+    "2609.04463": {
+      "version": "v1",
+      "title": "Shared circuits predict whether LLMs generalize across formats in arithmetic reasoning",
+      "first_seen": "2026-09-09",
+      "last_updated": "2026-09-09",
+      "folder": "2026-09-09"
+    },
+    "2609.04382": {
+      "version": "v1",
+      "title": "Privacy Failure in Split-LLM Training, The Returned Gradient Nullifies the Decoys",
+      "first_seen": "2026-09-09",
+      "last_updated": "2026-09-09",
+      "folder": "2026-09-09"
     }
   }
 }
