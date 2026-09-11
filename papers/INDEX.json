@@ -7883,6 +7883,76 @@
       "first_seen": "2026-09-11",
       "last_updated": "2026-09-11",
       "folder": "2026-09-11"
+    },
+    "2609.11028": {
+      "version": "v1",
+      "title": "BenchShield: Formal Model-Backed Instrumentation for Reward Integrity in LLM-Agent Evaluation Infrastructure",
+      "first_seen": "2026-09-12",
+      "last_updated": "2026-09-12",
+      "folder": "2026-09-12"
+    },
+    "2609.05903": {
+      "version": "v1",
+      "title": "EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents",
+      "first_seen": "2026-09-12",
+      "last_updated": "2026-09-12",
+      "folder": "2026-09-12"
+    },
+    "2609.11757": {
+      "version": "v1",
+      "title": "Signing the Transaction but Not the Decision: Whisper Attacks and a Binding Defense for AP2",
+      "first_seen": "2026-09-12",
+      "last_updated": "2026-09-12",
+      "folder": "2026-09-12"
+    },
+    "2609.11777": {
+      "version": "v1",
+      "title": "Differentially Private EEG Feature Anonymization: A Privacy-Utility Case Study in Clinical Neurophysiology",
+      "first_seen": "2026-09-12",
+      "last_updated": "2026-09-12",
+      "folder": "2026-09-12"
+    },
+    "2609.11024": {
+      "version": "v1",
+      "title": "The Missing Boundary: How Autonomous Agents Lose Control",
+      "first_seen": "2026-09-12",
+      "last_updated": "2026-09-12",
+      "folder": "2026-09-12"
+    },
+    "2609.10992": {
+      "version": "v1",
+      "title": "Demystifying the Privacy-Utility Trade-off in LLM Interactions",
+      "first_seen": "2026-09-12",
+      "last_updated": "2026-09-12",
+      "folder": "2026-09-12"
+    },
+    "2609.10780": {
+      "version": "v1",
+      "title": "Big Enough to Break Out: Tracking the Rising Capability of LLM Penetration-Testing Agents",
+      "first_seen": "2026-09-12",
+      "last_updated": "2026-09-12",
+      "folder": "2026-09-12"
+    },
+    "2609.10439": {
+      "version": "v1",
+      "title": "Forgetting Only What Matters: Layer-Selective Unlearning toward Robust LLMs",
+      "first_seen": "2026-09-12",
+      "last_updated": "2026-09-12",
+      "folder": "2026-09-12"
+    },
+    "2609.10299": {
+      "version": "v1",
+      "title": "A Dominant Diffuse Phase in the Sparse Autoencoder Phase Diagram",
+      "first_seen": "2026-09-12",
+      "last_updated": "2026-09-12",
+      "folder": "2026-09-12"
+    },
+    "2609.10608": {
+      "version": "v1",
+      "title": "Adaptive Diffusion Freezing: Privacy-preserving Diffusion Models Against Membership Inference Attacks",
+      "first_seen": "2026-09-12",
+      "last_updated": "2026-09-12",
+      "folder": "2026-09-12"
     }
   }
 }
