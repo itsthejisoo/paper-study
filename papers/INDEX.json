@@ -7813,6 +7813,76 @@
       "first_seen": "2026-09-09",
       "last_updated": "2026-09-09",
       "folder": "2026-09-09"
+    },
+    "2609.11799": {
+      "version": "v1",
+      "title": "SpecGuard: Inference-Time Backdoor Detection For Free",
+      "first_seen": "2026-09-11",
+      "last_updated": "2026-09-11",
+      "folder": "2026-09-11"
+    },
+    "2609.11762": {
+      "version": "v1",
+      "title": "Component-Aware Differential Privacy for Federated Multilingual Speech-LLMs",
+      "first_seen": "2026-09-11",
+      "last_updated": "2026-09-11",
+      "folder": "2026-09-11"
+    },
+    "2609.11780": {
+      "version": "v1",
+      "title": "Predicting Privacy Leakage from Weight Spectral Density",
+      "first_seen": "2026-09-11",
+      "last_updated": "2026-09-11",
+      "folder": "2026-09-11"
+    },
+    "2609.11490": {
+      "version": "v1",
+      "title": "Published Unlearning Numbers Move Per Checkpoint, and Not Because the Removed Data Survives: An Audit of 263 Released Batch-Normalized Checkpoints",
+      "first_seen": "2026-09-11",
+      "last_updated": "2026-09-11",
+      "folder": "2026-09-11"
+    },
+    "2609.11082": {
+      "version": "v1",
+      "title": "ToxicRAG: Compromising Retrieval-Augmented Generation Systems via Single-Shot Knowledge Poisoning Attacks",
+      "first_seen": "2026-09-11",
+      "last_updated": "2026-09-11",
+      "folder": "2026-09-11"
+    },
+    "2609.10892": {
+      "version": "v1",
+      "title": "DriftNet: A Dual-Head Trajectory Transformer for Detecting and Localizing Prompt Injection in LLM Agents",
+      "first_seen": "2026-09-11",
+      "last_updated": "2026-09-11",
+      "folder": "2026-09-11"
+    },
+    "2609.10854": {
+      "version": "v1",
+      "title": "No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers",
+      "first_seen": "2026-09-11",
+      "last_updated": "2026-09-11",
+      "folder": "2026-09-11"
+    },
+    "2609.10627": {
+      "version": "v1",
+      "title": "SoK: Privacy Attacks on Machine Learning via Explainable AI",
+      "first_seen": "2026-09-11",
+      "last_updated": "2026-09-11",
+      "folder": "2026-09-11"
+    },
+    "2609.10613": {
+      "version": "v1",
+      "title": "Understanding In-Context Multimodal Jailbreaks via Posterior Reweighting",
+      "first_seen": "2026-09-11",
+      "last_updated": "2026-09-11",
+      "folder": "2026-09-11"
+    },
+    "2609.10611": {
+      "version": "v1",
+      "title": "Black-Box Membership Inference via Word-Level Probability Estimation",
+      "first_seen": "2026-09-11",
+      "last_updated": "2026-09-11",
+      "folder": "2026-09-11"
     }
   }
 }
