@@ -7953,6 +7953,76 @@
       "first_seen": "2026-09-12",
       "last_updated": "2026-09-12",
       "folder": "2026-09-12"
+    },
+    "2609.11716": {
+      "version": "v1",
+      "title": "Why Does Post-Training Quantization Work?",
+      "first_seen": "2026-09-13",
+      "last_updated": "2026-09-13",
+      "folder": "2026-09-13"
+    },
+    "2609.09798": {
+      "version": "v1",
+      "title": "CS-Guard: Benchmarking LLM Guardrails for Code Generation Security",
+      "first_seen": "2026-09-13",
+      "last_updated": "2026-09-13",
+      "folder": "2026-09-13"
+    },
+    "2609.11852": {
+      "version": "v1",
+      "title": "BlueSTAR: Tiered Agentic Architecture for Autonomous Cyber Defense",
+      "first_seen": "2026-09-13",
+      "last_updated": "2026-09-13",
+      "folder": "2026-09-13"
+    },
+    "2609.07746": {
+      "version": "v1",
+      "title": "LLM Forensics: Where Do Backdoors Hide? Localizing and Controlling Trigger Mechanisms with Sparse Autoencoders",
+      "first_seen": "2026-09-13",
+      "last_updated": "2026-09-13",
+      "folder": "2026-09-13"
+    },
+    "2609.09848": {
+      "version": "v1",
+      "title": "Subgroup Membership Inference Audits of Differentially Private Synthetic Text",
+      "first_seen": "2026-09-13",
+      "last_updated": "2026-09-13",
+      "folder": "2026-09-13"
+    },
+    "2609.11596": {
+      "version": "v1",
+      "title": "From Intent to Execution Grant: An Execution-Boundary Conformance Profile for High-Risk AI Actions",
+      "first_seen": "2026-09-13",
+      "last_updated": "2026-09-13",
+      "folder": "2026-09-13"
+    },
+    "2609.10871": {
+      "version": "v1",
+      "title": "A2ABreak: Systematic Security Analysis of the A2A Protocol",
+      "first_seen": "2026-09-13",
+      "last_updated": "2026-09-13",
+      "folder": "2026-09-13"
+    },
+    "2609.10830": {
+      "version": "v1",
+      "title": "Detectable Only Where It Is Confounded: What Verified Duplication Counts Say About Membership Evidence in Language Models",
+      "first_seen": "2026-09-13",
+      "last_updated": "2026-09-13",
+      "folder": "2026-09-13"
+    },
+    "2609.10612": {
+      "version": "v1",
+      "title": "PEARL: A Task-Aware Framework for Evaluating Differentially Private Synthetic Educational Data",
+      "first_seen": "2026-09-13",
+      "last_updated": "2026-09-13",
+      "folder": "2026-09-13"
+    },
+    "2609.10594": {
+      "version": "v1",
+      "title": "An Empirical Measurement of Jailbreaking Evaluators",
+      "first_seen": "2026-09-13",
+      "last_updated": "2026-09-13",
+      "folder": "2026-09-13"
     }
   }
 }
