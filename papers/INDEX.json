@@ -8023,6 +8023,76 @@
       "first_seen": "2026-09-13",
       "last_updated": "2026-09-13",
       "folder": "2026-09-13"
+    },
+    "2609.10287": {
+      "version": "v1",
+      "title": "Training Trajectories Determine Circuit Removability in Annealable Soft-Prior Transformers",
+      "first_seen": "2026-09-14",
+      "last_updated": "2026-09-14",
+      "folder": "2026-09-14"
+    },
+    "2609.10264": {
+      "version": "v1",
+      "title": "Maverick: Private and Verifiable LLM Inference Made Practical via Matrix-Vector Multiplication Delegation",
+      "first_seen": "2026-09-14",
+      "last_updated": "2026-09-14",
+      "folder": "2026-09-14"
+    },
+    "2609.10142": {
+      "version": "v1",
+      "title": "Active Adaptation, Not Static Defense: Temporal Dynamics of Preventative Steering in Adversarial Fine-Tuning",
+      "first_seen": "2026-09-14",
+      "last_updated": "2026-09-14",
+      "folder": "2026-09-14"
+    },
+    "2609.10117": {
+      "version": "v1",
+      "title": "Understanding the Security Boundary of Obfuscation-based On-Device LLM Protection",
+      "first_seen": "2026-09-14",
+      "last_updated": "2026-09-14",
+      "folder": "2026-09-14"
+    },
+    "2609.09794": {
+      "version": "v1",
+      "title": "Privacy-Preserving Split Learning for Federated LLM Fine-Tuning",
+      "first_seen": "2026-09-14",
+      "last_updated": "2026-09-14",
+      "folder": "2026-09-14"
+    },
+    "2609.09659": {
+      "version": "v1",
+      "title": "Cascading Gradient Inversion via LT-Code Inspired Peeling in Federated Learning",
+      "first_seen": "2026-09-14",
+      "last_updated": "2026-09-14",
+      "folder": "2026-09-14"
+    },
+    "2609.09404": {
+      "version": "v1",
+      "title": "An Experimental Evaluation of Multimodal Prompt Injection Attacks on Agentic AI Frameworks",
+      "first_seen": "2026-09-14",
+      "last_updated": "2026-09-14",
+      "folder": "2026-09-14"
+    },
+    "2609.08765": {
+      "version": "v1",
+      "title": "Benchmark Scores Are Pipeline-Dependent: A Reliability Audit of Cybersecurity LLM Benchmarks",
+      "first_seen": "2026-09-14",
+      "last_updated": "2026-09-14",
+      "folder": "2026-09-14"
+    },
+    "2609.08747": {
+      "version": "v1",
+      "title": "MemSentry: A Framework for Detecting Persistent Memory Poisoning in Agentic AI",
+      "first_seen": "2026-09-14",
+      "last_updated": "2026-09-14",
+      "folder": "2026-09-14"
+    },
+    "2609.09243": {
+      "version": "v1",
+      "title": "In RAG We Trust? Measuring Robustness of Retrieval-Augmented Generation Under Document Poisoning",
+      "first_seen": "2026-09-14",
+      "last_updated": "2026-09-14",
+      "folder": "2026-09-14"
     }
   }
 }
