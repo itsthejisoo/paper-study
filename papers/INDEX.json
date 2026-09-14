@@ -8093,6 +8093,76 @@
       "first_seen": "2026-09-14",
       "last_updated": "2026-09-14",
       "folder": "2026-09-14"
+    },
+    "2609.08418": {
+      "version": "v1",
+      "title": "Feyospace-v1: How the Cyber Mercury Seven Trained Frontier Cyber Models",
+      "first_seen": "2026-09-15",
+      "last_updated": "2026-09-15",
+      "folder": "2026-09-15"
+    },
+    "2609.12448": {
+      "version": "v1",
+      "title": "GraphProfiler: Source-Linked Sensitive Attribute Inference via Personal Knowledge Graphs",
+      "first_seen": "2026-09-15",
+      "last_updated": "2026-09-15",
+      "folder": "2026-09-15"
+    },
+    "2609.12911": {
+      "version": "v1",
+      "title": "Shuffling is Not Enough: Breaking Permutation-Based Model Confidentiality in Hybrid FHE Inference",
+      "first_seen": "2026-09-15",
+      "last_updated": "2026-09-15",
+      "folder": "2026-09-15"
+    },
+    "2609.12378": {
+      "version": "v1",
+      "title": "An Open-Source End-to-End FHE Implementation for Privacy-Preserving Llama 3 8B Inference",
+      "first_seen": "2026-09-15",
+      "last_updated": "2026-09-15",
+      "folder": "2026-09-15"
+    },
+    "2609.12341": {
+      "version": "v1",
+      "title": "I Am No One: Style-Aware Paraphrasing for Text Anonymization",
+      "first_seen": "2026-09-15",
+      "last_updated": "2026-09-15",
+      "folder": "2026-09-15"
+    },
+    "2609.12808": {
+      "version": "v1",
+      "title": "K-Bench: A Benchmark for LLM Unlearning in Agentic Deployments",
+      "first_seen": "2026-09-15",
+      "last_updated": "2026-09-15",
+      "folder": "2026-09-15"
+    },
+    "2609.12591": {
+      "version": "v1",
+      "title": "Where Decoder Cosine Similarity Fails for SAE Feature Flow Discovery",
+      "first_seen": "2026-09-15",
+      "last_updated": "2026-09-15",
+      "folder": "2026-09-15"
+    },
+    "2609.12620": {
+      "version": "v1",
+      "title": "Correlation-Guided Fast Machine Unlearning via Hessian Analysis",
+      "first_seen": "2026-09-15",
+      "last_updated": "2026-09-15",
+      "folder": "2026-09-15"
+    },
+    "2609.12586": {
+      "version": "v1",
+      "title": "Reproducing and Evaluating the Generalizability of Subliminal Learning in Open-Weight Models",
+      "first_seen": "2026-09-15",
+      "last_updated": "2026-09-15",
+      "folder": "2026-09-15"
+    },
+    "2609.12909": {
+      "version": "v1",
+      "title": "Forging Tree-Ring: Reproducing and Instrumenting Black-Box Semantic Watermark Forgery",
+      "first_seen": "2026-09-15",
+      "last_updated": "2026-09-15",
+      "folder": "2026-09-15"
     }
   }
 }
