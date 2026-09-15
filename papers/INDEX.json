@@ -8163,6 +8163,76 @@
       "first_seen": "2026-09-15",
       "last_updated": "2026-09-15",
       "folder": "2026-09-15"
+    },
+    "2609.15134": {
+      "version": "v1",
+      "title": "HazardAuditor: From Executable Threats to Safer Computer-Use Agents",
+      "first_seen": "2026-09-16",
+      "last_updated": "2026-09-16",
+      "folder": "2026-09-16"
+    },
+    "2609.15383": {
+      "version": "v1",
+      "title": "Divide, Consult, Conquer: Capability Laundering Through Aligned LLMs",
+      "first_seen": "2026-09-16",
+      "last_updated": "2026-09-16",
+      "folder": "2026-09-16"
+    },
+    "2609.15799": {
+      "version": "v1",
+      "title": "RAPID: A Real-Time Defense Against Unauthorized Model Distillation for Text-to-Image Services",
+      "first_seen": "2026-09-16",
+      "last_updated": "2026-09-16",
+      "folder": "2026-09-16"
+    },
+    "2609.15781": {
+      "version": "v1",
+      "title": "When the World Lies: Backdoor Attacks on Latent World Models for Downstream Control",
+      "first_seen": "2026-09-16",
+      "last_updated": "2026-09-16",
+      "folder": "2026-09-16"
+    },
+    "2609.15963": {
+      "version": "v1",
+      "title": "Adversarial Testing of Automated Program Repair Agents for Security Vulnerabilities",
+      "first_seen": "2026-09-16",
+      "last_updated": "2026-09-16",
+      "folder": "2026-09-16"
+    },
+    "2609.15939": {
+      "version": "v1",
+      "title": "Vulnerability Localization Benchmark: Measuring Agentic Security Analysis at Repository Scale",
+      "first_seen": "2026-09-16",
+      "last_updated": "2026-09-16",
+      "folder": "2026-09-16"
+    },
+    "2609.15516": {
+      "version": "v1",
+      "title": "Misleading the Planner through Deceptive Resumes: Registration-Time Injection in Centralized Multi-Agent Systems",
+      "first_seen": "2026-09-16",
+      "last_updated": "2026-09-16",
+      "folder": "2026-09-16"
+    },
+    "2609.14987": {
+      "version": "v1",
+      "title": "ActGuard: Pre-execution Action Auditing against Indirect Prompt Injection in LLM Agents",
+      "first_seen": "2026-09-16",
+      "last_updated": "2026-09-16",
+      "folder": "2026-09-16"
+    },
+    "2609.15039": {
+      "version": "v1",
+      "title": "SpliTEE: Improving LLM Inference on Trusted Hardware with Differentially Private GPU Outsourcing",
+      "first_seen": "2026-09-16",
+      "last_updated": "2026-09-16",
+      "folder": "2026-09-16"
+    },
+    "2609.15017": {
+      "version": "v1",
+      "title": "PIDS-Bench: Evaluating Prompt-Injection Detectors Under Over-Defense, Obfuscation, and Distribution Shift",
+      "first_seen": "2026-09-16",
+      "last_updated": "2026-09-16",
+      "folder": "2026-09-16"
     }
   }
 }
