@@ -8233,6 +8233,76 @@
       "first_seen": "2026-09-16",
       "last_updated": "2026-09-16",
       "folder": "2026-09-16"
+    },
+    "2609.17320": {
+      "version": "v1",
+      "title": "Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems",
+      "first_seen": "2026-09-17",
+      "last_updated": "2026-09-17",
+      "folder": "2026-09-17"
+    },
+    "2609.16204": {
+      "version": "v1",
+      "title": "Decoy Direction Optimization: A Post-Hoc Defense Against LLM Abliteration",
+      "first_seen": "2026-09-17",
+      "last_updated": "2026-09-17",
+      "folder": "2026-09-17"
+    },
+    "2609.15975": {
+      "version": "v1",
+      "title": "Disentangling Representation Evolution in Transformers through Directional Decomposition",
+      "first_seen": "2026-09-17",
+      "last_updated": "2026-09-17",
+      "folder": "2026-09-17"
+    },
+    "2609.16818": {
+      "version": "v1",
+      "title": "InceptionRAG: Stealthy Poisoning Attack Against Retrieval-Augmented Generation",
+      "first_seen": "2026-09-17",
+      "last_updated": "2026-09-17",
+      "folder": "2026-09-17"
+    },
+    "2609.16915": {
+      "version": "v1",
+      "title": "ROSETTA: Efficient and Accurate Privacy-Preserving LLM Decoding via Hybrid CKKS/TFHE Evaluation",
+      "first_seen": "2026-09-17",
+      "last_updated": "2026-09-17",
+      "folder": "2026-09-17"
+    },
+    "2609.16732": {
+      "version": "v1",
+      "title": "When Agents See Differently: Exposing UI Desynchronization Threats in Mobile Agents",
+      "first_seen": "2026-09-17",
+      "last_updated": "2026-09-17",
+      "folder": "2026-09-17"
+    },
+    "2609.16681": {
+      "version": "v1",
+      "title": "MarkSec: Capability-Aware Evaluation of Adversarial Attacks Against LLM Watermarks",
+      "first_seen": "2026-09-17",
+      "last_updated": "2026-09-17",
+      "folder": "2026-09-17"
+    },
+    "2609.16098": {
+      "version": "v1",
+      "title": "Universal Defenses for Tool-Integrated LLM Agents Against Adversarial Attacks",
+      "first_seen": "2026-09-17",
+      "last_updated": "2026-09-17",
+      "folder": "2026-09-17"
+    },
+    "2609.16283": {
+      "version": "v1",
+      "title": "Differentially Private Semantic Plans for Aggregate Insight Generation",
+      "first_seen": "2026-09-17",
+      "last_updated": "2026-09-17",
+      "folder": "2026-09-17"
+    },
+    "2609.16193": {
+      "version": "v1",
+      "title": "Permutation-Based Stegomalware in Large Language Models: Threats and Countermeasures",
+      "first_seen": "2026-09-17",
+      "last_updated": "2026-09-17",
+      "folder": "2026-09-17"
     }
   }
 }
