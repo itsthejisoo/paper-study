@@ -8303,6 +8303,76 @@
       "first_seen": "2026-09-17",
       "last_updated": "2026-09-17",
       "folder": "2026-09-17"
+    },
+    "2609.19140": {
+      "version": "v1",
+      "title": "AgentLSD: Evaluating AI Security Agents Under Adversarial Task Contamination",
+      "first_seen": "2026-09-18",
+      "last_updated": "2026-09-18",
+      "folder": "2026-09-18"
+    },
+    "2609.18674": {
+      "version": "v1",
+      "title": "CaMeLoT: CaMeL orchestrated with Temporal logic for static verification and liveness",
+      "first_seen": "2026-09-18",
+      "last_updated": "2026-09-18",
+      "folder": "2026-09-18"
+    },
+    "2609.17648": {
+      "version": "v1",
+      "title": "Trust propagation and structural containment in Multi-agent LLM pipelines",
+      "first_seen": "2026-09-18",
+      "last_updated": "2026-09-18",
+      "folder": "2026-09-18"
+    },
+    "2609.19101": {
+      "version": "v1",
+      "title": "Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations",
+      "first_seen": "2026-09-18",
+      "last_updated": "2026-09-18",
+      "folder": "2026-09-18"
+    },
+    "2609.18864": {
+      "version": "v1",
+      "title": "ASLEval: Measuring Privacy Exposure Displacement in LLM Agent Sessions",
+      "first_seen": "2026-09-18",
+      "last_updated": "2026-09-18",
+      "folder": "2026-09-18"
+    },
+    "2609.18526": {
+      "version": "v1",
+      "title": "The Illusion of Local Privacy: Confidentiality Boundary Failures in Consumer LLM Serving Systems",
+      "first_seen": "2026-09-18",
+      "last_updated": "2026-09-18",
+      "folder": "2026-09-18"
+    },
+    "2609.18217": {
+      "version": "v1",
+      "title": "Measuring and Exploiting Implicit Trust in LLM Tool-Calling Pipelines",
+      "first_seen": "2026-09-18",
+      "last_updated": "2026-09-18",
+      "folder": "2026-09-18"
+    },
+    "2609.17817": {
+      "version": "v1",
+      "title": "Reflections on Trusting Trust, Revisited: Contaminating Self-Modifying AI Coding Agents with Poisoned Benchmarks",
+      "first_seen": "2026-09-18",
+      "last_updated": "2026-09-18",
+      "folder": "2026-09-18"
+    },
+    "2609.19011": {
+      "version": "v1",
+      "title": "TwinMark: A Unified Watermark for Provable Survival Under Feature and Logit Distillation",
+      "first_seen": "2026-09-18",
+      "last_updated": "2026-09-18",
+      "folder": "2026-09-18"
+    },
+    "2609.18985": {
+      "version": "v1",
+      "title": "Suppressed, Not Erased: A Representational Trace of Edited Facts Survives Even Weight-Free Knowledge Editing",
+      "first_seen": "2026-09-18",
+      "last_updated": "2026-09-18",
+      "folder": "2026-09-18"
     }
   }
 }
