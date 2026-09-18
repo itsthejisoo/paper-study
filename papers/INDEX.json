@@ -8373,6 +8373,76 @@
       "first_seen": "2026-09-18",
       "last_updated": "2026-09-18",
       "folder": "2026-09-18"
+    },
+    "2609.20614": {
+      "version": "v1",
+      "title": "Inference-Engine Fingerprinting Attacks are Practical: Exploring Model-Driven Environmental Discovery, Exploitation, and Escape",
+      "first_seen": "2026-09-19",
+      "last_updated": "2026-09-19",
+      "folder": "2026-09-19"
+    },
+    "2609.19587": {
+      "version": "v1",
+      "title": "Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents",
+      "first_seen": "2026-09-19",
+      "last_updated": "2026-09-19",
+      "folder": "2026-09-19"
+    },
+    "2609.19892": {
+      "version": "v1",
+      "title": "ClashBench: Conflicts Leading Agents to Seize and Harm",
+      "first_seen": "2026-09-19",
+      "last_updated": "2026-09-19",
+      "folder": "2026-09-19"
+    },
+    "2609.19366": {
+      "version": "v1",
+      "title": "The Role of Fine-grained Harm Signals in LLM Safety",
+      "first_seen": "2026-09-19",
+      "last_updated": "2026-09-19",
+      "folder": "2026-09-19"
+    },
+    "2609.19722": {
+      "version": "v1",
+      "title": "ALIBI: Adversarial Legitimacy Injection in Binary Input against LLM Malware Analyzers",
+      "first_seen": "2026-09-19",
+      "last_updated": "2026-09-19",
+      "folder": "2026-09-19"
+    },
+    "2609.19705": {
+      "version": "v1",
+      "title": "SoK: Trading Agents or Market Crashers? Dissecting Robustness and Security Failures in Academic Financial LLM Trading Schemes",
+      "first_seen": "2026-09-19",
+      "last_updated": "2026-09-19",
+      "folder": "2026-09-19"
+    },
+    "2609.20532": {
+      "version": "v1",
+      "title": "Towards TEE-Certified DP: Verifiable Differentially Private Training on Legacy GPUs",
+      "first_seen": "2026-09-19",
+      "last_updated": "2026-09-19",
+      "folder": "2026-09-19"
+    },
+    "2609.20457": {
+      "version": "v1",
+      "title": "Fingerprinting Multimodal Large Language Models",
+      "first_seen": "2026-09-19",
+      "last_updated": "2026-09-19",
+      "folder": "2026-09-19"
+    },
+    "2609.19472": {
+      "version": "v1",
+      "title": "Safety Beyond the Interface: Detecting Harm via Latent States in Large Language Models",
+      "first_seen": "2026-09-19",
+      "last_updated": "2026-09-19",
+      "folder": "2026-09-19"
+    },
+    "2609.19391": {
+      "version": "v1",
+      "title": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
+      "first_seen": "2026-09-19",
+      "last_updated": "2026-09-19",
+      "folder": "2026-09-19"
     }
   }
 }
