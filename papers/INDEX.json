@@ -8443,6 +8443,76 @@
       "first_seen": "2026-09-19",
       "last_updated": "2026-09-19",
       "folder": "2026-09-19"
+    },
+    "2609.20370": {
+      "version": "v1",
+      "title": "The More It Says, the More You Pay: A Black-Box Audit of Provider-Side Token Inflation in LLM Services",
+      "first_seen": "2026-09-20",
+      "last_updated": "2026-09-20",
+      "folder": "2026-09-20"
+    },
+    "2609.20188": {
+      "version": "v1",
+      "title": "ResumeShield: Channel Separation and an Open Benchmark for Indirect Prompt Injection in AI Resume Screening",
+      "first_seen": "2026-09-20",
+      "last_updated": "2026-09-20",
+      "folder": "2026-09-20"
+    },
+    "2609.20211": {
+      "version": "v1",
+      "title": "Silence Is Endorsement: Verification-Status Laundering in LLM Agent Pipelines",
+      "first_seen": "2026-09-20",
+      "last_updated": "2026-09-20",
+      "folder": "2026-09-20"
+    },
+    "2609.19425": {
+      "version": "v1",
+      "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
+      "first_seen": "2026-09-20",
+      "last_updated": "2026-09-20",
+      "folder": "2026-09-20"
+    },
+    "2609.19325": {
+      "version": "v1",
+      "title": "AUDITPLAN: Commit, Then Answer for Auditable Safety Alignment",
+      "first_seen": "2026-09-20",
+      "last_updated": "2026-09-20",
+      "folder": "2026-09-20"
+    },
+    "2609.19226": {
+      "version": "v1",
+      "title": "PAPC: Platform Mediation for Privacy-Propagation Externalities in AI-Mediated Workflows",
+      "first_seen": "2026-09-20",
+      "last_updated": "2026-09-20",
+      "folder": "2026-09-20"
+    },
+    "2609.20650": {
+      "version": "v1",
+      "title": "Multi-center Medical Data Mining with FL-Net - A One-stop Shop for Federated Learning",
+      "first_seen": "2026-09-20",
+      "last_updated": "2026-09-20",
+      "folder": "2026-09-20"
+    },
+    "2609.20095": {
+      "version": "v1",
+      "title": "A Scalable Trust Discovery Architecture for the Internet of Agents",
+      "first_seen": "2026-09-20",
+      "last_updated": "2026-09-20",
+      "folder": "2026-09-20"
+    },
+    "2609.19640": {
+      "version": "v1",
+      "title": "A Policy Profile for Croissant: Refusal as a Property of the Dataset",
+      "first_seen": "2026-09-20",
+      "last_updated": "2026-09-20",
+      "folder": "2026-09-20"
+    },
+    "2609.18605": {
+      "version": "v1",
+      "title": "PACT: Can Enterprise AI Assistants Be Trusted Under Pressure?",
+      "first_seen": "2026-09-20",
+      "last_updated": "2026-09-20",
+      "folder": "2026-09-20"
     }
   }
 }
