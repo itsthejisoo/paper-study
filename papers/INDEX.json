@@ -8513,6 +8513,76 @@
       "first_seen": "2026-09-20",
       "last_updated": "2026-09-20",
       "folder": "2026-09-20"
+    },
+    "2609.20812": {
+      "version": "v1",
+      "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
+      "first_seen": "2026-09-21",
+      "last_updated": "2026-09-21",
+      "folder": "2026-09-21"
+    },
+    "2609.20412": {
+      "version": "v1",
+      "title": "Stress-testing Alignment Midtraining",
+      "first_seen": "2026-09-21",
+      "last_updated": "2026-09-21",
+      "folder": "2026-09-21"
+    },
+    "2609.20722": {
+      "version": "v1",
+      "title": "Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models",
+      "first_seen": "2026-09-21",
+      "last_updated": "2026-09-21",
+      "folder": "2026-09-21"
+    },
+    "2609.20779": {
+      "version": "v1",
+      "title": "Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transformed Rather Than Reduced Across Safety-Trained Generations",
+      "first_seen": "2026-09-21",
+      "last_updated": "2026-09-21",
+      "folder": "2026-09-21"
+    },
+    "2609.20408": {
+      "version": "v1",
+      "title": "Xeno-Interpretability: Investigating the Alien Minds of LLMs",
+      "first_seen": "2026-09-21",
+      "last_updated": "2026-09-21",
+      "folder": "2026-09-21"
+    },
+    "2609.20561": {
+      "version": "v1",
+      "title": "Empirical Analysis of Randomness Quality in Differential Privacy Mechanisms",
+      "first_seen": "2026-09-21",
+      "last_updated": "2026-09-21",
+      "folder": "2026-09-21"
+    },
+    "2609.19456": {
+      "version": "v1",
+      "title": "Beyond Private Training: The New Landscape of AI Privacy",
+      "first_seen": "2026-09-21",
+      "last_updated": "2026-09-21",
+      "folder": "2026-09-21"
+    },
+    "2609.19091": {
+      "version": "v1",
+      "title": "When Agents Look Like Beacons: NIDS Evasion by Model Context Protocol Traffic",
+      "first_seen": "2026-09-21",
+      "last_updated": "2026-09-21",
+      "folder": "2026-09-21"
+    },
+    "2609.19072": {
+      "version": "v1",
+      "title": "Safety-Flag: A Unified Benchmark for the Reliability and Calibration of LLM Content Moderators",
+      "first_seen": "2026-09-21",
+      "last_updated": "2026-09-21",
+      "folder": "2026-09-21"
+    },
+    "2609.19241": {
+      "version": "v1",
+      "title": "Robust Conformal Intrusion Detection via Traffic-Aware Calibration and Attack-Orbit Invariance",
+      "first_seen": "2026-09-21",
+      "last_updated": "2026-09-21",
+      "folder": "2026-09-21"
     }
   }
 }
