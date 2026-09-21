@@ -8583,6 +8583,76 @@
       "first_seen": "2026-09-21",
       "last_updated": "2026-09-21",
       "folder": "2026-09-21"
+    },
+    "2609.22076": {
+      "version": "v1",
+      "title": "APort Vault: Benchmarking AI Agent Payment Authorization with the Open Agent Passport",
+      "first_seen": "2026-09-22",
+      "last_updated": "2026-09-22",
+      "folder": "2026-09-22"
+    },
+    "2609.21686": {
+      "version": "v1",
+      "title": "CIPL: A Channel-Aware Framework for Recoverable Privacy Leakage in LLM Agents",
+      "first_seen": "2026-09-22",
+      "last_updated": "2026-09-22",
+      "folder": "2026-09-22"
+    },
+    "2609.21340": {
+      "version": "v1",
+      "title": "Conformal Privacy Auditing: Calibrated Re-identification Attacks with Statistical Guarantees",
+      "first_seen": "2026-09-22",
+      "last_updated": "2026-09-22",
+      "folder": "2026-09-22"
+    },
+    "2609.21793": {
+      "version": "v1",
+      "title": "CASCADE Against Jailbreaks: Combination Across Stages with Controlled Attack-Defense Evaluation",
+      "first_seen": "2026-09-22",
+      "last_updated": "2026-09-22",
+      "folder": "2026-09-22"
+    },
+    "2609.21677": {
+      "version": "v1",
+      "title": "GUARD: Natural Forgetting in Large Reasoning Models via Guided Answer-Reasoning Distillation",
+      "first_seen": "2026-09-22",
+      "last_updated": "2026-09-22",
+      "folder": "2026-09-22"
+    },
+    "2609.21996": {
+      "version": "v1",
+      "title": "A Lie Detector Test for Language Models: Reading Knowledge a Model Won't Reveal",
+      "first_seen": "2026-09-22",
+      "last_updated": "2026-09-22",
+      "folder": "2026-09-22"
+    },
+    "2609.21484": {
+      "version": "v1",
+      "title": "HE-Guardrail: A Homomorphic Guardrail Against Jailbreak Attacks for Encrypted Large Language Model Inference",
+      "first_seen": "2026-09-22",
+      "last_updated": "2026-09-22",
+      "folder": "2026-09-22"
+    },
+    "2609.21941": {
+      "version": "v1",
+      "title": "End-to-End Hard-Label Cryptanalytic Model Extraction Using Efficient Sign Recovery",
+      "first_seen": "2026-09-22",
+      "last_updated": "2026-09-22",
+      "folder": "2026-09-22"
+    },
+    "2609.21573": {
+      "version": "v1",
+      "title": "Micro-Collaborative Poisoning: A Distributed Attack on RAG Systems",
+      "first_seen": "2026-09-22",
+      "last_updated": "2026-09-22",
+      "folder": "2026-09-22"
+    },
+    "2609.21957": {
+      "version": "v1",
+      "title": "Provisional Reachability: Containing Agents by Making Every Crossing Revocable",
+      "first_seen": "2026-09-22",
+      "last_updated": "2026-09-22",
+      "folder": "2026-09-22"
     }
   }
 }
