@@ -8653,6 +8653,76 @@
       "first_seen": "2026-09-22",
       "last_updated": "2026-09-22",
       "folder": "2026-09-22"
+    },
+    "2609.13231": {
+      "version": "v1",
+      "title": "ShieldVLA: Feasibility-Aware Safety Alignment for Vision-Language-Action Models",
+      "first_seen": "2026-09-23",
+      "last_updated": "2026-09-23",
+      "folder": "2026-09-23"
+    },
+    "2609.22724": {
+      "version": "v1",
+      "title": "MATE: Policy-Aware Security Auditing for Mobile Agents via Synthesis-Driven Trajectory Learning",
+      "first_seen": "2026-09-23",
+      "last_updated": "2026-09-23",
+      "folder": "2026-09-23"
+    },
+    "2609.23980": {
+      "version": "v1",
+      "title": "MobileCybench: Evaluating Agent Vulnerability Discovery via Executable Probes",
+      "first_seen": "2026-09-23",
+      "last_updated": "2026-09-23",
+      "folder": "2026-09-23"
+    },
+    "2609.24826": {
+      "version": "v1",
+      "title": "OPBackdoor: Opportunistic Backdoors via Alibi-Aligned Reasoning",
+      "first_seen": "2026-09-23",
+      "last_updated": "2026-09-23",
+      "folder": "2026-09-23"
+    },
+    "2609.24967": {
+      "version": "v1",
+      "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
+      "first_seen": "2026-09-23",
+      "last_updated": "2026-09-23",
+      "folder": "2026-09-23"
+    },
+    "2609.24446": {
+      "version": "v1",
+      "title": "ActGov: Governing LLM Agent Actions via Policy-Constrained Validation",
+      "first_seen": "2026-09-23",
+      "last_updated": "2026-09-23",
+      "folder": "2026-09-23"
+    },
+    "2609.24801": {
+      "version": "v1",
+      "title": "Decoding Guardrails: XAI-Guided Perturbation Analysis of Prompt Injection Detection",
+      "first_seen": "2026-09-23",
+      "last_updated": "2026-09-23",
+      "folder": "2026-09-23"
+    },
+    "2609.24927": {
+      "version": "v1",
+      "title": "Et Tu, Brute? Economic Misalignment in Personal AI Agents",
+      "first_seen": "2026-09-23",
+      "last_updated": "2026-09-23",
+      "folder": "2026-09-23"
+    },
+    "2609.24515": {
+      "version": "v1",
+      "title": "Beyond Predictable Paths: Redefining AI Security Incident Reporting for Agents",
+      "first_seen": "2026-09-23",
+      "last_updated": "2026-09-23",
+      "folder": "2026-09-23"
+    },
+    "2609.23193": {
+      "version": "v1",
+      "title": "LLMs as Linguistic Chameleons: Decoupling Semantics and Structure for Privacy-Preserving Communication",
+      "first_seen": "2026-09-23",
+      "last_updated": "2026-09-23",
+      "folder": "2026-09-23"
     }
   }
 }
