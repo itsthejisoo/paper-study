@@ -8723,6 +8723,76 @@
       "first_seen": "2026-09-23",
       "last_updated": "2026-09-23",
       "folder": "2026-09-23"
+    },
+    "2609.26761": {
+      "version": "v1",
+      "title": "A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem",
+      "first_seen": "2026-09-24",
+      "last_updated": "2026-09-24",
+      "folder": "2026-09-24"
+    },
+    "2609.26637": {
+      "version": "v1",
+      "title": "Capable yet Parsimonious: Extracting and Characterizing Hidden Chain-of-Thought in Frontier Models",
+      "first_seen": "2026-09-24",
+      "last_updated": "2026-09-24",
+      "folder": "2026-09-24"
+    },
+    "2609.25884": {
+      "version": "v1",
+      "title": "LoRango: It Takes Two LoRAs to Unlock Hidden Behaviors in Diffusion Models",
+      "first_seen": "2026-09-24",
+      "last_updated": "2026-09-24",
+      "folder": "2026-09-24"
+    },
+    "2609.25579": {
+      "version": "v1",
+      "title": "Rethinking Backdoor Repair Evaluation: Distinguishing Aggregate Clean Utility from Benign Performance Preservation",
+      "first_seen": "2026-09-24",
+      "last_updated": "2026-09-24",
+      "folder": "2026-09-24"
+    },
+    "2609.25352": {
+      "version": "v1",
+      "title": "SSP-Bench: A Hybrid Data Generation Framework for Safety, Security, and Privacy Evaluation",
+      "first_seen": "2026-09-24",
+      "last_updated": "2026-09-24",
+      "folder": "2026-09-24"
+    },
+    "2609.25173": {
+      "version": "v1",
+      "title": "Attack Success Rate Is Not a Number: On Measurement Validity in Agentic AI Security Evaluation",
+      "first_seen": "2026-09-24",
+      "last_updated": "2026-09-24",
+      "folder": "2026-09-24"
+    },
+    "2609.26682": {
+      "version": "v1",
+      "title": "From Alignment to Access Control: A Framework for GenAI Policy Enforcement",
+      "first_seen": "2026-09-24",
+      "last_updated": "2026-09-24",
+      "folder": "2026-09-24"
+    },
+    "2609.26295": {
+      "version": "v1",
+      "title": "On the security and privacy of LLMs in Mobility",
+      "first_seen": "2026-09-24",
+      "last_updated": "2026-09-24",
+      "folder": "2026-09-24"
+    },
+    "2609.26112": {
+      "version": "v1",
+      "title": "Certified Mechanistic Interpretability: Lifting Single-Input Findings to Bounded Neighbourhoods",
+      "first_seen": "2026-09-24",
+      "last_updated": "2026-09-24",
+      "folder": "2026-09-24"
+    },
+    "2609.25014": {
+      "version": "v1",
+      "title": "Not All 4-bit Quantizers Are Equal: Deployment-Time Mitigation of PII Leakage in Fine-Tuned Small Language Models",
+      "first_seen": "2026-09-24",
+      "last_updated": "2026-09-24",
+      "folder": "2026-09-24"
     }
   }
 }
