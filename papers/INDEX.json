@@ -8793,6 +8793,76 @@
       "first_seen": "2026-09-24",
       "last_updated": "2026-09-24",
       "folder": "2026-09-24"
+    },
+    "2609.27158": {
+      "version": "v1",
+      "title": "The Linear Representation Hypothesis Needs a Group Action",
+      "first_seen": "2026-09-25",
+      "last_updated": "2026-09-25",
+      "folder": "2026-09-25"
+    },
+    "2609.27891": {
+      "version": "v1",
+      "title": "Schrödinger's Code Repository: Have LLMs Learned SWE-bench or Memorized It?",
+      "first_seen": "2026-09-25",
+      "last_updated": "2026-09-25",
+      "folder": "2026-09-25"
+    },
+    "2609.27996": {
+      "version": "v1",
+      "title": "Your Model Is Leaking: Covert Information Transfer through LLM Residual Streams",
+      "first_seen": "2026-09-25",
+      "last_updated": "2026-09-25",
+      "folder": "2026-09-25"
+    },
+    "2609.27624": {
+      "version": "v1",
+      "title": "Agent Name Collision Attacks in Multi-Agent Systems",
+      "first_seen": "2026-09-25",
+      "last_updated": "2026-09-25",
+      "folder": "2026-09-25"
+    },
+    "2609.27542": {
+      "version": "v1",
+      "title": "Control-Token Injection Suppresses Chain-of-Thought and Defeats Reasoning-Based Oversight in Tool-Using Agents",
+      "first_seen": "2026-09-25",
+      "last_updated": "2026-09-25",
+      "folder": "2026-09-25"
+    },
+    "2609.27427": {
+      "version": "v1",
+      "title": "Extracting CNNs in the Unknown-Architecture and Feedback-Agnostic Setting",
+      "first_seen": "2026-09-25",
+      "last_updated": "2026-09-25",
+      "folder": "2026-09-25"
+    },
+    "2609.27406": {
+      "version": "v1",
+      "title": "Only Pay What You Must Spend: On-Demand Privacy Budget Payment for Differentially Private RAG",
+      "first_seen": "2026-09-25",
+      "last_updated": "2026-09-25",
+      "folder": "2026-09-25"
+    },
+    "2609.27155": {
+      "version": "v1",
+      "title": "The Like Trap: Multi-Stage Poisoning against Agents in Similarity-based Recommendation Systems",
+      "first_seen": "2026-09-25",
+      "last_updated": "2026-09-25",
+      "folder": "2026-09-25"
+    },
+    "2609.27090": {
+      "version": "v1",
+      "title": "Divide and Doubt: Diverse Distributed Poisoning for Retrieval-Augmented Generation",
+      "first_seen": "2026-09-25",
+      "last_updated": "2026-09-25",
+      "folder": "2026-09-25"
+    },
+    "2609.26900": {
+      "version": "v1",
+      "title": "Ajar: Measuring Open Privilege in Agent Defenses",
+      "first_seen": "2026-09-25",
+      "last_updated": "2026-09-25",
+      "folder": "2026-09-25"
     }
   }
 }
