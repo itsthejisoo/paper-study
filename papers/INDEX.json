@@ -8863,6 +8863,76 @@
       "first_seen": "2026-09-25",
       "last_updated": "2026-09-25",
       "folder": "2026-09-25"
+    },
+    "2609.29845": {
+      "version": "v1",
+      "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
+      "first_seen": "2026-09-26",
+      "last_updated": "2026-09-26",
+      "folder": "2026-09-26"
+    },
+    "2609.29429": {
+      "version": "v1",
+      "title": "Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures",
+      "first_seen": "2026-09-26",
+      "last_updated": "2026-09-26",
+      "folder": "2026-09-26"
+    },
+    "2609.29362": {
+      "version": "v1",
+      "title": "Parts-of-Speech as Emergent Categories in SAE Latent Space",
+      "first_seen": "2026-09-26",
+      "last_updated": "2026-09-26",
+      "folder": "2026-09-26"
+    },
+    "2609.29647": {
+      "version": "v1",
+      "title": "AgentKernel: The Trust-Native Agentic Operating System",
+      "first_seen": "2026-09-26",
+      "last_updated": "2026-09-26",
+      "folder": "2026-09-26"
+    },
+    "2609.30266": {
+      "version": "v1",
+      "title": "LLM Agents Can Easily Tamper With Their Own Traces",
+      "first_seen": "2026-09-26",
+      "last_updated": "2026-09-26",
+      "folder": "2026-09-26"
+    },
+    "2609.30217": {
+      "version": "v1",
+      "title": "Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure",
+      "first_seen": "2026-09-26",
+      "last_updated": "2026-09-26",
+      "folder": "2026-09-26"
+    },
+    "2609.30032": {
+      "version": "v1",
+      "title": "Trusted Model Environment for Private Semantic Computations",
+      "first_seen": "2026-09-26",
+      "last_updated": "2026-09-26",
+      "folder": "2026-09-26"
+    },
+    "2609.29775": {
+      "version": "v1",
+      "title": "Prefilling the Reasoning Channel: Output-Prefix Attacks on Reasoning LLMs",
+      "first_seen": "2026-09-26",
+      "last_updated": "2026-09-26",
+      "folder": "2026-09-26"
+    },
+    "2609.29130": {
+      "version": "v1",
+      "title": "ClaimMirage: When Self-Claims in Domain Names Change LLM Threat Judgments",
+      "first_seen": "2026-09-26",
+      "last_updated": "2026-09-26",
+      "folder": "2026-09-26"
+    },
+    "2609.29045": {
+      "version": "v1",
+      "title": "The Tokens Remember: When Tokenization Bypasses Knowledge Editing and Unlearning",
+      "first_seen": "2026-09-26",
+      "last_updated": "2026-09-26",
+      "folder": "2026-09-26"
     }
   }
 }
