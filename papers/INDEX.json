@@ -9003,6 +9003,76 @@
       "first_seen": "2026-09-27",
       "last_updated": "2026-09-27",
       "folder": "2026-09-27"
+    },
+    "2609.30028": {
+      "version": "v1",
+      "title": "How does Adversarial Influence Scale in Multi-Agent Systems?",
+      "first_seen": "2026-09-28",
+      "last_updated": "2026-09-28",
+      "folder": "2026-09-28"
+    },
+    "2609.30094": {
+      "version": "v1",
+      "title": "PrivDrift: Auditing User-Secret Leakage Under Topic Drift in Active LLM Conversations",
+      "first_seen": "2026-09-28",
+      "last_updated": "2026-09-28",
+      "folder": "2026-09-28"
+    },
+    "2609.29948": {
+      "version": "v1",
+      "title": "ENDOPROMPT: Victim-Side Pseudo-References for Utility Degradation",
+      "first_seen": "2026-09-28",
+      "last_updated": "2026-09-28",
+      "folder": "2026-09-28"
+    },
+    "2609.29781": {
+      "version": "v1",
+      "title": "Hallucination Neurons and Where to Find Them: An Investigation into the existence of Hallucination Neurons",
+      "first_seen": "2026-09-28",
+      "last_updated": "2026-09-28",
+      "folder": "2026-09-28"
+    },
+    "2609.29684": {
+      "version": "v1",
+      "title": "DP-IPI: A Hybrid Differential Privacy Text Rewriting Mechanism for Indirect Personal Identifiers in Clinical Texts",
+      "first_seen": "2026-09-28",
+      "last_updated": "2026-09-28",
+      "folder": "2026-09-28"
+    },
+    "2609.29264": {
+      "version": "v1",
+      "title": "TP-CRIV: A Framework for Third-Party Challenge-Response Identity Verification of AI Models",
+      "first_seen": "2026-09-28",
+      "last_updated": "2026-09-28",
+      "folder": "2026-09-28"
+    },
+    "2609.28899": {
+      "version": "v1",
+      "title": "When Do Differentially Private Inputs Protect Graph Shift Operators?",
+      "first_seen": "2026-09-28",
+      "last_updated": "2026-09-28",
+      "folder": "2026-09-28"
+    },
+    "2609.28613": {
+      "version": "v1",
+      "title": "Decision Hijacking: Prompt Injection Attacks on Jev's Typed Probabilistic Decisions",
+      "first_seen": "2026-09-28",
+      "last_updated": "2026-09-28",
+      "folder": "2026-09-28"
+    },
+    "2609.28586": {
+      "version": "v1",
+      "title": "Agent Approval Laundering: Transitive Effects Beyond the Approved Invocation",
+      "first_seen": "2026-09-28",
+      "last_updated": "2026-09-28",
+      "folder": "2026-09-28"
+    },
+    "2609.28585": {
+      "version": "v1",
+      "title": "Persistent Billable State: Denial-of-Wallet Attacks and Defenses in Tool-Calling LLM Agents",
+      "first_seen": "2026-09-28",
+      "last_updated": "2026-09-28",
+      "folder": "2026-09-28"
     }
   }
 }
