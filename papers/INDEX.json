@@ -9073,6 +9073,76 @@
       "first_seen": "2026-09-28",
       "last_updated": "2026-09-28",
       "folder": "2026-09-28"
+    },
+    "2609.30997": {
+      "version": "v1",
+      "title": "Can Pixels Alone Reveal Image Origin? Minimax Limits and Learnable Interfaces for Passive Provenance",
+      "first_seen": "2026-09-29",
+      "last_updated": "2026-09-29",
+      "folder": "2026-09-29"
+    },
+    "2609.31318": {
+      "version": "v1",
+      "title": "AgentXploit: Autonomous Repository-to-Runtime Red-Teaming for AI Agents",
+      "first_seen": "2026-09-29",
+      "last_updated": "2026-09-29",
+      "folder": "2026-09-29"
+    },
+    "2609.31494": {
+      "version": "v1",
+      "title": "Toward verifiably private learning from federated data",
+      "first_seen": "2026-09-29",
+      "last_updated": "2026-09-29",
+      "folder": "2026-09-29"
+    },
+    "2609.31039": {
+      "version": "v1",
+      "title": "MetaPermit: Scalable and Auditable Access Control for AI Agents via LLM-Inferred Meta-Attributes",
+      "first_seen": "2026-09-29",
+      "last_updated": "2026-09-29",
+      "folder": "2026-09-29"
+    },
+    "2609.31552": {
+      "version": "v1",
+      "title": "FragToken: Amplifying LLM Inference Costs through Noncanonical Token Generation",
+      "first_seen": "2026-09-29",
+      "last_updated": "2026-09-29",
+      "folder": "2026-09-29"
+    },
+    "2609.31142": {
+      "version": "v1",
+      "title": "JevAdvBench: A Benchmark and Black-Box Attacks for Reinforcement Learning for Calibrated Decisions Models",
+      "first_seen": "2026-09-29",
+      "last_updated": "2026-09-29",
+      "folder": "2026-09-29"
+    },
+    "2609.31310": {
+      "version": "v1",
+      "title": "Revisiting Certified Defense with Differential Privacy on Vision Transformers",
+      "first_seen": "2026-09-29",
+      "last_updated": "2026-09-29",
+      "folder": "2026-09-29"
+    },
+    "2609.31262": {
+      "version": "v1",
+      "title": "Deduplication-while-Training: A Resilient Paradigm for Privacy-Preserving Cross-Client Deduplication in Federated Learning",
+      "first_seen": "2026-09-29",
+      "last_updated": "2026-09-29",
+      "folder": "2026-09-29"
+    },
+    "2609.31003": {
+      "version": "v1",
+      "title": "Weaponizing Ground Truth: Data Poisoning Attacks by Exploiting Boundary Misalignment Between Antivirus Software and Learning-Based Detectors",
+      "first_seen": "2026-09-29",
+      "last_updated": "2026-09-29",
+      "folder": "2026-09-29"
+    },
+    "2609.30980": {
+      "version": "v1",
+      "title": "FeatMark: Feature-level Watermark Protection against Mimicry Attacks with Diffusion Models",
+      "first_seen": "2026-09-29",
+      "last_updated": "2026-09-29",
+      "folder": "2026-09-29"
     }
   }
 }
