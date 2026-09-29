@@ -9143,6 +9143,76 @@
       "first_seen": "2026-09-29",
       "last_updated": "2026-09-29",
       "folder": "2026-09-29"
+    },
+    "2609.35699": {
+      "version": "v1",
+      "title": "Distillation Defenses Easily Break After Reinforcement Learning",
+      "first_seen": "2026-09-30",
+      "last_updated": "2026-09-30",
+      "folder": "2026-09-30"
+    },
+    "2609.34771": {
+      "version": "v1",
+      "title": "When Do Model Internals Help? Exploring the Role of Representation Engineering in LLM Safety",
+      "first_seen": "2026-09-30",
+      "last_updated": "2026-09-30",
+      "folder": "2026-09-30"
+    },
+    "2609.34241": {
+      "version": "v1",
+      "title": "AdaGuard: An Adaptive Guard Model with User-defined Policies",
+      "first_seen": "2026-09-30",
+      "last_updated": "2026-09-30",
+      "folder": "2026-09-30"
+    },
+    "2609.32400": {
+      "version": "v1",
+      "title": "SkillDRE: Dual-Stage Red-Team Evolution of Agent Skills via Pre-Execution and Runtime Feedback",
+      "first_seen": "2026-09-30",
+      "last_updated": "2026-09-30",
+      "folder": "2026-09-30"
+    },
+    "2609.35544": {
+      "version": "v1",
+      "title": "Less Sycophancy, Stronger Refusal? Lessons for AI Safety from Mechanistic Interpretability",
+      "first_seen": "2026-09-30",
+      "last_updated": "2026-09-30",
+      "folder": "2026-09-30"
+    },
+    "2609.35521": {
+      "version": "v1",
+      "title": "Beyond Token Scale: Chunk-Level Sparse Autoencoders for Reliable Semantic Feature Discovery",
+      "first_seen": "2026-09-30",
+      "last_updated": "2026-09-30",
+      "folder": "2026-09-30"
+    },
+    "2609.35367": {
+      "version": "v1",
+      "title": "From Input to Output: A Flexible Agent for Dual-End Interpretation of Sparse Autoencoder Features",
+      "first_seen": "2026-09-30",
+      "last_updated": "2026-09-30",
+      "folder": "2026-09-30"
+    },
+    "2609.35210": {
+      "version": "v1",
+      "title": "Understanding On-Policy Distillation: A Mechanistic Interpretability Perspective via Sparse Crosscoders",
+      "first_seen": "2026-09-30",
+      "last_updated": "2026-09-30",
+      "folder": "2026-09-30"
+    },
+    "2609.34463": {
+      "version": "v1",
+      "title": "CoDeL: Co-Evolutionary Defense against Indirect Prompt Injection in LLM-based Agents",
+      "first_seen": "2026-09-30",
+      "last_updated": "2026-09-30",
+      "folder": "2026-09-30"
+    },
+    "2609.33985": {
+      "version": "v1",
+      "title": "The Privacy Fallacy of Crowdsourced Fine-Tuning: Extracting Proprietary Data via Topic-Based Poisoning",
+      "first_seen": "2026-09-30",
+      "last_updated": "2026-09-30",
+      "folder": "2026-09-30"
     }
   }
 }
