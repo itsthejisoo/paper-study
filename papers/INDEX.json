@@ -9213,6 +9213,76 @@
       "first_seen": "2026-09-30",
       "last_updated": "2026-09-30",
       "folder": "2026-09-30"
+    },
+    "2609.37040": {
+      "version": "v1",
+      "title": "Selecting The Most Informative Tokens in Natural Language Autoencoders",
+      "first_seen": "2026-10-01",
+      "last_updated": "2026-10-01",
+      "folder": "2026-10-01"
+    },
+    "2609.36139": {
+      "version": "v1",
+      "title": "Language Models Are \"Insecure\" Reporters",
+      "first_seen": "2026-10-01",
+      "last_updated": "2026-10-01",
+      "folder": "2026-10-01"
+    },
+    "2609.37837": {
+      "version": "v1",
+      "title": "Can Vision-Language Models Stay Helpful When Facing Implicit Risks? Intent-Privilege OPSD for Efficient Safety-Helpfulness Alignment",
+      "first_seen": "2026-10-01",
+      "last_updated": "2026-10-01",
+      "folder": "2026-10-01"
+    },
+    "2609.37737": {
+      "version": "v1",
+      "title": "Where Do LLMs Decide to Break the Rules? Mechanistic Localization of Prompt Injection Compliance",
+      "first_seen": "2026-10-01",
+      "last_updated": "2026-10-01",
+      "folder": "2026-10-01"
+    },
+    "2609.37972": {
+      "version": "v1",
+      "title": "Dagger: Decoupling-based Model Stealing Attack against Graph Neural Networks",
+      "first_seen": "2026-10-01",
+      "last_updated": "2026-10-01",
+      "folder": "2026-10-01"
+    },
+    "2609.37759": {
+      "version": "v1",
+      "title": "Selective Channel Restoration for Backdoored Vision-Language Models",
+      "first_seen": "2026-10-01",
+      "last_updated": "2026-10-01",
+      "folder": "2026-10-01"
+    },
+    "2609.37567": {
+      "version": "v1",
+      "title": "Concealing LLM-Based Multi-Agent Topology via Phantom Structure Injection",
+      "first_seen": "2026-10-01",
+      "last_updated": "2026-10-01",
+      "folder": "2026-10-01"
+    },
+    "2609.37468": {
+      "version": "v1",
+      "title": "Backdoor in the Loop: Compromising Agentic Search via Malicious Retrievers",
+      "first_seen": "2026-10-01",
+      "last_updated": "2026-10-01",
+      "folder": "2026-10-01"
+    },
+    "2609.37367": {
+      "version": "v1",
+      "title": "Backdoor Mitigation in Decentralized LLM Fine-Tuning",
+      "first_seen": "2026-10-01",
+      "last_updated": "2026-10-01",
+      "folder": "2026-10-01"
+    },
+    "2609.37196": {
+      "version": "v1",
+      "title": "ToolFence: Fine-Grained Authorization for Secure Tool-Using LLM Agents",
+      "first_seen": "2026-10-01",
+      "last_updated": "2026-10-01",
+      "folder": "2026-10-01"
     }
   }
 }
