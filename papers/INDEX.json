@@ -9283,6 +9283,76 @@
       "first_seen": "2026-10-01",
       "last_updated": "2026-10-01",
       "folder": "2026-10-01"
+    },
+    "2609.39788": {
+      "version": "v1",
+      "title": "Safety of Latent Communication in Multi-Agent Systems",
+      "first_seen": "2026-10-02",
+      "last_updated": "2026-10-02",
+      "folder": "2026-10-02"
+    },
+    "2609.39102": {
+      "version": "v1",
+      "title": "False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents",
+      "first_seen": "2026-10-02",
+      "last_updated": "2026-10-02",
+      "folder": "2026-10-02"
+    },
+    "2609.36308": {
+      "version": "v1",
+      "title": "CheatBench: Measuring Reward Gaming in AI Agents",
+      "first_seen": "2026-10-02",
+      "last_updated": "2026-10-02",
+      "folder": "2026-10-02"
+    },
+    "2609.34970": {
+      "version": "v1",
+      "title": "See it, Say it, Sorted: Mechanistic Diagnosis and Parameter-Space Mitigation of Emergent Misalignment in LLMs",
+      "first_seen": "2026-10-02",
+      "last_updated": "2026-10-02",
+      "folder": "2026-10-02"
+    },
+    "2609.38339": {
+      "version": "v1",
+      "title": "Aegis: Generative Gradient Masking for Privacy-Preserving Medical Federated Learning",
+      "first_seen": "2026-10-02",
+      "last_updated": "2026-10-02",
+      "folder": "2026-10-02"
+    },
+    "2609.39866": {
+      "version": "v1",
+      "title": "Preemptive LLM Unlearning against Forbidden Capability Acquisition via Gradient Sealing",
+      "first_seen": "2026-10-02",
+      "last_updated": "2026-10-02",
+      "folder": "2026-10-02"
+    },
+    "2609.39352": {
+      "version": "v1",
+      "title": "Hiding in Plain Sight: Decoupling Pretext from Actuation for Skill Poisoning in LLM Agents",
+      "first_seen": "2026-10-02",
+      "last_updated": "2026-10-02",
+      "folder": "2026-10-02"
+    },
+    "2609.38899": {
+      "version": "v1",
+      "title": "SceneJail: Exploiting Video Scenario Context to Jailbreak Multimodal LLMs",
+      "first_seen": "2026-10-02",
+      "last_updated": "2026-10-02",
+      "folder": "2026-10-02"
+    },
+    "2609.38389": {
+      "version": "v1",
+      "title": "The Geometry of Harmfulness in Multi-Turn Attacks",
+      "first_seen": "2026-10-02",
+      "last_updated": "2026-10-02",
+      "folder": "2026-10-02"
+    },
+    "2609.38270": {
+      "version": "v1",
+      "title": "VirusCascade: Hijacking Collaborative Reflection in LLM-Powered Recommender Agents",
+      "first_seen": "2026-10-02",
+      "last_updated": "2026-10-02",
+      "folder": "2026-10-02"
     }
   }
 }
