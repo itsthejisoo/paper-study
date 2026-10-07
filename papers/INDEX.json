@@ -9353,6 +9353,76 @@
       "first_seen": "2026-10-02",
       "last_updated": "2026-10-02",
       "folder": "2026-10-02"
+    },
+    "2609.38972": {
+      "version": "v1",
+      "title": "Making LLMs Say What They Think: Measuring and Improving CoT-Interpretability Alignment",
+      "first_seen": "2026-10-07",
+      "last_updated": "2026-10-07",
+      "folder": "2026-10-07"
+    },
+    "2610.08678": {
+      "version": "v1",
+      "title": "Secure Speculative Decoding for Large Language Models",
+      "first_seen": "2026-10-07",
+      "last_updated": "2026-10-07",
+      "folder": "2026-10-07"
+    },
+    "2610.08571": {
+      "version": "v1",
+      "title": "RAG-PIBench: A Leakage-Aware Benchmark for Prompt-Injection Detection in Trustworthy RAG Systems",
+      "first_seen": "2026-10-07",
+      "last_updated": "2026-10-07",
+      "folder": "2026-10-07"
+    },
+    "2610.08098": {
+      "version": "v1",
+      "title": "Surviving the Router: Optimizing Skill Injections for Retrieval and Execution",
+      "first_seen": "2026-10-07",
+      "last_updated": "2026-10-07",
+      "folder": "2026-10-07"
+    },
+    "2610.08544": {
+      "version": "v1",
+      "title": "How High Is 0.6? Floors, Ceilings, and Headroom in Interpretability Probing",
+      "first_seen": "2026-10-07",
+      "last_updated": "2026-10-07",
+      "folder": "2026-10-07"
+    },
+    "2610.08577": {
+      "version": "v1",
+      "title": "How Learning Governs Unlearning across the Memorization-Generalization Spectrum",
+      "first_seen": "2026-10-07",
+      "last_updated": "2026-10-07",
+      "folder": "2026-10-07"
+    },
+    "2610.07774": {
+      "version": "v1",
+      "title": "Reading, Not Manipulating: Leveraging Router Logits for Multimodal Safety in MoE Vision-Language Models",
+      "first_seen": "2026-10-07",
+      "last_updated": "2026-10-07",
+      "folder": "2026-10-07"
+    },
+    "2610.07722": {
+      "version": "v1",
+      "title": "Does Steering Break Your Model? A Multi-Dimensional Evaluation Suite for LLM Steering Methods",
+      "first_seen": "2026-10-07",
+      "last_updated": "2026-10-07",
+      "folder": "2026-10-07"
+    },
+    "2610.07753": {
+      "version": "v1",
+      "title": "From Evidence to Action: How Tool-Using Agents Fail",
+      "first_seen": "2026-10-07",
+      "last_updated": "2026-10-07",
+      "folder": "2026-10-07"
+    },
+    "2610.08097": {
+      "version": "v1",
+      "title": "When Tools Lie: Reliability of Mathematical Agents Under Corrupted Tool Feedback",
+      "first_seen": "2026-10-07",
+      "last_updated": "2026-10-07",
+      "folder": "2026-10-07"
     }
   }
 }
