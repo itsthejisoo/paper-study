@@ -9493,6 +9493,48 @@
       "first_seen": "2026-10-11",
       "last_updated": "2026-10-11",
       "folder": "2026-10-11"
+    },
+    "2610.11169": {
+      "version": "v1",
+      "title": "Skill Constellations: Tracing the Supply Chain of Agent Skills on GitHub",
+      "first_seen": "2026-10-12",
+      "last_updated": "2026-10-12",
+      "folder": "2026-10-12"
+    },
+    "2610.06406": {
+      "version": "v1",
+      "title": "What Did the Agent Actually Do? Evidence-Grounded Oversight for Long-Horizon Agents",
+      "first_seen": "2026-10-12",
+      "last_updated": "2026-10-12",
+      "folder": "2026-10-12"
+    },
+    "2609.34344": {
+      "version": "v1",
+      "title": "Learning to Steer, Steering to See: Unveiling the Geometry of RLVR in Large Language Models via Trainable Vectors",
+      "first_seen": "2026-10-12",
+      "last_updated": "2026-10-12",
+      "folder": "2026-10-12"
+    },
+    "2610.06401": {
+      "version": "v2",
+      "title": "RAISED: Self-Distillation for Robustness to Prompt Injection in LLM Agents",
+      "first_seen": "2026-10-12",
+      "last_updated": "2026-10-12",
+      "folder": "2026-10-12"
+    },
+    "2610.12137": {
+      "version": "v1",
+      "title": "Poster: A Preliminary Study of LLM Distillation Inference",
+      "first_seen": "2026-10-12",
+      "last_updated": "2026-10-12",
+      "folder": "2026-10-12"
+    },
+    "2610.12106": {
+      "version": "v1",
+      "title": "Could LLM Watermark Detection be Public?",
+      "first_seen": "2026-10-12",
+      "last_updated": "2026-10-12",
+      "folder": "2026-10-12"
     }
   }
 }
