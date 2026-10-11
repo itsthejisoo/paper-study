@@ -9423,6 +9423,76 @@
       "first_seen": "2026-10-07",
       "last_updated": "2026-10-07",
       "folder": "2026-10-07"
+    },
+    "2610.12445": {
+      "version": "v1",
+      "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+      "first_seen": "2026-10-11",
+      "last_updated": "2026-10-11",
+      "folder": "2026-10-11"
+    },
+    "2610.12292": {
+      "version": "v1",
+      "title": "One Word Opens the Gate: The Option-Channel Attack on Typed Decision Models as Agent Guardrails",
+      "first_seen": "2026-10-11",
+      "last_updated": "2026-10-11",
+      "folder": "2026-10-11"
+    },
+    "2610.11634": {
+      "version": "v1",
+      "title": "LTBD: Learnable Trust-Boundary Delimiters for Prompt Injection Defense",
+      "first_seen": "2026-10-11",
+      "last_updated": "2026-10-11",
+      "folder": "2026-10-11"
+    },
+    "2610.12410": {
+      "version": "v1",
+      "title": "Predicting Alignment Generalization with Value Representations",
+      "first_seen": "2026-10-11",
+      "last_updated": "2026-10-11",
+      "folder": "2026-10-11"
+    },
+    "2610.12375": {
+      "version": "v1",
+      "title": "OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport",
+      "first_seen": "2026-10-11",
+      "last_updated": "2026-10-11",
+      "folder": "2026-10-11"
+    },
+    "2610.12233": {
+      "version": "v1",
+      "title": "ReSI: Recursive Safety Improvement toward Resistant and Resilient AI",
+      "first_seen": "2026-10-11",
+      "last_updated": "2026-10-11",
+      "folder": "2026-10-11"
+    },
+    "2610.12463": {
+      "version": "v1",
+      "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+      "first_seen": "2026-10-11",
+      "last_updated": "2026-10-11",
+      "folder": "2026-10-11"
+    },
+    "2610.12409": {
+      "version": "v1",
+      "title": "Searching for \"Harmful Refusal\": A Psychometric Audit of an AI Safety Benchmark",
+      "first_seen": "2026-10-11",
+      "last_updated": "2026-10-11",
+      "folder": "2026-10-11"
+    },
+    "2610.11915": {
+      "version": "v1",
+      "title": "Not Every Change Is Necessary: Recoverable Drift in Large Language Model Unlearning",
+      "first_seen": "2026-10-11",
+      "last_updated": "2026-10-11",
+      "folder": "2026-10-11"
+    },
+    "2610.11628": {
+      "version": "v1",
+      "title": "Minimax Gaussian Mechanisms for Continual Machine Unlearning",
+      "first_seen": "2026-10-11",
+      "last_updated": "2026-10-11",
+      "folder": "2026-10-11"
     }
   }
 }
