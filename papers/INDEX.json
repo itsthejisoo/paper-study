@@ -9535,6 +9535,76 @@
       "first_seen": "2026-10-12",
       "last_updated": "2026-10-12",
       "folder": "2026-10-12"
+    },
+    "2610.13928": {
+      "version": "v1",
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "first_seen": "2026-10-13",
+      "last_updated": "2026-10-13",
+      "folder": "2026-10-13"
+    },
+    "2610.13886": {
+      "version": "v1",
+      "title": "X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems",
+      "first_seen": "2026-10-13",
+      "last_updated": "2026-10-13",
+      "folder": "2026-10-13"
+    },
+    "2610.13651": {
+      "version": "v1",
+      "title": "ToFu: Exploiting and Fuzzing the LLM-Orchestrator-Tool Trust Boundary",
+      "first_seen": "2026-10-13",
+      "last_updated": "2026-10-13",
+      "folder": "2026-10-13"
+    },
+    "2610.13623": {
+      "version": "v1",
+      "title": "APEX-Harm: Evaluating Agent Safety in Shared Professional Workspaces",
+      "first_seen": "2026-10-13",
+      "last_updated": "2026-10-13",
+      "folder": "2026-10-13"
+    },
+    "2610.13311": {
+      "version": "v1",
+      "title": "Quantization-Tolerant Gradient Auditing for Active Inference-Attack Detection in Federated Learning",
+      "first_seen": "2026-10-13",
+      "last_updated": "2026-10-13",
+      "folder": "2026-10-13"
+    },
+    "2610.13227": {
+      "version": "v1",
+      "title": "Understanding and Mitigating Cross-Session Attacks via Persistent Artifacts in Agent Skill Composition",
+      "first_seen": "2026-10-13",
+      "last_updated": "2026-10-13",
+      "folder": "2026-10-13"
+    },
+    "2610.13083": {
+      "version": "v1",
+      "title": "The Limits of Query Monitoring against Distributed Model Extraction",
+      "first_seen": "2026-10-13",
+      "last_updated": "2026-10-13",
+      "folder": "2026-10-13"
+    },
+    "2610.13051": {
+      "version": "v1",
+      "title": "Space Over Statistic, Retraining Over Ranking: Auditing Training Labels Under Label-Only Backdoors",
+      "first_seen": "2026-10-13",
+      "last_updated": "2026-10-13",
+      "folder": "2026-10-13"
+    },
+    "2610.12712": {
+      "version": "v1",
+      "title": "Better Batches, Better Privacy: Random Allocation for DP-BandMF",
+      "first_seen": "2026-10-13",
+      "last_updated": "2026-10-13",
+      "folder": "2026-10-13"
+    },
+    "2610.12644": {
+      "version": "v1",
+      "title": "Cancerous Backdoor Attack: Gradual Activation via Invisible Tokens and A Stage Controller",
+      "first_seen": "2026-10-13",
+      "last_updated": "2026-10-13",
+      "folder": "2026-10-13"
     }
   }
 }
