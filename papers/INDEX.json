@@ -9605,6 +9605,76 @@
       "first_seen": "2026-10-13",
       "last_updated": "2026-10-13",
       "folder": "2026-10-13"
+    },
+    "2610.05637": {
+      "version": "v1",
+      "title": "Visual Grounding Safety in Vision-Language Models",
+      "first_seen": "2026-10-14",
+      "last_updated": "2026-10-14",
+      "folder": "2026-10-14"
+    },
+    "2610.13895": {
+      "version": "v1",
+      "title": "Task Context Shapes Component Roles in Language Models",
+      "first_seen": "2026-10-14",
+      "last_updated": "2026-10-14",
+      "folder": "2026-10-14"
+    },
+    "2610.13372": {
+      "version": "v1",
+      "title": "Towards Safe World Models: Risks, Defenses, and Evaluation",
+      "first_seen": "2026-10-14",
+      "last_updated": "2026-10-14",
+      "folder": "2026-10-14"
+    },
+    "2610.12893": {
+      "version": "v1",
+      "title": "Vulnerable Models in the AI Supply Chain: An Empirical Study of Adoption, Propagation, and Usage Patterns",
+      "first_seen": "2026-10-14",
+      "last_updated": "2026-10-14",
+      "folder": "2026-10-14"
+    },
+    "2610.12822": {
+      "version": "v1",
+      "title": "Reward Hacking as a Transmissible Strategy in Multi-Agent Coding Systems",
+      "first_seen": "2026-10-14",
+      "last_updated": "2026-10-14",
+      "folder": "2026-10-14"
+    },
+    "2610.12813": {
+      "version": "v1",
+      "title": "VEPA: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails",
+      "first_seen": "2026-10-14",
+      "last_updated": "2026-10-14",
+      "folder": "2026-10-14"
+    },
+    "2610.12711": {
+      "version": "v1",
+      "title": "Byzantine-Resilient Federated Large Language Model via Hypergraph Message Passing",
+      "first_seen": "2026-10-14",
+      "last_updated": "2026-10-14",
+      "folder": "2026-10-14"
+    },
+    "2610.12524": {
+      "version": "v1",
+      "title": "An Exploration of Attacks on AI Agent Systems",
+      "first_seen": "2026-10-14",
+      "last_updated": "2026-10-14",
+      "folder": "2026-10-14"
+    },
+    "2610.11932": {
+      "version": "v1",
+      "title": "From Public Posts to AI-Search Citations: Measuring the Fragility of AI Search",
+      "first_seen": "2026-10-14",
+      "last_updated": "2026-10-14",
+      "folder": "2026-10-14"
+    },
+    "2610.11893": {
+      "version": "v1",
+      "title": "A Security Meta-Model for Retrieval-Augmented Generation Systems",
+      "first_seen": "2026-10-14",
+      "last_updated": "2026-10-14",
+      "folder": "2026-10-14"
     }
   }
 }
