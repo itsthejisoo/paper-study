@@ -9675,6 +9675,76 @@
       "first_seen": "2026-10-14",
       "last_updated": "2026-10-14",
       "folder": "2026-10-14"
+    },
+    "2610.18206": {
+      "version": "v1",
+      "title": "SWE-MISBEHAVIOR: Benchmarking and Mitigating Boundary Violations in Software Coding Agents",
+      "first_seen": "2026-10-15",
+      "last_updated": "2026-10-15",
+      "folder": "2026-10-15"
+    },
+    "2609.38847": {
+      "version": "v1",
+      "title": "Scoring Higher, Answering Worse: Mitigating Reward Hacking in Rubric-Based RL via Protocol-Level Rubrics",
+      "first_seen": "2026-10-15",
+      "last_updated": "2026-10-15",
+      "folder": "2026-10-15"
+    },
+    "2610.14766": {
+      "version": "v1",
+      "title": "Last Secure Code Benchmark: Is the Code You Vibe Secure?",
+      "first_seen": "2026-10-15",
+      "last_updated": "2026-10-15",
+      "folder": "2026-10-15"
+    },
+    "2610.14091": {
+      "version": "v1",
+      "title": "Pristine Models",
+      "first_seen": "2026-10-15",
+      "last_updated": "2026-10-15",
+      "folder": "2026-10-15"
+    },
+    "2610.18674": {
+      "version": "v1",
+      "title": "From Relation-Specific Heads to Shared Interventions: Contextual Entrainment in Language Models",
+      "first_seen": "2026-10-15",
+      "last_updated": "2026-10-15",
+      "folder": "2026-10-15"
+    },
+    "2610.18612": {
+      "version": "v1",
+      "title": "Nudge the Judge: Uncovering Program Decision Hijacking in Real-World Jev Applications",
+      "first_seen": "2026-10-15",
+      "last_updated": "2026-10-15",
+      "folder": "2026-10-15"
+    },
+    "2610.18609": {
+      "version": "v1",
+      "title": "DPOison-VL: Clean Preference Poisoning in Vision-Language Direct Preference Optimization",
+      "first_seen": "2026-10-15",
+      "last_updated": "2026-10-15",
+      "folder": "2026-10-15"
+    },
+    "2610.18508": {
+      "version": "v1",
+      "title": "Towards Safe Autonomy for Computer Use",
+      "first_seen": "2026-10-15",
+      "last_updated": "2026-10-15",
+      "folder": "2026-10-15"
+    },
+    "2610.18457": {
+      "version": "v1",
+      "title": "Kairos: Transactional Security Enforcement at the System Boundary for LLM Agents",
+      "first_seen": "2026-10-15",
+      "last_updated": "2026-10-15",
+      "folder": "2026-10-15"
+    },
+    "2610.18430": {
+      "version": "v1",
+      "title": "FedGraph: Defending Federated Large Language Model Fine-Tuning Against Backdoor Attacks via Graph-Based Aggregation",
+      "first_seen": "2026-10-15",
+      "last_updated": "2026-10-15",
+      "folder": "2026-10-15"
     }
   }
 }
