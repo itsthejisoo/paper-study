@@ -9745,6 +9745,76 @@
       "first_seen": "2026-10-15",
       "last_updated": "2026-10-15",
       "folder": "2026-10-15"
+    },
+    "2610.19525": {
+      "version": "v1",
+      "title": "Diagnosing and Correcting Reward Hacking in Verifiable Instruction Following",
+      "first_seen": "2026-10-16",
+      "last_updated": "2026-10-16",
+      "folder": "2026-10-16"
+    },
+    "2610.19118": {
+      "version": "v1",
+      "title": "DecisionRobust: Benchmarking Robustness for JEV Style Decision Models Across Text and Vision",
+      "first_seen": "2026-10-16",
+      "last_updated": "2026-10-16",
+      "folder": "2026-10-16"
+    },
+    "2610.14270": {
+      "version": "v1",
+      "title": "The Thinking Leakage in Reinforcement Learning for LLMs",
+      "first_seen": "2026-10-16",
+      "last_updated": "2026-10-16",
+      "folder": "2026-10-16"
+    },
+    "2610.15725": {
+      "version": "v2",
+      "title": "SkillMarker: A KGW-Based Watermarking Method for Agent Skill Ownership Verification",
+      "first_seen": "2026-10-16",
+      "last_updated": "2026-10-16",
+      "folder": "2026-10-16"
+    },
+    "2610.19384": {
+      "version": "v1",
+      "title": "MMA-SafetyBench: A Benchmark for Multimodal Agent Safety Evaluation",
+      "first_seen": "2026-10-16",
+      "last_updated": "2026-10-16",
+      "folder": "2026-10-16"
+    },
+    "2610.19947": {
+      "version": "v1",
+      "title": "Quiet Triggers, Loud Footprints: A Tri-Space Measurement Study of Backdoor Stealthiness",
+      "first_seen": "2026-10-16",
+      "last_updated": "2026-10-16",
+      "folder": "2026-10-16"
+    },
+    "2610.19158": {
+      "version": "v1",
+      "title": "AgentCIScope: Grounded Contextual Integrity Evaluation for LLM Agents",
+      "first_seen": "2026-10-16",
+      "last_updated": "2026-10-16",
+      "folder": "2026-10-16"
+    },
+    "2610.20049": {
+      "version": "v1",
+      "title": "CoRedSkill: Stealthy Skill Composition Attacks via AST-Guided Injection",
+      "first_seen": "2026-10-16",
+      "last_updated": "2026-10-16",
+      "folder": "2026-10-16"
+    },
+    "2610.19971": {
+      "version": "v1",
+      "title": "Diagnose Before You Refine: Multi-Dimensional Judge Feedback for Query-Efficient Jailbreak Attacks",
+      "first_seen": "2026-10-16",
+      "last_updated": "2026-10-16",
+      "folder": "2026-10-16"
+    },
+    "2610.19498": {
+      "version": "v1",
+      "title": "What You Sign Is Not What You Run: The Verifiability Gap in Quantized LLM Supply Chains",
+      "first_seen": "2026-10-16",
+      "last_updated": "2026-10-16",
+      "folder": "2026-10-16"
     }
   }
 }
