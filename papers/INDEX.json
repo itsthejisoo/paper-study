@@ -9815,6 +9815,76 @@
       "first_seen": "2026-10-16",
       "last_updated": "2026-10-16",
       "folder": "2026-10-16"
+    },
+    "2610.22280": {
+      "version": "v1",
+      "title": "LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents",
+      "first_seen": "2026-10-17",
+      "last_updated": "2026-10-17",
+      "folder": "2026-10-17"
+    },
+    "2610.21261": {
+      "version": "v1",
+      "title": "Behavioral Compositionality of Sparse Autoencoder Representations",
+      "first_seen": "2026-10-17",
+      "last_updated": "2026-10-17",
+      "folder": "2026-10-17"
+    },
+    "2610.21025": {
+      "version": "v1",
+      "title": "Learning to Read Out: Unembedding Dynamics in Language Model Pretraining",
+      "first_seen": "2026-10-17",
+      "last_updated": "2026-10-17",
+      "folder": "2026-10-17"
+    },
+    "2610.22127": {
+      "version": "v1",
+      "title": "Explaining the Roles of Experts in Mixture-of-Experts LLMs for Personalization",
+      "first_seen": "2026-10-17",
+      "last_updated": "2026-10-17",
+      "folder": "2026-10-17"
+    },
+    "2610.22244": {
+      "version": "v1",
+      "title": "Language Is a Security Surface for Agent Guards",
+      "first_seen": "2026-10-17",
+      "last_updated": "2026-10-17",
+      "folder": "2026-10-17"
+    },
+    "2610.22243": {
+      "version": "v1",
+      "title": "Shortcut Sensitivity in Agent-Safety Evaluations",
+      "first_seen": "2026-10-17",
+      "last_updated": "2026-10-17",
+      "folder": "2026-10-17"
+    },
+    "2610.22301": {
+      "version": "v1",
+      "title": "My Credentials, Please: Detecting Filesystem Capability Laundering in MCP Servers at Scale",
+      "first_seen": "2026-10-17",
+      "last_updated": "2026-10-17",
+      "folder": "2026-10-17"
+    },
+    "2610.22068": {
+      "version": "v1",
+      "title": "When Reasoning Is Not Enough: Proactive Inquiry for Cross-Modal Safety in Multimodal Large Language Models",
+      "first_seen": "2026-10-17",
+      "last_updated": "2026-10-17",
+      "folder": "2026-10-17"
+    },
+    "2610.21565": {
+      "version": "v1",
+      "title": "BiShield-TEE: On the (In-)Security of Unilateral Weight Obfuscation in On-Device TEE-Shielded LLM Partition",
+      "first_seen": "2026-10-17",
+      "last_updated": "2026-10-17",
+      "folder": "2026-10-17"
+    },
+    "2610.21208": {
+      "version": "v1",
+      "title": "Clean Data Can Still Carry Backdoors: Support-Persistent Backdoors for Model Reuse",
+      "first_seen": "2026-10-17",
+      "last_updated": "2026-10-17",
+      "folder": "2026-10-17"
     }
   }
 }
