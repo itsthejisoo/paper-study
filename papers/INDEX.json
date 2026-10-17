@@ -9885,6 +9885,76 @@
       "first_seen": "2026-10-17",
       "last_updated": "2026-10-17",
       "folder": "2026-10-17"
+    },
+    "2610.15924": {
+      "version": "v1",
+      "title": "Scalable Weak-to-Strong Verifier Hardening for Agent Environments",
+      "first_seen": "2026-10-18",
+      "last_updated": "2026-10-18",
+      "folder": "2026-10-18"
+    },
+    "2610.22297": {
+      "version": "v1",
+      "title": "Private Retrieval Augmented Generation via Random Projection",
+      "first_seen": "2026-10-18",
+      "last_updated": "2026-10-18",
+      "folder": "2026-10-18"
+    },
+    "2610.21713": {
+      "version": "v1",
+      "title": "Encoded but Exposed: Language Embeddings can Reveal More Than They Should in Recommender Systems",
+      "first_seen": "2026-10-18",
+      "last_updated": "2026-10-18",
+      "folder": "2026-10-18"
+    },
+    "2610.21464": {
+      "version": "v1",
+      "title": "Poisoning the Neighborhood: A Topology-Aware Topic-Level Attack on Large-Scale HNSW-based RAG Systems",
+      "first_seen": "2026-10-18",
+      "last_updated": "2026-10-18",
+      "folder": "2026-10-18"
+    },
+    "2610.21458": {
+      "version": "v1",
+      "title": "What Survives Self-Evolution: Provenance Marks in Copied Agent Harnesses",
+      "first_seen": "2026-10-18",
+      "last_updated": "2026-10-18",
+      "folder": "2026-10-18"
+    },
+    "2610.21245": {
+      "version": "v1",
+      "title": "From One Query to Many: A Critical Survey of Privacy Accounting in RAG",
+      "first_seen": "2026-10-18",
+      "last_updated": "2026-10-18",
+      "folder": "2026-10-18"
+    },
+    "2610.21194": {
+      "version": "v1",
+      "title": "FedSumUp: User-Auditable Privacy-Aware Representation Sharing for Resource-Constrained Federated Intelligence",
+      "first_seen": "2026-10-18",
+      "last_updated": "2026-10-18",
+      "folder": "2026-10-18"
+    },
+    "2610.20776": {
+      "version": "v1",
+      "title": "INFUSE: A Unified Surface Benchmark for Indirect Prompt Injection in Agentic Systems",
+      "first_seen": "2026-10-18",
+      "last_updated": "2026-10-18",
+      "folder": "2026-10-18"
+    },
+    "2610.20941": {
+      "version": "v1",
+      "title": "Screwtape: Adversarial Transcript Editing for Monitor Red-Teaming",
+      "first_seen": "2026-10-18",
+      "last_updated": "2026-10-18",
+      "folder": "2026-10-18"
+    },
+    "2610.21333": {
+      "version": "v1",
+      "title": "QuasiLeak-Bench: Evaluating LLM-Based Privacy Detectors on Policy-Conditioned Quasi-Evidence Group Recovery",
+      "first_seen": "2026-10-18",
+      "last_updated": "2026-10-18",
+      "folder": "2026-10-18"
     }
   }
 }
