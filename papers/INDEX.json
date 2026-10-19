@@ -9955,6 +9955,76 @@
       "first_seen": "2026-10-18",
       "last_updated": "2026-10-18",
       "folder": "2026-10-18"
+    },
+    "2610.22697": {
+      "version": "v1",
+      "title": "What It Is, Not What It Says: Securing Agentic Browsing Interactions with Web Semantics",
+      "first_seen": "2026-10-20",
+      "last_updated": "2026-10-20",
+      "folder": "2026-10-20"
+    },
+    "2610.22169": {
+      "version": "v1",
+      "title": "Lexical Reference Frames: Interpreting LM Residual Streams in Native Semantics",
+      "first_seen": "2026-10-20",
+      "last_updated": "2026-10-20",
+      "folder": "2026-10-20"
+    },
+    "2610.21189": {
+      "version": "v1",
+      "title": "Resisting Harmful Instructions through Training-Free Weight Editing",
+      "first_seen": "2026-10-20",
+      "last_updated": "2026-10-20",
+      "folder": "2026-10-20"
+    },
+    "2610.19636": {
+      "version": "v1",
+      "title": "Sparse Autoencoders Are a Shared Coordinate System for Symbolic Matching",
+      "first_seen": "2026-10-20",
+      "last_updated": "2026-10-20",
+      "folder": "2026-10-20"
+    },
+    "2610.23801": {
+      "version": "v1",
+      "title": "Beyond SAEs: Consistent Concept Discovery with Sparse Coding",
+      "first_seen": "2026-10-20",
+      "last_updated": "2026-10-20",
+      "folder": "2026-10-20"
+    },
+    "2610.23668": {
+      "version": "v1",
+      "title": "TUPLE-Bench: Evaluating and Mitigating Privacy-Utility Trade-offs in Typed Decision Models",
+      "first_seen": "2026-10-20",
+      "last_updated": "2026-10-20",
+      "folder": "2026-10-20"
+    },
+    "2610.23307": {
+      "version": "v1",
+      "title": "MobileInject: Evaluating Reasoning-to-Action Security of MLLM-Based Mobile Agents under Cross-Modal Consistency Injection",
+      "first_seen": "2026-10-20",
+      "last_updated": "2026-10-20",
+      "folder": "2026-10-20"
+    },
+    "2610.23303": {
+      "version": "v1",
+      "title": "MobileJailBench: Red Queen Jailbreak Benchmarking for Mobile Agents",
+      "first_seen": "2026-10-20",
+      "last_updated": "2026-10-20",
+      "folder": "2026-10-20"
+    },
+    "2610.23109": {
+      "version": "v1",
+      "title": "Trojan Horse: Automated Repository Poisoning against Coding Agents",
+      "first_seen": "2026-10-20",
+      "last_updated": "2026-10-20",
+      "folder": "2026-10-20"
+    },
+    "2610.23077": {
+      "version": "v1",
+      "title": "When Approval Becomes Execution: Authorization-Grounded Workflow Attacks on Tool-Using Agents",
+      "first_seen": "2026-10-20",
+      "last_updated": "2026-10-20",
+      "folder": "2026-10-20"
     }
   }
 }
