@@ -10025,6 +10025,76 @@
       "first_seen": "2026-10-20",
       "last_updated": "2026-10-20",
       "folder": "2026-10-20"
+    },
+    "2610.25060": {
+      "version": "v1",
+      "title": "Policy Is Not Capability: Some Safety Benchmarks Measure Which Definition of \"Unsafe\" You Trained On",
+      "first_seen": "2026-10-21",
+      "last_updated": "2026-10-21",
+      "folder": "2026-10-21"
+    },
+    "2610.19005": {
+      "version": "v2",
+      "title": "CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat",
+      "first_seen": "2026-10-21",
+      "last_updated": "2026-10-21",
+      "folder": "2026-10-21"
+    },
+    "2610.22636": {
+      "version": "v1",
+      "title": "Measuring Mechanistic Uncertainty in Large Language Models via Causal Robustness",
+      "first_seen": "2026-10-21",
+      "last_updated": "2026-10-21",
+      "folder": "2026-10-21"
+    },
+    "2610.19264": {
+      "version": "v1",
+      "title": "Beyond Maliciousness: Static and Runtime Attack-Surface Profiling of Agent Skills",
+      "first_seen": "2026-10-21",
+      "last_updated": "2026-10-21",
+      "folder": "2026-10-21"
+    },
+    "2610.09496": {
+      "version": "v1",
+      "title": "Sparse Feature Policy Unlearning Mitigates State Hallucination in Vision-Language-Action Models",
+      "first_seen": "2026-10-21",
+      "last_updated": "2026-10-21",
+      "folder": "2026-10-21"
+    },
+    "2606.31876": {
+      "version": "v3",
+      "title": "Harnessing Textual Refusal Directions for Multimodal Safety",
+      "first_seen": "2026-10-21",
+      "last_updated": "2026-10-21",
+      "folder": "2026-10-21"
+    },
+    "2610.26799": {
+      "version": "v1",
+      "title": "Accountable partial understanding: securing the epistemic attack surface of agentic systems",
+      "first_seen": "2026-10-21",
+      "last_updated": "2026-10-21",
+      "folder": "2026-10-21"
+    },
+    "2610.26589": {
+      "version": "v1",
+      "title": "Beyond Attack Success Rate: Cost-Aware Metric for Evaluating Iterative LLM Jailbreaks",
+      "first_seen": "2026-10-21",
+      "last_updated": "2026-10-21",
+      "folder": "2026-10-21"
+    },
+    "2610.26501": {
+      "version": "v1",
+      "title": "Connection Escrow: Holding AI-Agent Pod Egress in the Kernel Until an Isolated Verifier Rules",
+      "first_seen": "2026-10-21",
+      "last_updated": "2026-10-21",
+      "folder": "2026-10-21"
+    },
+    "2610.26489": {
+      "version": "v1",
+      "title": "Strength Controls Change How Interventions Compare Across Sparse Autoencoder Codes",
+      "first_seen": "2026-10-21",
+      "last_updated": "2026-10-21",
+      "folder": "2026-10-21"
     }
   }
 }
