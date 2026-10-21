@@ -10095,6 +10095,76 @@
       "first_seen": "2026-10-21",
       "last_updated": "2026-10-21",
       "folder": "2026-10-21"
+    },
+    "2603.19233": {
+      "version": "v4",
+      "title": "Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models",
+      "first_seen": "2026-10-22",
+      "last_updated": "2026-10-22",
+      "folder": "2026-10-22"
+    },
+    "2610.28397": {
+      "version": "v1",
+      "title": "MAS-Guard: Unified Guardrails from Individual Agents to Multi-Agent LLM Systems",
+      "first_seen": "2026-10-22",
+      "last_updated": "2026-10-22",
+      "folder": "2026-10-22"
+    },
+    "2610.28425": {
+      "version": "v1",
+      "title": "After the Attacker Leaves: Benchmarking Carryover Attacks on LLM Agents",
+      "first_seen": "2026-10-22",
+      "last_updated": "2026-10-22",
+      "folder": "2026-10-22"
+    },
+    "2610.27533": {
+      "version": "v1",
+      "title": "Adversarial Benchmarks and BenchDoor Attacks: Exploiting Benchmark Incentives for Backdoor Attacks",
+      "first_seen": "2026-10-22",
+      "last_updated": "2026-10-22",
+      "folder": "2026-10-22"
+    },
+    "2610.28364": {
+      "version": "v1",
+      "title": "Context-Aware Prompt Injection Detection via Small Language Models in RAG Pipelines: nokast-secureRAG",
+      "first_seen": "2026-10-22",
+      "last_updated": "2026-10-22",
+      "folder": "2026-10-22"
+    },
+    "2610.28315": {
+      "version": "v1",
+      "title": "Disclosure Begets Disclosure: A Self-Reinforcing Privacy Loop in LLM Agents with Persistent Memory",
+      "first_seen": "2026-10-22",
+      "last_updated": "2026-10-22",
+      "folder": "2026-10-22"
+    },
+    "2610.28093": {
+      "version": "v1",
+      "title": "ClawMMU: Protection-Coherent Virtual Memory for Stateful LLM Agents",
+      "first_seen": "2026-10-22",
+      "last_updated": "2026-10-22",
+      "folder": "2026-10-22"
+    },
+    "2610.28067": {
+      "version": "v1",
+      "title": "Contextual Candour: Role-Aware Graduated Disclosure for LLMs over Mixed-Sensitivity Contexts",
+      "first_seen": "2026-10-22",
+      "last_updated": "2026-10-22",
+      "folder": "2026-10-22"
+    },
+    "2610.27908": {
+      "version": "v1",
+      "title": "Polarity Blindness in LLM Safety: A Systematic Study of Negation, Antonym Substitution, and Adversarial Framing",
+      "first_seen": "2026-10-22",
+      "last_updated": "2026-10-22",
+      "folder": "2026-10-22"
+    },
+    "2610.27817": {
+      "version": "v1",
+      "title": "Privacy-preserving inference on hosted models: a learned input-embedding transform for frozen Qwen3.8-27B",
+      "first_seen": "2026-10-22",
+      "last_updated": "2026-10-22",
+      "folder": "2026-10-22"
     }
   }
 }
