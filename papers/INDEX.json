@@ -10165,6 +10165,76 @@
       "first_seen": "2026-10-22",
       "last_updated": "2026-10-22",
       "folder": "2026-10-22"
+    },
+    "2610.28905": {
+      "version": "v1",
+      "title": "Hidden Messages Between Diffusion Language Model Agents: Causal Evidence for Latent Communication",
+      "first_seen": "2026-10-23",
+      "last_updated": "2026-10-23",
+      "folder": "2026-10-23"
+    },
+    "2610.22659": {
+      "version": "v1",
+      "title": "Exploring The Empirical Privacy Landscape of Synthetic Data",
+      "first_seen": "2026-10-23",
+      "last_updated": "2026-10-23",
+      "folder": "2026-10-23"
+    },
+    "2610.30099": {
+      "version": "v1",
+      "title": "Differentially Private Sparse Reward Estimation with Preference Feedback",
+      "first_seen": "2026-10-23",
+      "last_updated": "2026-10-23",
+      "folder": "2026-10-23"
+    },
+    "2610.30018": {
+      "version": "v1",
+      "title": "ExGrad: Beyond Suppression - Explicit Clean-Gradient Subtraction in Adversarial Training",
+      "first_seen": "2026-10-23",
+      "last_updated": "2026-10-23",
+      "folder": "2026-10-23"
+    },
+    "2610.30006": {
+      "version": "v1",
+      "title": "Building Auditable AI Text Detectors with Sparse Autoencoders",
+      "first_seen": "2026-10-23",
+      "last_updated": "2026-10-23",
+      "folder": "2026-10-23"
+    },
+    "2610.29886": {
+      "version": "v1",
+      "title": "Characterizing and Defending Utility-Hijacking in Instruction-Tuning Data Selection",
+      "first_seen": "2026-10-23",
+      "last_updated": "2026-10-23",
+      "folder": "2026-10-23"
+    },
+    "2610.29869": {
+      "version": "v1",
+      "title": "Compaction Laundering: Provenance Destruction in Context-Compacting Coding Agents",
+      "first_seen": "2026-10-23",
+      "last_updated": "2026-10-23",
+      "folder": "2026-10-23"
+    },
+    "2610.29747": {
+      "version": "v1",
+      "title": "Prompt Injection Through Forensic Evidence: A Taxonomy and Proof of Concept of Anti-Forensic Attacks on LLM-Assisted Digital Investigations",
+      "first_seen": "2026-10-23",
+      "last_updated": "2026-10-23",
+      "folder": "2026-10-23"
+    },
+    "2610.29395": {
+      "version": "v1",
+      "title": "CertMoE: Robustness Certification for Mixture-of-Experts LLMs via Routing-Aware Smoothing",
+      "first_seen": "2026-10-23",
+      "last_updated": "2026-10-23",
+      "folder": "2026-10-23"
+    },
+    "2610.29178": {
+      "version": "v1",
+      "title": "Correlated Failures of AI Approval Monitors",
+      "first_seen": "2026-10-23",
+      "last_updated": "2026-10-23",
+      "folder": "2026-10-23"
     }
   }
 }
