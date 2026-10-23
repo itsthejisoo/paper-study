@@ -10235,6 +10235,76 @@
       "first_seen": "2026-10-23",
       "last_updated": "2026-10-23",
       "folder": "2026-10-23"
+    },
+    "2610.30418": {
+      "version": "v1",
+      "title": "Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems",
+      "first_seen": "2026-10-24",
+      "last_updated": "2026-10-24",
+      "folder": "2026-10-24"
+    },
+    "2610.31372": {
+      "version": "v1",
+      "title": "RIDAR: Safeguarding Research Integrity in Autonomous Research Agents via Automated Detection and Runtime Intervention",
+      "first_seen": "2026-10-24",
+      "last_updated": "2026-10-24",
+      "folder": "2026-10-24"
+    },
+    "2610.31062": {
+      "version": "v1",
+      "title": "SCOPE: Compiling Natural-Language Policies into Neurosymbolic Predicate Programs",
+      "first_seen": "2026-10-24",
+      "last_updated": "2026-10-24",
+      "folder": "2026-10-24"
+    },
+    "2610.30882": {
+      "version": "v1",
+      "title": "Inherited, Not Invented: Tracing the Provenance of Wait in Reasoning Models",
+      "first_seen": "2026-10-24",
+      "last_updated": "2026-10-24",
+      "folder": "2026-10-24"
+    },
+    "2610.31650": {
+      "version": "v1",
+      "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
+      "first_seen": "2026-10-24",
+      "last_updated": "2026-10-24",
+      "folder": "2026-10-24"
+    },
+    "2610.31616": {
+      "version": "v1",
+      "title": "OP-Print: Tracing Membership Imprints in On-Policy Self-Distillation",
+      "first_seen": "2026-10-24",
+      "last_updated": "2026-10-24",
+      "folder": "2026-10-24"
+    },
+    "2610.31404": {
+      "version": "v1",
+      "title": "AgentPhishing: A Benchmark of LLM Email Agents Under Adaptive Attack",
+      "first_seen": "2026-10-24",
+      "last_updated": "2026-10-24",
+      "folder": "2026-10-24"
+    },
+    "2610.31366": {
+      "version": "v1",
+      "title": "AfterDeleteBench: Auditing Post-Deletion Information Persistence in LLM Agents",
+      "first_seen": "2026-10-24",
+      "last_updated": "2026-10-24",
+      "folder": "2026-10-24"
+    },
+    "2610.31246": {
+      "version": "v1",
+      "title": "Weaponizing the Exit: Input Privacy Leakage via Exit Routing Manipulation in Multi-Exit Networks",
+      "first_seen": "2026-10-24",
+      "last_updated": "2026-10-24",
+      "folder": "2026-10-24"
+    },
+    "2610.30365": {
+      "version": "v1",
+      "title": "Data-Void Exploits in Web-Searching LLMs",
+      "first_seen": "2026-10-24",
+      "last_updated": "2026-10-24",
+      "folder": "2026-10-24"
     }
   }
 }
