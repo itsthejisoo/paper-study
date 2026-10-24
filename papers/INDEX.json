@@ -10305,6 +10305,76 @@
       "first_seen": "2026-10-24",
       "last_updated": "2026-10-24",
       "folder": "2026-10-24"
+    },
+    "2610.22722": {
+      "version": "v2",
+      "title": "LLM-Attack Suite: A Unified Red-Team Framework for Privacy Evaluation of Split and Distributed LLM Systems",
+      "first_seen": "2026-10-25",
+      "last_updated": "2026-10-25",
+      "folder": "2026-10-25"
+    },
+    "2610.24048": {
+      "version": "v1",
+      "title": "The Window Is in the Reasoning: When LLM Agents Decide to Follow Prompt Injections",
+      "first_seen": "2026-10-25",
+      "last_updated": "2026-10-25",
+      "folder": "2026-10-25"
+    },
+    "2610.20907": {
+      "version": "v1",
+      "title": "From Detection to Decision: Calibration and Deferral for Prompt-Injection Detection",
+      "first_seen": "2026-10-25",
+      "last_updated": "2026-10-25",
+      "folder": "2026-10-25"
+    },
+    "2610.31612": {
+      "version": "v1",
+      "title": "Efficient and Optimal Learning of Discrete Distributions with Person-Level Privacy",
+      "first_seen": "2026-10-25",
+      "last_updated": "2026-10-25",
+      "folder": "2026-10-25"
+    },
+    "2610.31639": {
+      "version": "v1",
+      "title": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation",
+      "first_seen": "2026-10-25",
+      "last_updated": "2026-10-25",
+      "folder": "2026-10-25"
+    },
+    "2610.31624": {
+      "version": "v1",
+      "title": "Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3",
+      "first_seen": "2026-10-25",
+      "last_updated": "2026-10-25",
+      "folder": "2026-10-25"
+    },
+    "2610.31593": {
+      "version": "v1",
+      "title": "Simulated Control Evals",
+      "first_seen": "2026-10-25",
+      "last_updated": "2026-10-25",
+      "folder": "2026-10-25"
+    },
+    "2610.31520": {
+      "version": "v1",
+      "title": "The Geometry of Metaphor: Probing and Steering Metaphor Representations in Large Language Models",
+      "first_seen": "2026-10-25",
+      "last_updated": "2026-10-25",
+      "folder": "2026-10-25"
+    },
+    "2610.31388": {
+      "version": "v1",
+      "title": "Auditing the Hand-Written Inputs of Learned Access Control",
+      "first_seen": "2026-10-25",
+      "last_updated": "2026-10-25",
+      "folder": "2026-10-25"
+    },
+    "2610.31294": {
+      "version": "v1",
+      "title": "Practical Auditing of Differentially Private Graph Release Mechanisms: Methodology, Toolkit, and Case Study",
+      "first_seen": "2026-10-25",
+      "last_updated": "2026-10-25",
+      "folder": "2026-10-25"
     }
   }
 }
