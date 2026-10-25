@@ -10375,6 +10375,76 @@
       "first_seen": "2026-10-25",
       "last_updated": "2026-10-25",
       "folder": "2026-10-25"
+    },
+    "2610.23254": {
+      "version": "v1",
+      "title": "Ignored, Not Refused: What Low Prompt-Injection Success Rates Hide in Small Tool-Using Agents",
+      "first_seen": "2026-10-26",
+      "last_updated": "2026-10-26",
+      "folder": "2026-10-26"
+    },
+    "2610.15207": {
+      "version": "v2",
+      "title": "Exploring Jailbreak Vulnerability Across Depth-Based Dynamic Inference in Large Language Models",
+      "first_seen": "2026-10-26",
+      "last_updated": "2026-10-26",
+      "folder": "2026-10-26"
+    },
+    "2610.31573": {
+      "version": "v1",
+      "title": "Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure",
+      "first_seen": "2026-10-26",
+      "last_updated": "2026-10-26",
+      "folder": "2026-10-26"
+    },
+    "2610.31522": {
+      "version": "v1",
+      "title": "Beyond Causal Masks: Auditing and Localizing Hidden Future-Token Leakage in Adaptive Sequence Models",
+      "first_seen": "2026-10-26",
+      "last_updated": "2026-10-26",
+      "folder": "2026-10-26"
+    },
+    "2610.31376": {
+      "version": "v1",
+      "title": "Certified Execution Harness for Agentic AI: Safe and Least-Intrusive Petri-Net Supervisory Control Between Reasoning and Action",
+      "first_seen": "2026-10-26",
+      "last_updated": "2026-10-26",
+      "folder": "2026-10-26"
+    },
+    "2610.31000": {
+      "version": "v1",
+      "title": "SecLog-Bench: A Scalable Benchmark for Cybersecurity Log Reasoning with Scaffolded Evidence",
+      "first_seen": "2026-10-26",
+      "last_updated": "2026-10-26",
+      "folder": "2026-10-26"
+    },
+    "2610.30963": {
+      "version": "v1",
+      "title": "ReDence: A Hybrid Agentic and Decision-Model Framework for Rapid, Evidence-Grounded Detection of Modern Social Engineering Scams",
+      "first_seen": "2026-10-26",
+      "last_updated": "2026-10-26",
+      "folder": "2026-10-26"
+    },
+    "2610.30914": {
+      "version": "v1",
+      "title": "MIG-COW: Transferable Adversarial Attacks on Deepfake Detectors via Gradient Decomposition",
+      "first_seen": "2026-10-26",
+      "last_updated": "2026-10-26",
+      "folder": "2026-10-26"
+    },
+    "2610.30798": {
+      "version": "v1",
+      "title": "Amplifying Latency and Cost of LLM Inference via Rowhammer Attack",
+      "first_seen": "2026-10-26",
+      "last_updated": "2026-10-26",
+      "folder": "2026-10-26"
+    },
+    "2610.30626": {
+      "version": "v1",
+      "title": "Model-intrinsic, Weight-level, and Training-free Spectral Fingerprinting for Large Language Models",
+      "first_seen": "2026-10-26",
+      "last_updated": "2026-10-26",
+      "folder": "2026-10-26"
     }
   }
 }
