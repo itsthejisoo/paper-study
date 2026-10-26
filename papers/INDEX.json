@@ -10445,6 +10445,76 @@
       "first_seen": "2026-10-26",
       "last_updated": "2026-10-26",
       "folder": "2026-10-26"
+    },
+    "2610.31733": {
+      "version": "v1",
+      "title": "Learning to Be Monitored: Causal Bounds and Intervention-Aware Post-Training Recipes for Chain-of-Thought Monitorability",
+      "first_seen": "2026-10-27",
+      "last_updated": "2026-10-27",
+      "folder": "2026-10-27"
+    },
+    "2610.32866": {
+      "version": "v1",
+      "title": "Interpretable sparse fine-tuning with TopKLoRA enables faithful circuit discovery",
+      "first_seen": "2026-10-27",
+      "last_updated": "2026-10-27",
+      "folder": "2026-10-27"
+    },
+    "2610.32626": {
+      "version": "v1",
+      "title": "Privacy-Preserving Federated Loss Exploration for Vision-Based Perception under Non-IID Data",
+      "first_seen": "2026-10-27",
+      "last_updated": "2026-10-27",
+      "folder": "2026-10-27"
+    },
+    "2610.32531": {
+      "version": "v1",
+      "title": "On Task, Off Track: Benchmarking LLM and Agent Robustness to Near-Target Prompt Injection",
+      "first_seen": "2026-10-27",
+      "last_updated": "2026-10-27",
+      "folder": "2026-10-27"
+    },
+    "2610.32334": {
+      "version": "v1",
+      "title": "Data-Efficient Backdoor Attacks on Code Models via Trigger-Neutralized Counterfactual Scoring",
+      "first_seen": "2026-10-27",
+      "last_updated": "2026-10-27",
+      "folder": "2026-10-27"
+    },
+    "2610.32155": {
+      "version": "v1",
+      "title": "Detecting Insecure Compositions of Clean Agent Skills via Capability-Flow Graph Analysis",
+      "first_seen": "2026-10-27",
+      "last_updated": "2026-10-27",
+      "folder": "2026-10-27"
+    },
+    "2610.32092": {
+      "version": "v1",
+      "title": "AgentTrace: Execution-Level Fingerprinting of Black-Box LLM Agents",
+      "first_seen": "2026-10-27",
+      "last_updated": "2026-10-27",
+      "folder": "2026-10-27"
+    },
+    "2610.32079": {
+      "version": "v1",
+      "title": "Label-Budgeted Attribute Inference from Protected Features in Edge-Cloud Split Multimodal LLMs",
+      "first_seen": "2026-10-27",
+      "last_updated": "2026-10-27",
+      "folder": "2026-10-27"
+    },
+    "2610.32059": {
+      "version": "v1",
+      "title": "Concept Acupuncturist: An Efficient and Precise Concept Erasure Method for Diffusion Models via Sparse Autoencoders",
+      "first_seen": "2026-10-27",
+      "last_updated": "2026-10-27",
+      "folder": "2026-10-27"
+    },
+    "2610.31995": {
+      "version": "v1",
+      "title": "TRACE: Data-Free Text Reconstruction Attacks against Approximate Unlearning in LLMs",
+      "first_seen": "2026-10-27",
+      "last_updated": "2026-10-27",
+      "folder": "2026-10-27"
     }
   }
 }
