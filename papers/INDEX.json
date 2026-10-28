@@ -10585,6 +10585,76 @@
       "first_seen": "2026-10-28",
       "last_updated": "2026-10-28",
       "folder": "2026-10-28"
+    },
+    "2610.36269": {
+      "version": "v1",
+      "title": "Cross-modal Steering Vectors Exist Across Both Image and Text Generation",
+      "first_seen": "2026-10-29",
+      "last_updated": "2026-10-29",
+      "folder": "2026-10-29"
+    },
+    "2610.37657": {
+      "version": "v1",
+      "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+      "first_seen": "2026-10-29",
+      "last_updated": "2026-10-29",
+      "folder": "2026-10-29"
+    },
+    "2610.37467": {
+      "version": "v1",
+      "title": "Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms",
+      "first_seen": "2026-10-29",
+      "last_updated": "2026-10-29",
+      "folder": "2026-10-29"
+    },
+    "2610.37266": {
+      "version": "v1",
+      "title": "Watermark Basins: Black-Box Detection of Distilled LLMs",
+      "first_seen": "2026-10-29",
+      "last_updated": "2026-10-29",
+      "folder": "2026-10-29"
+    },
+    "2610.36711": {
+      "version": "v1",
+      "title": "PrivacyEvalClaw: A Tool-Augmented Deliberative Agent for Auditing Privacy Leakage in LLM Jailbreak Responses",
+      "first_seen": "2026-10-29",
+      "last_updated": "2026-10-29",
+      "folder": "2026-10-29"
+    },
+    "2610.36458": {
+      "version": "v1",
+      "title": "A Simple Presentation of Robust Membership Inference Attacks",
+      "first_seen": "2026-10-29",
+      "last_updated": "2026-10-29",
+      "folder": "2026-10-29"
+    },
+    "2610.36295": {
+      "version": "v1",
+      "title": "Detecting and Mitigating Query-Based System Prompt Leakage Attacks",
+      "first_seen": "2026-10-29",
+      "last_updated": "2026-10-29",
+      "folder": "2026-10-29"
+    },
+    "2610.36258": {
+      "version": "v1",
+      "title": "SpecGuard: Detecting Multi-Turn LLM Jailbreaks via Specification-Based Runtime Monitoring",
+      "first_seen": "2026-10-29",
+      "last_updated": "2026-10-29",
+      "folder": "2026-10-29"
+    },
+    "2610.36108": {
+      "version": "v1",
+      "title": "Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model Context Protocol",
+      "first_seen": "2026-10-29",
+      "last_updated": "2026-10-29",
+      "folder": "2026-10-29"
+    },
+    "2610.36465": {
+      "version": "v1",
+      "title": "Split Federated Unlearning",
+      "first_seen": "2026-10-29",
+      "last_updated": "2026-10-29",
+      "folder": "2026-10-29"
     }
   }
 }
