@@ -10655,6 +10655,76 @@
       "first_seen": "2026-10-29",
       "last_updated": "2026-10-29",
       "folder": "2026-10-29"
+    },
+    "2610.37481": {
+      "version": "v1",
+      "title": "Follow the Gradient: Tracing Safety Degradation Back to Training Data",
+      "first_seen": "2026-10-30",
+      "last_updated": "2026-10-30",
+      "folder": "2026-10-30"
+    },
+    "2610.37517": {
+      "version": "v1",
+      "title": "Orthogonal and Parametrized Multi-Attribute Steering of LLMs",
+      "first_seen": "2026-10-30",
+      "last_updated": "2026-10-30",
+      "folder": "2026-10-30"
+    },
+    "2610.37488": {
+      "version": "v1",
+      "title": "Revisiting Privacy Risks in Quantized Deep Neural Networks",
+      "first_seen": "2026-10-30",
+      "last_updated": "2026-10-30",
+      "folder": "2026-10-30"
+    },
+    "2610.37430": {
+      "version": "v1",
+      "title": "When Visual Evidence Is Insufficient: How Instructions, Post-Training, and Internal Activations Shape Refusal in Multimodal Language Models",
+      "first_seen": "2026-10-30",
+      "last_updated": "2026-10-30",
+      "folder": "2026-10-30"
+    },
+    "2610.37415": {
+      "version": "v1",
+      "title": "The Envelope Layer: An Underestimated Surface of LLM Agent Defense",
+      "first_seen": "2026-10-30",
+      "last_updated": "2026-10-30",
+      "folder": "2026-10-30"
+    },
+    "2610.37055": {
+      "version": "v1",
+      "title": "Blindfold: Keeping the Audit Coin Secret from LLM Agents",
+      "first_seen": "2026-10-30",
+      "last_updated": "2026-10-30",
+      "folder": "2026-10-30"
+    },
+    "2610.36422": {
+      "version": "v1",
+      "title": "What Victims Take Away: Attack Reuse and Defense Revision after Prompt-Injection Attacks",
+      "first_seen": "2026-10-30",
+      "last_updated": "2026-10-30",
+      "folder": "2026-10-30"
+    },
+    "2610.36379": {
+      "version": "v1",
+      "title": "Evaluating Federated Vision-Language and Vision-Only Models for Privacy-Aware Breast Cancer Imaging",
+      "first_seen": "2026-10-30",
+      "last_updated": "2026-10-30",
+      "folder": "2026-10-30"
+    },
+    "2610.36281": {
+      "version": "v1",
+      "title": "Privately Clipping Heavy-Tailed Data",
+      "first_seen": "2026-10-30",
+      "last_updated": "2026-10-30",
+      "folder": "2026-10-30"
+    },
+    "2610.35996": {
+      "version": "v1",
+      "title": "Pricing Cross-Bank Context in Federated Anti-Money Laundering",
+      "first_seen": "2026-10-30",
+      "last_updated": "2026-10-30",
+      "folder": "2026-10-30"
     }
   }
 }
