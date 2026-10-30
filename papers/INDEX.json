@@ -9873,10 +9873,10 @@
       "folder": "2026-10-17"
     },
     "2610.21565": {
-      "version": "v1",
+      "version": "v3",
       "title": "BiShield-TEE: On the (In-)Security of Unilateral Weight Obfuscation in On-Device TEE-Shielded LLM Partition",
       "first_seen": "2026-10-17",
-      "last_updated": "2026-10-17",
+      "last_updated": "2026-10-31",
       "folder": "2026-10-17"
     },
     "2610.21208": {
@@ -10725,6 +10725,69 @@
       "first_seen": "2026-10-30",
       "last_updated": "2026-10-30",
       "folder": "2026-10-30"
+    },
+    "2610.32411": {
+      "version": "v1",
+      "title": "A Broader Look into MLLM's Retrieval Heads",
+      "first_seen": "2026-10-31",
+      "last_updated": "2026-10-31",
+      "folder": "2026-10-31"
+    },
+    "2610.37741": {
+      "version": "v1",
+      "title": "Agentic Backdoors via Pretraining Poisoning",
+      "first_seen": "2026-10-31",
+      "last_updated": "2026-10-31",
+      "folder": "2026-10-31"
+    },
+    "2610.40627": {
+      "version": "v1",
+      "title": "ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
+      "first_seen": "2026-10-31",
+      "last_updated": "2026-10-31",
+      "folder": "2026-10-31"
+    },
+    "2610.40396": {
+      "version": "v1",
+      "title": "Understanding and Mitigating Role Spoofing in LLMs",
+      "first_seen": "2026-10-31",
+      "last_updated": "2026-10-31",
+      "folder": "2026-10-31"
+    },
+    "2610.37901": {
+      "version": "v1",
+      "title": "Scan Before You Install: Detecting and Mitigating Local and Composite Vulnerabilities in Skills",
+      "first_seen": "2026-10-31",
+      "last_updated": "2026-10-31",
+      "folder": "2026-10-31"
+    },
+    "2610.38126": {
+      "version": "v1",
+      "title": "Answer-Only Disclosure: Private-Context LLM Assistance over Web APIs with a Leakage Ledger",
+      "first_seen": "2026-10-31",
+      "last_updated": "2026-10-31",
+      "folder": "2026-10-31"
+    },
+    "2610.38110": {
+      "version": "v1",
+      "title": "SPARSEBLEED: Bypassing Attribute-Inference Defenses via Sparsity Optimizations",
+      "first_seen": "2026-10-31",
+      "last_updated": "2026-10-31",
+      "folder": "2026-10-31"
+    },
+    "2610.40613": {
+      "version": "v1",
+      "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
+      "first_seen": "2026-10-31",
+      "last_updated": "2026-10-31",
+      "folder": "2026-10-31"
+    },
+    "2610.38789": {
+      "version": "v1",
+      "title": "Complexity of Differentially Private Selection via Federated APIs",
+      "first_seen": "2026-10-31",
+      "last_updated": "2026-10-31",
+      "folder": "2026-10-31"
     }
   }
 }
