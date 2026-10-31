@@ -10788,6 +10788,76 @@
       "first_seen": "2026-10-31",
       "last_updated": "2026-10-31",
       "folder": "2026-10-31"
+    },
+    "2610.40655": {
+      "version": "v1",
+      "title": "Elucidating the Design Space of LM Data Attribution",
+      "first_seen": "2026-11-01",
+      "last_updated": "2026-11-01",
+      "folder": "2026-11-01"
+    },
+    "2610.38799": {
+      "version": "v1",
+      "title": "CARI: Cross-Boundary Adversarial Runtime Injection in Coding-Agent Workflows",
+      "first_seen": "2026-11-01",
+      "last_updated": "2026-11-01",
+      "folder": "2026-11-01"
+    },
+    "2512.05459": {
+      "version": "v4",
+      "title": "PrivCode: When Code Generation Meets Differential Privacy",
+      "first_seen": "2026-11-01",
+      "last_updated": "2026-11-01",
+      "folder": "2026-11-01"
+    },
+    "2610.40588": {
+      "version": "v1",
+      "title": "Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In",
+      "first_seen": "2026-11-01",
+      "last_updated": "2026-11-01",
+      "folder": "2026-11-01"
+    },
+    "2610.07510": {
+      "version": "v3",
+      "title": "Understanding and Enhancing Backdoor Persistency in LLM Agent Post-Training",
+      "first_seen": "2026-11-01",
+      "last_updated": "2026-11-01",
+      "folder": "2026-11-01"
+    },
+    "2610.39532": {
+      "version": "v1",
+      "title": "Judging Before Propagation: Task-Graph Contextual Integrity for Multi-Agent Privacy",
+      "first_seen": "2026-11-01",
+      "last_updated": "2026-11-01",
+      "folder": "2026-11-01"
+    },
+    "2605.05509": {
+      "version": "v2",
+      "title": "WAAA! Web Adversaries Against Web Agents",
+      "first_seen": "2026-11-01",
+      "last_updated": "2026-11-01",
+      "folder": "2026-11-01"
+    },
+    "2610.38209": {
+      "version": "v1",
+      "title": "Is it my preference? Role Grounding Attack against Agent's Memory via Social Interaction",
+      "first_seen": "2026-11-01",
+      "last_updated": "2026-11-01",
+      "folder": "2026-11-01"
+    },
+    "2610.40654": {
+      "version": "v1",
+      "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
+      "first_seen": "2026-11-01",
+      "last_updated": "2026-11-01",
+      "folder": "2026-11-01"
+    },
+    "2610.40483": {
+      "version": "v1",
+      "title": "Preserving Utility in Continual LLM Unlearning via Orthogonal Projections",
+      "first_seen": "2026-11-01",
+      "last_updated": "2026-11-01",
+      "folder": "2026-11-01"
     }
   }
 }
