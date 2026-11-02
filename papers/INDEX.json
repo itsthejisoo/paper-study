@@ -10928,6 +10928,76 @@
       "first_seen": "2026-11-02",
       "last_updated": "2026-11-02",
       "folder": "2026-11-02"
+    },
+    "2610.41998": {
+      "version": "v1",
+      "title": "SecPO: Principled Adversarial Training for Prompt Injection Security",
+      "first_seen": "2026-11-03",
+      "last_updated": "2026-11-03",
+      "folder": "2026-11-03"
+    },
+    "2610.41885": {
+      "version": "v1",
+      "title": "How Much Can Tool Calls Reveal About You? Privacy Leakage from Tool-Call Traces",
+      "first_seen": "2026-11-03",
+      "last_updated": "2026-11-03",
+      "folder": "2026-11-03"
+    },
+    "2610.41732": {
+      "version": "v1",
+      "title": "From Training Exposure to Membership Evidence: A Controlled Study of OLMo 2",
+      "first_seen": "2026-11-03",
+      "last_updated": "2026-11-03",
+      "folder": "2026-11-03"
+    },
+    "2610.41272": {
+      "version": "v1",
+      "title": "ANGLER: Verifier-Grounded Benchmarking with an Adaptive Attacker for Web Agents",
+      "first_seen": "2026-11-03",
+      "last_updated": "2026-11-03",
+      "folder": "2026-11-03"
+    },
+    "2610.41181": {
+      "version": "v1",
+      "title": "AgentShield: Fortifying Web Applications Against AI Agents and Agentic Browsers",
+      "first_seen": "2026-11-03",
+      "last_updated": "2026-11-03",
+      "folder": "2026-11-03"
+    },
+    "2610.41803": {
+      "version": "v1",
+      "title": "What Standard Evaluations Hide About Detectors of Hijacked LLM Agents: Rare Attacks, Unseen Tools and Benchmark Transfer",
+      "first_seen": "2026-11-03",
+      "last_updated": "2026-11-03",
+      "folder": "2026-11-03"
+    },
+    "2610.41713": {
+      "version": "v1",
+      "title": "Simple Features Beat Most AI Control Monitors",
+      "first_seen": "2026-11-03",
+      "last_updated": "2026-11-03",
+      "folder": "2026-11-03"
+    },
+    "2610.41480": {
+      "version": "v1",
+      "title": "KV-Cache Patching: Tracing How and Where Fine-Tuned Behaviors Arise",
+      "first_seen": "2026-11-03",
+      "last_updated": "2026-11-03",
+      "folder": "2026-11-03"
+    },
+    "2610.41307": {
+      "version": "v1",
+      "title": "Erase the Injected Region: Multimodal Prompt-Injection Defense with On-Policy Self-Distillation",
+      "first_seen": "2026-11-03",
+      "last_updated": "2026-11-03",
+      "folder": "2026-11-03"
+    },
+    "2610.41401": {
+      "version": "v1",
+      "title": "When Safety Checks Become Privacy Risks: A Privacy-Preserving Paradigm for LLM Agent Safety Auditing",
+      "first_seen": "2026-11-03",
+      "last_updated": "2026-11-03",
+      "folder": "2026-11-03"
     }
   }
 }
