@@ -11068,6 +11068,76 @@
       "first_seen": "2026-11-04",
       "last_updated": "2026-11-04",
       "folder": "2026-11-04"
+    },
+    "2611.04467": {
+      "version": "v1",
+      "title": "Is Forgetting Unified? Exploring Concept Unlearning in Unified Multimodal Models",
+      "first_seen": "2026-11-05",
+      "last_updated": "2026-11-05",
+      "folder": "2026-11-05"
+    },
+    "2611.05358": {
+      "version": "v1",
+      "title": "Suppressing Misaligned Behaviors in Language Models, Durably",
+      "first_seen": "2026-11-05",
+      "last_updated": "2026-11-05",
+      "folder": "2026-11-05"
+    },
+    "2611.04393": {
+      "version": "v1",
+      "title": "Voluntary Servitude: Weaponized Safety Warning Mechanisms for Controlling AI Agents",
+      "first_seen": "2026-11-05",
+      "last_updated": "2026-11-05",
+      "folder": "2026-11-05"
+    },
+    "2611.05344": {
+      "version": "v1",
+      "title": "A Circuit for In-Context Learning",
+      "first_seen": "2026-11-05",
+      "last_updated": "2026-11-05",
+      "folder": "2026-11-05"
+    },
+    "2611.05272": {
+      "version": "v1",
+      "title": "The Geometry of Ignorance: Detecting Suppressed Knowledge in LLMs through Activation Fragmentation",
+      "first_seen": "2026-11-05",
+      "last_updated": "2026-11-05",
+      "folder": "2026-11-05"
+    },
+    "2611.04673": {
+      "version": "v1",
+      "title": "Right Tool, Wrong Parameters: Defending LLM Agents Against Parameter Poisoning",
+      "first_seen": "2026-11-05",
+      "last_updated": "2026-11-05",
+      "folder": "2026-11-05"
+    },
+    "2611.04672": {
+      "version": "v1",
+      "title": "The Devil is in the Context: Nine Dimensions of Prompt Injection Attacks",
+      "first_seen": "2026-11-05",
+      "last_updated": "2026-11-05",
+      "folder": "2026-11-05"
+    },
+    "2611.04717": {
+      "version": "v1",
+      "title": "BrainwashedLLM: Jailbreaking via Automated Adversarial Chain of Thoughts Discovery",
+      "first_seen": "2026-11-05",
+      "last_updated": "2026-11-05",
+      "folder": "2026-11-05"
+    },
+    "2611.04803": {
+      "version": "v1",
+      "title": "Extracting System Prompt of LLM Services in Complex (Agentic) Settings: Hierarchical Optimization and Reliable Evaluation Metrics",
+      "first_seen": "2026-11-05",
+      "last_updated": "2026-11-05",
+      "folder": "2026-11-05"
+    },
+    "2611.04299": {
+      "version": "v1",
+      "title": "Can Benign Skills Induce Misaligned Behavior in LLM Agents?",
+      "first_seen": "2026-11-05",
+      "last_updated": "2026-11-05",
+      "folder": "2026-11-05"
     }
   }
 }
