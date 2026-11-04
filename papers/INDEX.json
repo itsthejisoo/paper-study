@@ -10998,6 +10998,76 @@
       "first_seen": "2026-11-03",
       "last_updated": "2026-11-03",
       "folder": "2026-11-03"
+    },
+    "2611.01976": {
+      "version": "v1",
+      "title": "Beyond Prompt Injection: The Tool Update Gap in LLM Agent Security",
+      "first_seen": "2026-11-04",
+      "last_updated": "2026-11-04",
+      "folder": "2026-11-04"
+    },
+    "2611.01953": {
+      "version": "v1",
+      "title": "Step-Zero Attack: Agent Safety Before Observability",
+      "first_seen": "2026-11-04",
+      "last_updated": "2026-11-04",
+      "folder": "2026-11-04"
+    },
+    "2611.03575": {
+      "version": "v1",
+      "title": "VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably",
+      "first_seen": "2026-11-04",
+      "last_updated": "2026-11-04",
+      "folder": "2026-11-04"
+    },
+    "2611.03223": {
+      "version": "v1",
+      "title": "Do Agents Still Follow the Rules? Benchmarking Rule Compliance under Agent Context Compaction",
+      "first_seen": "2026-11-04",
+      "last_updated": "2026-11-04",
+      "folder": "2026-11-04"
+    },
+    "2611.02815": {
+      "version": "v1",
+      "title": "Predictive Safety Guardrails Do Not Always Make LLM Agents Safer",
+      "first_seen": "2026-11-04",
+      "last_updated": "2026-11-04",
+      "folder": "2026-11-04"
+    },
+    "2611.01620": {
+      "version": "v1",
+      "title": "Chain-of-Thought Oversight Requires Separate Evidence for Faithfulness and Monitorability",
+      "first_seen": "2026-11-04",
+      "last_updated": "2026-11-04",
+      "folder": "2026-11-04"
+    },
+    "2611.03198": {
+      "version": "v1",
+      "title": "Written Once, Read Differently How Language Models Own Answers Steer Their Next Ones",
+      "first_seen": "2026-11-04",
+      "last_updated": "2026-11-04",
+      "folder": "2026-11-04"
+    },
+    "2611.03555": {
+      "version": "v1",
+      "title": "MCP Tool Poisoning in Agentic AI Frameworks: A Cross-Framework Measurement Study",
+      "first_seen": "2026-11-04",
+      "last_updated": "2026-11-04",
+      "folder": "2026-11-04"
+    },
+    "2611.01342": {
+      "version": "v1",
+      "title": "J-Anchor: Defending Against Prefill Attacks via J-Space Selective Refusal Restoration",
+      "first_seen": "2026-11-04",
+      "last_updated": "2026-11-04",
+      "folder": "2026-11-04"
+    },
+    "2611.03518": {
+      "version": "v1",
+      "title": "VIAS: Value-Isolating Activation Steering for Multi-Value Alignment and Compliance for Organisations",
+      "first_seen": "2026-11-04",
+      "last_updated": "2026-11-04",
+      "folder": "2026-11-04"
     }
   }
 }
