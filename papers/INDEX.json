@@ -10846,10 +10846,10 @@
       "folder": "2026-11-01"
     },
     "2610.40654": {
-      "version": "v1",
+      "version": "v2",
       "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
       "first_seen": "2026-11-01",
-      "last_updated": "2026-11-01",
+      "last_updated": "2026-11-06",
       "folder": "2026-11-01"
     },
     "2610.40483": {
@@ -10923,10 +10923,10 @@
       "folder": "2026-11-02"
     },
     "2610.39509": {
-      "version": "v1",
+      "version": "v3",
       "title": "Systematic Evaluation of Adversarial Jailbreaking Attacks and Defenses Across Seven Large Language Models",
       "first_seen": "2026-11-02",
-      "last_updated": "2026-11-02",
+      "last_updated": "2026-11-06",
       "folder": "2026-11-02"
     },
     "2610.41998": {
@@ -11138,6 +11138,62 @@
       "first_seen": "2026-11-05",
       "last_updated": "2026-11-05",
       "folder": "2026-11-05"
+    },
+    "2610.40516": {
+      "version": "v1",
+      "title": "How I Aligned Your Model: Scaling Up Multilingual Safety Training with Templates",
+      "first_seen": "2026-11-06",
+      "last_updated": "2026-11-06",
+      "folder": "2026-11-06"
+    },
+    "2611.06039": {
+      "version": "v1",
+      "title": "Securing Web Agents with the Compile-Then-Execute Paradigm",
+      "first_seen": "2026-11-06",
+      "last_updated": "2026-11-06",
+      "folder": "2026-11-06"
+    },
+    "2611.06100": {
+      "version": "v1",
+      "title": "Reconciling Privacy with Provenance for Language Model Watermarks",
+      "first_seen": "2026-11-06",
+      "last_updated": "2026-11-06",
+      "folder": "2026-11-06"
+    },
+    "2611.06585": {
+      "version": "v1",
+      "title": "Signed, Sealed, Leaked: Trust Beyond Signature for MCP Toolchains",
+      "first_seen": "2026-11-06",
+      "last_updated": "2026-11-06",
+      "folder": "2026-11-06"
+    },
+    "2611.06138": {
+      "version": "v1",
+      "title": "KVGuard: A KV Cache Safety Checker for LLM Serving Systems",
+      "first_seen": "2026-11-06",
+      "last_updated": "2026-11-06",
+      "folder": "2026-11-06"
+    },
+    "2611.05781": {
+      "version": "v1",
+      "title": "Timing is Everything: Inferring Temporal Membership in Continually Updated Models",
+      "first_seen": "2026-11-06",
+      "last_updated": "2026-11-06",
+      "folder": "2026-11-06"
+    },
+    "2611.05716": {
+      "version": "v1",
+      "title": "How Much Do Modern Embeddings Reveal? Inversion Attacks on Commercial Embedding Models",
+      "first_seen": "2026-11-06",
+      "last_updated": "2026-11-06",
+      "folder": "2026-11-06"
+    },
+    "2611.06553": {
+      "version": "v1",
+      "title": "Addition by Subtraction: Toward Mitigating Fragile Safety Alignment in Large Language Models",
+      "first_seen": "2026-11-06",
+      "last_updated": "2026-11-06",
+      "folder": "2026-11-06"
     }
   }
 }
